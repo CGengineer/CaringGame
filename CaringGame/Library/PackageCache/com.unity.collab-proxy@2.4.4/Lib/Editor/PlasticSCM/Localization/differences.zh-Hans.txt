@@ -1,0 +1,44 @@
+== Diff ==
+差：
+
+== BasePosition ==
+基文件上的位置：
+
+== CompPosition ==
+被比文件上的位置：
+
+== OldData ==
+旧数据：
+
+== NewData ==
+新数据：
+
+== Type ==
+型：
+
+== NullBaseFile ==
+BaseFile 不能 null。
+
+== NullCompareFile ==
+CompareFile 不能 null。
+
+== DiffNotSolutionFound ==
+无法找到解决方案。无法算差收集。
+
+== NotValidFileConflictType ==
+无效的冲突型。
+
+== NullFilePath ==
+文件路径不能 null。
+
+== NullFileHash ==
+文件哈希不能 null。
+
+== InvalidDifferenceType ==
+参数型必是 differenceType 定的有效元素。
+
+== TooManyDifferences ==
+文件之的差太多，没有足的源来完成操作。置其他比方法以少差数量。
+
+== NotDefinedFSProtection ==
+未定

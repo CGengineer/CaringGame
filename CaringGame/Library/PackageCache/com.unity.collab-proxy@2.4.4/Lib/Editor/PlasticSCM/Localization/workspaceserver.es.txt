@@ -1,0 +1,11 @@
+== NotChange ==
+El ’Ltem {0} no est’@ cambiado en el workspace actual
+
+== CannotMergeMergeInProgress ==
+Un nuevo merge no puede empezar porque hay ya un merge en progreso: Final’Lzalo antes de iniciar uno nuevo. Merge en progreso: {0} desde el changeset {1}
+
+== CannotUndoAdded ==
+No puede deshacerse el a’Padido '{0}' porque contiene cambios no a’Padidos
+
+== CannotUndoCopied ==
+No puede deshacerse el copiado de un directorio con contenido

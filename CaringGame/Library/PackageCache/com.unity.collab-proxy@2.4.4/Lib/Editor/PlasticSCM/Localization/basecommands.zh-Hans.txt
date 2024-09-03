@@ -1,0 +1,2534 @@
+== WrongRevFormat3D ==
+指定的修格式无效
+
+== AcceptResults ==
+是否要接受些果？(Y/N)： 
+
+== ActivatedUsers ==
+活用数：     {0}
+
+== ActiveKey ==
+活
+
+== Add ==
+控制是否可以将文件和目添加到存
+
+== AddAndMove ==
+添加/移冲突
+
+== AddMoveConflictAction1 ==
+保留更改，将目重命名
+
+== AddMoveConflictAction2 ==
+保留源更改（保留添加并放弃移）
+
+== AddMoveConflictAction3 ==
+保留目更改（保留移并放弃添加）
+
+== AddNotApplicable ==
+新无法加到工作区中。可能的原因是路径已被使用。卸（从配置中），然后重操作。
+
+== Added ==
+已添加
+
+== AddedMovedConflictDestinationOperation ==
+已从 {0} 移到 {1}
+
+== AddedMovedConflictExplanation ==
+一个在源上已添加，而一个在目上已移至同一位置。
+
+== AddedMovedConflictSourceOperation ==
+已添加 {0}
+
+== AddedOldNameConflict ==
+添加了一个名称已被使用的。
+
+== AddedSameNameConflict ==
+添加了个同名的
+
+== AdminReadonlyEntered ==
+服器已入只模式。
+
+== AdminReadonlyEntering ==
+服器正在入只模式。稍候。
+
+== AdminReadonlyLeaving ==
+服器正在退出只模式。稍候。
+
+== AdminReadonlyLeft ==
+服器已退出只模式。
+
+== Advancedquery ==
+控制高行程
+
+== All ==
+全部
+
+== AllowedKey ==
+已允
+
+== AlsoThreeOption ==
+可以：3. 将目重命名新的名称
+
+== AncestorContributor ==
+上更集：{0}（分支 {1}）
+
+== AppliedRename ==
+本地重命名 {0} -> {1} 将生效。
+
+== Applyattr ==
+允用用属性
+
+== Applylabel ==
+允用用
+
+== AskDeleteWorkspace ==
+未指定工作区。是否要除当前工作区？(Y/N)： 
+
+== AskDeleteDynamicWorkspace ==
+The workspace is dynamic. You will LOSE all of the private items in the workspace if you delete it. Do you want to continue? (Y/N): 
+
+== AttValueField ==
+属性
+
+== AvailableUsers ==
+可用用数：  {0}
+
+== BinFileMetadataChangeset ==
+更集：{0}
+
+== BinFileMetadataCreated ==
+建者：{0}
+
+== BinFileMetadataModified ==
+修改日期：{0}
+
+== BinFileMetadataSize ==
+大小：{0}
+
+== BisyncAutoLinkedCommentFormat ==
+已自接更集 {0} 和 {1}
+
+== BisyncBranchAttributeError ==
+分支属性的格式不正
+
+== BisyncBranchBothChanges ==
+分支 '{0}' 具有新的本地和外部更改 {1}
+
+== BisyncBranchExcluded ==
+- {0}：已排除
+
+== BisyncBranchForeignChanges ==
+- {0}：外部更改 {1}
+
+== BisyncBranchLocalChanges ==
+- {0}：本地更改 {1}
+
+== BisyncBranchMappedNotFound ==
+找不到映射到引用 '{1}' 的分支 '{0}'。
+
+== BisyncBranchUpToDate ==
+- {0}：最新 {1}
+
+== BisyncBranches ==
+分支
+
+== BisyncBranchesInSync ==
+分支已同。没有要推送或拉取的更集。
+
+== BisyncChangesetNotTranslated ==
+无法更集 {0}
+
+== BisyncChangesetsInvolved ==
+及的更集
+
+== BisyncChangesetsNotSorted ==
+要推送的更集无法正排序
+
+== BisyncCheckCommit ==
+提交 
+
+== BisyncCommitCheckFailed ==
+提交已失
+
+== BisyncCommitDiscarded ==
+已入提交 '{0}'。
+
+== BisyncCommitNotFound ==
+在 Plastic 中找不到引用的提交 {0}
+
+== BisyncCommitedForeignChanges ==
+提交的外部更集 {0}（Plastic 更集：{1}）
+
+== BisyncCommitsCannotBeProcessed ==
+有无法理的提交
+
+== BisyncComplete ==
+已完成同
+
+== BisyncCompressing ==
+象
+
+== BisyncConflictBranches ==
+包含冲突的分支
+
+== BisyncConnectException ==
+接到 Git 生了：{0}
+
+== BisyncCsetNotFoundWithGuid ==
+找不到 GUID  {0} 的最后一个同的更集
+
+== BisyncCtrlCDetected ==
+已按下 Ctrl+C。等到当前更集已同，以防止数据不匹配。此后，操作将正常停止。
+
+== BisyncDownloading ==
+下
+
+== BisyncDownloadingMappings ==
+从服器升映射
+
+== BisyncErrorPushingCs ==
+推送 cs:{0} 出。{1}\n{2}
+
+== BisyncExportComplete ==
+
+出完成。
+
+== BisyncExportedToCommit ==
+已出 cs:{0} 以供提交 ({1})
+
+== BisyncExporting ==
+出
+
+== BisyncForeignTreeNotRetrieved ==
+无法索 rev:{0} 的外部
+
+== BisyncGetfileNotValid ==
+Git 拉取程序不支持按路径行的 GetFile 方法
+
+== BisyncGettingInfo ==
+接收引用
+
+== BisyncGettingInfoDone ==
+从程服器接收引用，完成
+
+== BisyncInvalidCredentials ==
+存引入的凭据无效
+
+== BisyncInvalidNodeType ==
+点型无效
+
+== BisyncInvalidScm ==
+指定的 SCM 无效
+
+== BisyncItemDiscardedWithoutRevid ==
+哈希 '{1}' 的 '{0}' 没有 revid 映射，因此将被弃。
+
+== BisyncLastCsetForeign ==
+外部 SCM 上的最新更集：{0}
+
+== BisyncLastEquivalenceFound ==
+找到最后的等效：{0}
+
+== BisyncLfsException ==
+ GitHub LFS 出：{0}。可使用 '--skipgitlfs' 从命令行 (cm sync) 禁用 Git LFS 支持。
+
+== BisyncNoChangesPull ==
+没有新的修可从外部 SCM 拉取
+
+== BisyncNoSettingsMultipleStore ==
+尚未指定同置，并存 {0} 存了多个置。指定要同的 Git 存。
+
+== BisyncNoSettingsNoStore ==
+尚未指定同置，并没有分支/存 {0} 存任何置
+
+== BisyncNothingToCommit ==
+没有任何可提交的内容！
+
+== BisyncObjectCount ==
+象数
+
+== BisyncPackaging ==
+正在打包...
+
+== BisyncPendingChanges ==
+有要推送和拉取的更改。
+
+== BisyncPendingChangesExplanation ==
+将拉取程更改，然后需要合并些更改并将更改推回。
+
+== BisyncProcessingObjects ==
+理象：
+
+== BisyncPullComplete ==
+拉取完成。
+
+== BisyncPullCsetList ==
+正在要拉取的更集行数...
+
+== BisyncPullingChangesets ==
+入
+
+== BisyncPushCsetList ==
+有要推送的更改。
+
+== BisyncPushErrors ==
+推送某些引用已失：
+
+== BisyncReferenceWithoutSha ==
+无法理没有 SHA 的引用
+
+== BisyncRemoteDeletedSkip ==
+分支 '{0}' 已在程存中除，并将被跳。
+
+== BisyncRemoteError ==
+
+      程：{0}
+    
+
+== BisyncRemoteMappingSkip ==
+分支 '{0}' 来自程映射，并将被跳。
+
+== BisyncResults ==
+果：
+
+== BisyncRevisionDiscardedNotRetrieved ==
+无法索 SHA  '{1}' 的已映射修 {0}，因此将被弃
+
+== BisyncSettingsNotMatch ==
+引入的置与分支/存 {0} 的已存置不匹配。存的置：{1}。映射存在此：{2}。用于高用：可以除些映射并重新行操作。
+
+== BisyncShaNotFound ==
+找不到 revid:{0} 的 SHA
+
+== BisyncShaNotValid ==
+要理的 SHA 无效
+
+== BisyncSyncStatusSaved ==
+已保存同状：Plastic 更集 {0} -> {1} 提交 {2}
+
+== BisyncTagCannotBeApplied ==
+无法用修 '{1}' 的 '{0}'。
+
+== BisyncTreeNotRetrieved ==
+无法索 cs:{0} 的
+
+== BisyncTypeWithoutBuilder ==
+Git 型 {0} 没有生成器
+
+== BisyncUploadComplete ==
+上完成。
+
+== BisyncUploading ==
+正在上... 
+
+== BisyncWarnPushingCs ==
+推送 cs:{0} 警告。{1}\n{2}
+
+== BisyncWrongBranchName ==
+的分支名称
+
+== BisyncWrongFileFormat ==
+文件 '{0}' 坏。行 '{1}' 的格式。
+
+== Branch ==
+分支
+
+== BranchHistoryEntryBase ==
+基更集（隔合并）：{0}
+
+== BranchHistoryEntryDate ==
+日期：{0}
+
+== BranchHistoryEntryDestination ==
+目更集：{0}
+
+== BranchHistoryEntryMergeType ==
+合并型：{0}
+
+== BranchHistoryEntryOwner ==
+所有者：{0}
+
+== BranchHistoryEntrySource ==
+源更集：{0}
+
+== BranchHistoryEntryType ==
+型：{0}
+
+== CalculatingInitialChangeset ==
+正在算初始更集
+
+== CannotBeDeletedChanged ==
+无法在磁上除 '{0}'，因它已更改。
+
+== CannotBeDownloadChanged ==
+无法以新内容更新文件 '{0}'，因它已在本地更改。
+
+== CannotChangeRepoPartialSwitch ==
+“partial switch”命令无法更改工作区中配置的存。从分支格中除存格。
+
+== CannotCheckinIncomingChangesInProgress ==
+正在行“入更改”操作无法入。先完成此操作，再重入。
+
+== CannotCheckinMergeInProgress ==
+无法始入操作，因正在行合并：在完成合并之后再入更改。正在从更集 {1} 行合并：{0}
+
+== CannotDeleteChangesetWithPendingChanges ==
+在有待定更改，无法除当前工作区分支中的更集。
+
+== CannotDownloadRevision ==
+无法从服器下修 {0}：{1}
+
+== CannotMakeTube ==
+无法建 Tube。{0}
+
+== CannotMoveChangesetWithPendingChanges ==
+在有待定更改，无法移当前工作区分支中的更集。
+
+== CannotRemoveTube ==
+无法除 Tube。{0}
+
+== CannotRestoreDeleteWithChangesInside ==
+无法原 '{0}'，因在除中包含更改。撤待定更改，并在没有待定更改的情况下或使用其他冲突解决方案再次行合并。
+
+== CannotStartTubeSession ==
+无法 Plastic Tube 会。{0}
+
+== CannotUnlockItems ==
+无法解以下，因当前用既不是管理，也不是 {0} 的所有者
+
+== CantExecuteAdvQuery ==
+无法行。当前的目可能是私有目。
+
+== Change ==
+控制是否可以在存中修改文件和目
+
+== ChangeBoth ==
+必重命名个元素
+
+== ChangeDelete ==
+更改/除冲突
+
+== ChangeDeleteConflictActions11 ==
+保留源更改（保留添加并放弃除）
+
+== ChangeDeleteConflictActions12 ==
+保留目更改（保留除并放弃添加）
+
+== ChangeDeleteConflictActions21 ==
+保留源更改（保留更改并放弃除）
+
+== ChangeDeleteConflictActions22 ==
+保留目更改（保留除并放弃更改）
+
+== ChangeDeleteConflictDestinationOperation ==
+已除 {0}
+
+== ChangeDeleteConflictExplanation ==
+一个在源上{0}，且目已除或其父
+
+== ChangeDependencies ==
+更改：{0}。依：
+
+== ChangeReviewNotFound ==
+无法找到以下更改求（在入注中指定），或者已在以前的更集内用了以下更改求：{0}{1}
+
+== Changecomment ==
+允用更改注
+
+== Changed ==
+已更改
+
+== ChangelistBuiltIn ==
+内置
+
+== ChangelistCherryPickSubtractive ==
+法挑
+
+== ChangelistCherryPicking ==
+挑
+
+== ChangelistDefaultComment ==
+默 Unity VCS 更改列表
+
+== ChangelistHiddenComment ==
+包含用定的藏更改的更改列表
+
+== ChangelistIntervalCherryPick ==
+隔挑
+
+== ChangelistIntervalCherryPickSubtractive ==
+法隔挑
+
+== ChangelistManagementChanged ==
+已成功更改列表 '{0}'。
+
+== ChangelistManagementCreated ==
+已建更改列表 '{0}'。
+
+== ChangelistManagementDeleted ==
+已成功除更改列表 '{0}'。
+
+== ChangelistMerge ==
+合并
+
+== ChangelistMergeComment ==
+受合并程影的文件
+
+== ChangelistMergeName ==
+{0}（从 cs:{1}）
+
+== Changeset ==
+更集
+
+== CheckedOutKey ==
+已出
+
+== CheckinParallelMsg ==
+多程入
+
+== RemainingMsg ==
+剩余
+
+== CheckinParallelUploadNumThreads ==
+正在并行上 {0} 个
+
+== CheckinProgressUploadingFileData ==
+正在将文件 {0} ({1}) 上到存
+
+== CheckinStatusCancelling ==
+正在取消入操作
+
+== CheckinStatusConfirming ==
+正在入操作
+
+== CheckinStatusFinished ==
+已完成入
+
+== CheckinStatusGeneratingdata ==
+正在整合入数据
+
+== CheckinStatusRestoringpermissions ==
+正在恢文件
+
+== CheckinStatusStarting ==
+入操作始...
+
+== CheckinStatusUploading ==
+正在上文件数据
+
+== CheckinStatusValidating ==
+正在入数据
+
+== CheckoutCannotBeSaved ==
+无法保存 {0} 的内容。
+
+== CherryPick ==
+挑
+
+== Chgowner ==
+控制更改所有者操作
+
+== Chgperm ==
+控制更改限操作
+
+== ChooseResolution ==
+此冲突一个解决方案。要保留个操作？
+
+== Ci ==
+控制入操作
+
+== CleanDiffCalcMerges ==
+正在算到分支 br:{0}@{1}@{2} 的合并
+
+== CleanDiffNotifyFinish ==
+已跳合并中的差
+
+== CleanDiffNotifyTotal ==
+正在跳 {0} 个更集（合并目）中的差
+
+== CleanDiffProcessCset ==
+已跳 cs:{0}@{1}@{2} 中的差
+
+== Cloaked ==
+已掩蔽
+
+== CloneDstRepositoryAlreadyExists ==
+目存 '{0}' 已存在且空。
+
+== CloneDstRepositoryCreated ==
+已建目存 '{0}'。
+
+== CmUndoIncompatibleFlags ==
+志 '--silent' 和 '--machinereadable' 不兼容。
+
+== CmdArchiveErrorRestore ==
+原存档数据出。注意，只允 Unity VCS 服器管理原档数据。{0}
+
+== CmdAskMkworkspaceConfirmdeletedir ==
+目 {0} 将被除。是否定 [Y|N]：
+
+== CmdCannotBePerformedInPartialWk ==
+工作区 Gluon 格式，需要“准”格式。只需行一次更新即可修
+
+== CmdCannotBePerformedInStandardWk ==
+工作区不是 Gluon 格式。只需行一次更新即可修。工作区当前是“准”工作区（也是从常 Unity VCS 中使用工作区的）。从 Gluon 行更新以行修（或使用 cm partial）
+
+== CmdErrorAclNoSuchUserOrGroup ==
+没有此用或
+
+== CmdErrorCannotMoveDynamicWk ==
+无法移工作区。
+
+== CmdErrorGetfileCantWriteOutput ==
+：路径 {0} 遭拒，因文件是只的
+
+== CmdErrorGetfileRevnotfound ==
+找不到指定的修 {0}
+
+== CmdErrorIncorrecBrspec ==
+不正的分支格
+
+== CmdErrorIncorrecWkspec ==
+不正的工作区格
+
+== CmdErrorIncorrectCodeReviewId ==
+不正的代 ID：{0}
+
+== CmdErrorLabelIncorrectrevspec ==
+不正的修格：{0}
+
+== CmdErrorLabelItemNotFound ==
+无法用 {0}。是私有的。
+
+== CmdErrorLabelMarkerspecnotfound ==
+无法找到指定的格。{0}
+
+== CmdErrorListrepRepserverunknown ==
+未知的存服器
+
+== CmdErrorMergeWithModifiedItems ==
+
+    有待定更改需要入的工作区。
+    建在合并之前入，以免在撤合并
+    可能生。
+
+    如果熟悉合并，可以通向“client.conf”文件添加以下
+    来禁用此行：
+
+        <MergeWithPendingChanges>yes</MergeWithPendingChanges>
+
+    注意：我更改了此行以避免新用遇到，但是如果熟悉
+    合并的工作原理，那用功能并不危。
+    
+
+== CmdErrorNoSuchBranch ==
+分支 {0} 在存 {1} 中不存在。
+
+== CmdErrorNoSuchTypeTrigger ==
+型 {0} 无效。注意，其格式“子型-型”。
+
+== CmdErrorNoSuchUser ==
+用 {0} 不存在
+
+== CmdErrorNoSuchUserDuCommandHint ==
+也必使用志“--nosolveuser”来停用在身系中不再存在的用。
+
+== CmdErrorNoWkFoundFor ==
+无法找到 {0} 的工作区
+
+== CmdErrorNotLocateItemhandler ==
+无法找到有效的 ItemHandler。
+
+== CmdErrorRevertRevnotfound ==
+找不到要原到的指定修：{0}
+
+== CmdErrorUndocheckoutCantfindrev ==
+无法找到指定的修 {0}
+
+== CmdErrorUndocheckoutIdNotCheckedout ==
+未出指定的修 {0}
+
+== CmdErrorUndocheckoutIncorrectspec ==
+无效的出格：{0}
+
+== CmdErrorUpdateProcessingItem ==
+更新 {0} 出。{1}
+
+== CmdErrorWkNotCreatedOnServer ==
+无法建工作区
+
+== CmdMandatoryParameter ==
+{0}：缺少需要的参数 {1}
+
+== CmdMessageAddIgnoredError ==
+无法添加 {0}。：{1}
+
+== CmdMessageAddItemadded ==
+已正添加 {0}
+
+== CmdMessageCiIgnoredError ==
+无法入 {0}。：{1}
+
+== CmdMessageItemcheckout ==
+已正出 {0}
+
+== CmdMessageManipulateselectorNoselector ==
+未指定器。
+
+== CmdMessageMkworkspaceCorrectlycreated ==
+已正建工作区 {0}
+
+== CmdMessageMkworkspaceDynamicWaitToMount ==
+plasticfs 可能需要花几秒来装入新工作区
+
+== CmdMessageMkworkspaceDynamicRequiredParams ==
+建工作区，必同指定 '--dynamic' 和 '--tree=[tree]' 参数。看 'cm workspace create --help' 以了解更多信息。
+
+== CmdMessageNoworkspacesfound ==
+此机器中没有工作区。
+
+== CmdMessageNoworkspacesfoundInPath ==
+在路径 {0} 中尚未找到工作区。
+
+== CmdMessageProceedAdd ==
+即将添加所。稍候...
+
+== CmdMessageProceedCheckdb ==
+数据完整性可能需要一些。稍候...
+
+== CmdMessageProceedCheckin ==
+即将入所。稍候...
+
+== CmdMessageProceedCheckout ==
+即将出所。稍候...
+
+== CmdMessageRemoveItem ==
+已除 {0}。
+
+== CmdMessageShowselectorNoselector ==
+此工作区中没有可用的器
+
+== CmdMessageWorkspacedeleted ==
+已除工作区 {0}。
+
+== CmdMktriggerPosition ==
+在位置 {0} 上已建触器。
+
+== CmdMoved ==
+{0} 已移到 {1}
+
+== CmdMsgCopiedFromRep ==
+已从 {1} 下 {0}
+
+== CmdMsgCreateDir ==
+已建目 {0}
+
+== CmdMsgFileAlreadyExistsInWk ==
+文件 {0} 在工作区中已存在
+
+== CmdMsgFileChangedInWk ==
+文件 {0} 在工作区中已更改。不会覆盖。
+
+== CmdMsgFileChangedInWkToRm ==
+文件 {0} 在工作区中已更改。不会除。
+
+== CmdMsgFileDateNotChangedInWk ==
+文件 {0} 的日期在工作区中已修改
+
+== CmdMsgItemCantLabelNoLabelOnRep ==
+修 {0} 所在的存不包含
+
+== CmdMsgLabelCantLabelOtherRep ==
+修 {0} 与所不在同一存中
+
+== CmdMsgLabelCorrectlyLabeled ==
+已正更集 {0}。
+
+== CmdMsgLsNotloaded ==
+未加
+
+== CmdMsgMergeCannotmergecloaked ==
+不会合并元素 {0}，因它已被掩蔽。
+
+== CmdMsgMergeCannotmergedir ==
+已放弃合并元素 {0}，因在合并程中已除元素。
+
+== CmdMsgMergeCannotmergefile ==
+已放弃合并元素 {0}，因在合并程中已除元素。
+
+== CmdMsgMergeDone ==
+合并完成
+
+== CmdMsgMergeGoingtocopymerge ==
+正在制合并 {0}
+
+== CmdMsgMergeGoingtomerge ==
+正在合并 {0}
+
+== CmdMsgMergeInvalidinterval ==
+所更集隔无效
+
+== CmdMsgMergeMergingmoveddir ==
+目 {0} 已移到 {1} 并且正在合并
+
+== CmdMsgMergeMergingmovedfile ==
+文件 {0} 已移到 {1} 并且即将合并
+
+== CmdMsgMergeNomergesdetected ==
+未到合并
+
+== CmdMsgMergeNotconnected ==
+必接合并源和目才能行法合并
+
+== CmdMsgNocheckoutsfound ==
+尚未找到出
+
+== CmdMsgNopathfound ==
+无法解析路径
+
+== CmdMsgRenaming ==
+正在将 {0} 重命名 {1}
+
+== CmdMsgUpdateStoringCheckout ==
+正在存 {0} 的已出数据
+
+== CmdMsgUpdateWontOverwriteCo ==
+更新不会覆盖已出文件。{0}
+
+== CmdMsgWkinfo ==
+工作区 {0} 的器：
+
+== CmdMsgWontOverwriteCheckout ==
+不会覆盖已出文件。{0}
+
+== CmdNoLicensedUsers ==
+没有活用。用在系上行第一个操作便被激活。
+
+== CmdPatchRequiresDiff ==
+找不到差比工具，从以下网址行下：
+http://gnuwin32.sourceforge.net/packages/diffutils.htm
+
+安装后，将其添加到 PATH 境量中，或使用
+--tool 参数指定 diff.exe 的位置。
+
+== CmdPatchRequiresPatch ==
+找不到丁，从以下网址行下：
+http://gnuwin32.sourceforge.net/packages/patch.htm 
+
+安装后，将其添加到 PATH 境量中，或使用
+--tool 参数指定 patch.exe 的位置。
+
+== CmdRepServerResultCheckdb ==
+存服器：{0}
+
+== CmdRepoResultCheckdb ==
+存：{0}
+
+== CmdSetselectorEndwithdot ==
+正在从 stdin 取器配置，在一行中以“.”尾
+
+== CmdStatusIncompatibleOptionsShortAndXml ==
+--short 和 --xml 不能一起使用，因 --short 不会加的状信息。
+
+== CmdUnchangeDone ==
+{0} 撤更改完成。
+
+== CmdUncheckedOut ==
+{0} 已正取消出
+
+== CmdUnexpectedOption ==
+{0}：意外 {1}
+
+== CmdUpdated ==
+{0} 已正更新
+
+== CommandFinishedSuccesfully ==
+已成功完成命令
+
+== Comment ==
+注
+
+== Committing ==
+入
+
+== Configlocks ==
+允添加新的定
+
+== ConfirmNewPassword ==
+密： 
+
+== ConnectTubeSucceeded ==
+Unity VCS 服器 ({0}) 已成功接到 Plastic Tube。
+
+== ConnectionFail ==
+接在接到 Unity VCS 服器遇到
+
+== ConnectionOk ==
+已成功行接
+
+== ContinueSolving ==
+{0} 个剩余冲突，是否要解决冲突？(Y/N)： 
+
+== ContinueWithPendingChangesQuestion ==
+的工作区中有已更改的文件。可以取消切操作以便已更改的文件，也可以行操作。如果行切操作，已更改的文件将不会失，并在切操作后仍将示已更改。是否要行切操作？(y/n)
+
+== Controlled ==
+已控制
+
+== Copied ==
+已制（新）
+
+== CopiedCannotBeApplied ==
+无法制 '{0}'，因有：'{1}'。
+
+== CopyMergeIsRealMerge ==
+ {0} 当前已加到工作区中，因此需要其行合并而不是制合并。
+
+== CopyMergeNeeded ==
+在 {1} 中的 {0} 上需要行制合并
+
+== CopyMergePromoted ==
+ {0} 的制合并已升合并
+
+== CopyingMergeFiles ==
+正在制合并文件...
+
+== CreatedChangesetNumber ==
+已建更集 {0}
+
+== CreatedOn ==
+建
+
+== CreatedShelveNumber ==
+已建置 {0}
+
+== CsetNumber ==
+更集号
+
+== CurrentOutputDirectory ==
+当前出目
+
+== CycleMove ==
+循移冲突
+
+== CycleMoveConflictActions1 ==
+保留源上完成的移（放弃目上的移）
+
+== CycleMoveConflictActions2 ==
+保留目上完成的移（放弃源上的移）
+
+== CycleMoveConflictDestinationOperation ==
+已从 {0} 移到 {1}
+
+== CycleMoveConflictExplanation ==
+个已在源和目上移并生冲突，因它形成了一个循。
+
+== CycleMoveConflictSourceOperation ==
+已从 {0} 移到 {1}
+
+== DataWritten ==
+已写入数据
+
+== DefaultFormatDiffmetrics ==
+已更改：{0}  已添加：{1}  已除：{2}
+
+== DeleteAndChange ==
+除/更改冲突
+
+== DeleteAndMove ==
+除/移冲突
+
+== DeleteChangeConflictActions11 ==
+保留源更改（保留除并放弃添加）
+
+== DeleteChangeConflictActions12 ==
+保留目更改（保留添加并放弃除）
+
+== DeleteChangeConflictActions21 ==
+保留源更改（在目上保留除并放弃更改）
+
+== DeleteChangeConflictActions22 ==
+保留目更改（保留更改并放弃除）
+
+== DeleteChangeConflictExplanation ==
+一个在源上已除，且目{0}它。
+
+== DeleteChangeConflictSourceOperation ==
+已除 {0}
+
+== DeleteChangesetDiscardAllChangesNotInteractive ==
+有人除了正在理的更集。
+意味着的出和本地更改不再有效。
+
+是因自基更集消失之后，在无法找到的更改。
+
+需要撤所有更改并更新工作区以恢有效配置。
+如果以交互方式（即不使用 stdin 重定向）行命令，可以此目的。
+
+== DeleteChangesetDiscardAllChangesQuestion ==
+有人除了正在理的更集。
+意味着的出和本地更改不再有效。
+
+是因自基更集消失之后，在无法找到的更改。
+
+是否要撤所有更改并更新工作区以恢有效配置？(y/n)
+
+== DeleteDelete ==
+除警告
+
+== DeleteDeleteConflictDestinationOperation ==
+已除 {0}
+
+== DeleteDeleteConflictSourceOperation ==
+已除 {0}
+
+== DeleteDeleteWarningMessage ==
+已弃此，因在源和目上均已将其除
+
+== DeleteMoveConflictActions1 ==
+保留源更改（保留除并放弃移）
+
+== DeleteMoveConflictActions2 ==
+保留目更改（保留移并放弃除）
+
+== DeleteMoveConflictDestinationOperation ==
+已从 {0} 移到 {1}
+
+== DeleteMoveConflictExplanation ==
+一个在源上已除，且在目上已移。
+
+== DeleteMoveConflictSourceOperation ==
+已除 {0}
+
+== DeleteNotApplicable ==
+无法将卸，因无法在工作区中找到。的工作区可能已坏。系支持人。 
+
+== DeletePrivateDeletesSummary ==
+已除 {0} 个文件和 {1} 个目。
+
+== DeletePrivateDirectoryFailed ==
+无法除受控目：{0}
+
+== DeletePrivateDryrun ==
+注意：是行。未除文件。
+
+== DeletePrivateFailuresSummary ==
+无法除 {0} 个文件和 {1} 个目。
+
+== DeletePrivateFileFailed ==
+无法除受控文件：{0}
+
+== DeletePrivateSkipControlledDir ==
+已跳受控目：{0}
+
+== DeletePrivateSkipControlledFile ==
+已跳受控文件：{0}
+
+== DeletePrivateSkipIgnoredDir ==
+已跳已忽略目：{0}
+
+== DeletePrivateSkipIgnoredFile ==
+已跳已忽略文件：{0}
+
+== DeletePrivateSkipMissingFileOrDirectory ==
+已跳缺失文件或目：{0}
+
+== Deleted ==
+已除
+
+== DeletedPrivateDirectory ==
+已除目：{0}
+
+== DeletedPrivateFile ==
+已除文件：      {0}
+
+== DeniedKey ==
+已拒
+
+== DependenciesApplyLocalChanges ==
+用本地更改
+
+== DependenciesCheckin ==
+入
+
+== DependenciesDescription ==
+一些要{0}的取决于其他需要包含在操作中的。所有依路径包含在指向 {0} 的定路径中。 "--dependencies" 也可用于自包含所有依。
+
+== DependenciesShelve ==
+置
+
+== DependenciesUndoChanges ==
+撤更改
+
+== Destination ==
+目
+
+== DestinationRevisionNotFound ==
+找不到要升合并的目修
+
+== DiffNotDownloadedRevision ==
+无法从服器下修 {0}。再次其他文件，然后返回到文件。
+
+== DirConflictCannotBeApplied ==
+无法用源 '{1}' 且目 '{2}' 的冲突 {0}，因有：'{3}'。
+
+== DiscardedAddedWarningMessage ==
+已弃，因源添加了，但已加到目中，所以无需添加
+
+== DiscardedChangedWarningMessage ==
+已弃，因从源到目之未更改修的内容，或者因源和目加了相同的修
+
+== DiscardedDeleteWarningMessage ==
+已弃，因源除了，并且在目中未加，所以无法除
+
+== DiscardedFsProtectionFormat ==
+已弃 {1} 中的 {0} 的 FS 保，因{2}
+
+== DiscardedFsProtectionWarningMessage ==
+已弃，因已在源和目中将的文件系保更改同一个，源已更改文件系保且已在目上除，或者源已除且目已更改文件系保
+
+== DiscardedMergeConnectedrevision ==
+源修已与目修接。
+
+== DiscardedMergeFormat ==
+已放弃 {1} 中的 {0} 上的合并，因{2}
+
+== DiscardedMergeNotconnectrevision ==
+源修未与目修接。
+
+== DiscardedMergeNotloaded ==
+无法再加修（已除元素）。
+
+== DiscardedMergeSamerevision ==
+源修与工作区中加的修相同。
+
+== DiscardedMovedWarningMessage ==
+已弃，因已移至源和目中的同一位置，或者已加到目上
+
+== DiscardedSubtractiveFormat ==
+已放弃 {1} 中的 {0} 上的法合并，因{2}
+
+== DisconnectTubeSucceeded ==
+Unity VCS 服器 ({0}) 已成功与 Plastic Tube 断接。
+
+== DivergentMove ==
+分移冲突
+
+== DivergentMoveConflictActions1 ==
+保留源上完成的移（放弃目上的移）
+
+== DivergentMoveConflictActions2 ==
+保留目上完成的移（放弃源上的移）
+
+== DivergentMoveConflictDestinationOperation ==
+已从 {0} 移到 {1}
+
+== DivergentMoveConflictExplanation ==
+一个已在源和目上移到个不同位置。
+
+== DivergentMoveConflictSourceOperation ==
+已从 {0} 移到 {1}
+
+== DownloadMissingFileNotFoundOnSource ==
+无法下 '{0}' (revid:{1})。可能与 --nodata 重，但是无法在制源 {2}@{3} 中找到其数据。
+
+== DownloadMissingFileReplicationSourceGuidsResolutionMethodNotAvailable ==
+无法下 '{0}' (revid:{1})。可能与 --nodata 重，但是未升其制源 {2}@{3}，所以有一个必需的 API 不可用。升服器 {3}。
+
+== DownloadMissingFileReplicationSourceNotAvailable ==
+无法下 '{0}' (revid:{1})。可能与 --nodata 重，但是其制源 {2}@{3} 不可用。
+
+== DownloadMissingFileWithoutReplicationSource ==
+无法下 '{0}' (revid:{1})。可能与 --nodata 重，但是在存 {2}@{3} 中不可用。
+
+== DstContributor ==
+目更集：{0}（分支 {1}）
+
+== ElementNewName ==
+具有新名称 {0} 的元素
+
+== ElementOldNewName ==
+具有旧名称 {0} 和新名称 {1} 的元素
+
+== EnterNewDestinationName ==
+入目的新名称：
+
+== Error ==
+
+
+== ErrorCheckingIn ==
+入 {0} 出。{1}
+
+== ErrorCloneDstRepNotEmpty ==
+目存 '{0}' 不空，因此克隆操作无法。
+
+== ErrorCloneDstRepNotFound ==
+无法定用于克隆操作的目存。
+
+== ErrorClonePackageNotValid ==
+如果指定了目，无法使用 --package。
+
+== ErrorCloneSourceRepoNotSpecified ==
+尚未指定源存。
+
+== ErrorCloneSrcAndDstEquals ==
+源和目存相同 ('{0}')。
+
+== ErrorCloneSrcRepNotFound ==
+无法从 '{0}' 定用于克隆操作的源存。
+
+== ErrorExecutingQuery ==
+行出： 
+
+== ErrorImportingCommit ==
+无法入更集 '{0}'。：{1} 与支持系。
+
+== ErrorLaunchingEditor ==
+无法行器：{0}
+
+== ErrorPullNodataNotValid ==
+ --nodata 不能用于制包。
+
+== ErrorPushHydrateNotValid ==
+推送期不能使用 hydrate。
+
+== ErrorPushNodataNotValid ==
+推送期不能使用 --nodata。
+
+== ErrorReplicateDestinationRepoNotSpecified ==
+尚未指定目存
+
+== ErrorReplicateHydrateSourceNotFound ==
+无法自取 '{0}' 的 hydrate 源存。手指定源存。
+
+== ErrorReplicateNodataNotValid ==
+ --nodata 不能用于制包，也不能与 --push 一起使用。
+
+== ErrorReplicatePackageNotSpecified ==
+尚未指定制包和目存
+
+== ErrorReplicateSourceBranchNotSpecified ==
+尚未指定源分支
+
+== ErrorRepositoriesDontMatch ==
+指定的存不匹配
+
+== EvilTwin ==
+双面魔冲突
+
+== EvilTwinConflictActions1 ==
+保留更改，将目重命名
+
+== EvilTwinConflictActions2 ==
+保留源上添加的（放弃目上的添加）
+
+== EvilTwinConflictActions3 ==
+保留目上添加的（放弃源上的添加）
+
+== EvilTwinConflictDestinationOperation ==
+已添加 {0}
+
+== EvilTwinConflictExplanation ==
+一个在源上和目上已用相同的名称行添加，但它是不同的。
+
+== EvilTwinConflictSourceOperation ==
+已添加 {0}
+
+== Excluded ==
+已排除 {0}。
+
+== ExclusiveCheckoutDetail ==
+{0} 已由 {2}@{3} 的用 {1} 出
+
+== ExclusiveCheckoutDetailShort ==
+{0} 已由用 {1} 出
+
+== ExpirationDate ==
+到期日期：        {0}
+
+== False ==
+否
+
+== FastUpdCannotBePerformedInPartialWk ==
+Gluon 工作区中不允使用“快速更新”。禁用，然后重操作。
+
+== FastUpdChanges ==
+已用以下更改：
+
+== FastUpdDownloadProgress ==
+已下 {0} / {1} ({2:0.##%})
+
+== FastUpdProcessProgress ==
+已理 {0} / {1} ({2:0.##%})
+
+== FastUpdStageApplyingChanges ==
+正在用更改...
+
+== FastUpdStageCalculatingChanges ==
+正在算更改...
+
+== FastUpdStageCancelling ==
+正在取消快速更新操作...
+
+== FastUpdStageCompilingInfo ==
+正在整合快速更新数据...
+
+== FastUpdStageFinished ==
+快速更新已完成
+
+== FastUpdWarnings ==
+无法在磁上用以下更改：
+
+== Fatal ==
+重
+
+== FemaleNone ==
+无
+
+== FetchingAcls ==
+正在提取 ACL
+
+== FetchingAttributes ==
+正在提取属性
+
+== FetchingBranches ==
+正在提取分支
+
+== FetchingChangesets ==
+正在提取更集
+
+== FetchingChildren ==
+正在提取
+
+== FetchingFinished ==
+正在元数据
+
+== FetchingItems ==
+正在提取
+
+== FetchingLabels ==
+正在提取
+
+== FetchingLinks ==
+正在提取接
+
+== FetchingMetadata ==
+正在提取元数据
+
+== FetchingMoveRealizations ==
+正在提取移操作
+
+== FetchingReferences ==
+正在提取引用
+
+== FetchingReviews ==
+正在提取代
+
+== FetchingRevisions ==
+正在提取
+
+== FetchingSeids ==
+正在提取 SEID
+
+== File ==
+文件
+
+== FileModifiedSource ==
+文件 {0} 在源上已修改，并将替目版本
+
+== Files ==
+文件
+
+== FinishedNotOk ==
+已取消
+
+== FinishedOk ==
+已正常完成
+
+== FinishedStatus ==
+制已中断 {0}
+
+== FinishedWithErrors ==
+已完成但有
+
+== First ==
+第一个
+
+== From ==
+自
+
+== FsProtectionCannotBeApplied ==
+无法用 '{0}' FS 保，因有：'{1}'。
+
+== GameuiCheckinAddedMissingParentConflictAction ==
+撤添加操作或将其移到服器中的有位置。
+
+== GameuiCheckinAddedMissingParentConflictDescription ==
+无法添加 '{0}'，因其父目不再加到服器中。
+
+== GameuiCheckinAddedPathInUseConflictAction ==
+撤添加操作或将其移到服器中的空位置。
+
+== GameuiCheckinAddedPathInUseConflictDescription ==
+无法添加 '{0}'，因在服器中的同一位置加了一个。
+
+== GameuiCheckinChangedFileConflictAction ==
+撤的本地更改，下最新版本，并重新用的本地更改。
+
+== GameuiCheckinChangedFileConflictDescription ==
+'{0}' 需要合并。
+
+== GameuiCheckinChangedMissingConflictAction ==
+撤本地更改或将原到服器中的有位置。
+
+== GameuiCheckinChangedMissingConflictDescription ==
+无法更改 '{0}'，因其不再加到服器中。
+
+== GameuiCheckinChangedXlinkConflictAction ==
+撤的本地更改，下最新版本，并再次 Xlink。
+
+== GameuiCheckinChangedXlinkConflictDescription ==
+无法更改 Xlink '{0}' 的目，因其在服器中已更改。
+
+== GameuiCheckinCopiedLoadedConflictAction ==
+撤的本地更改，下最新版本，并重新用的本地更改。
+
+== GameuiCheckinCopiedLoadedConflictDescription ==
+无法制 '{0}'，因其已加到服器中。
+
+== GameuiCheckinCopiedMissingParentConflictAction ==
+撤制操作或将其移到服器中的有位置。
+
+== GameuiCheckinCopiedMissingParentConflictDescription ==
+无法制 '{0}'，因其父目不再加到服器中。
+
+== GameuiCheckinCopiedPathInUseConflictAction ==
+撤制操作或将其移到服器中的空位置。
+
+== GameuiCheckinCopiedPathInUseConflictDescription ==
+无法制 '{0}'，因在服器中的同一位置加了一个。
+
+== GameuiCheckinDeletedAlreadyDeletedConflictAction ==
+撤除操作并更新到最新版本。
+
+== GameuiCheckinDeletedAlreadyDeletedConflictDescription ==
+无法除 '{0}'，因不再加到服器中。
+
+== GameuiCheckinDeletedChangedWarningDescription ==
+已除的 '{0}' 在服器中已更改。如果已用除，服器更改将失。
+
+== GameuiCheckinDeletedMovedWarningDescription ==
+已除的 '{0}' 在服器中已移。如果已用除，服器移将失。
+
+== GameuiCheckinDeletedWarningAction ==
+是否定要除 '{0}'？
+
+== GameuiCheckinDirReplacedChangedConflictDescription ==
+无法原 '{0}'，因其在服器中已更改。
+
+== GameuiCheckinFileReplacedChangedConflictDescription ==
+'{0}' 需要合并。
+
+== GameuiCheckinFsProtectionMissingConflictAction ==
+撤本地更改或将原到服器中的有位置。
+
+== GameuiCheckinFsProtectionMissingConflictDescription ==
+无法更改 '{0}' 的限，因不再加到服器中。
+
+== GameuiCheckinMovedAlreadyMovedConflictAction ==
+撤移操作并更新到最新版本。
+
+== GameuiCheckinMovedAlreadyMovedConflictDescription ==
+无法将 '{0}' 移到 '{1}'，因其已加到服器中的目中。
+
+== GameuiCheckinMovedDivergentConflictAction ==
+是否仍要将 '{0}' 移到 '{1}'？
+
+== GameuiCheckinMovedDivergentConflictDescription ==
+已移的 '{0}' 已移到服器中的不同位置。如果已用移，服器移将失。
+
+== GameuiCheckinMovedDstInUseConflictAction ==
+撤移操作或将其移到服器中的空位置。
+
+== GameuiCheckinMovedDstInUseConflictDescription ==
+无法将 '{0}' 移到 '{1}'，因在服器中的同一位置加了一个。
+
+== GameuiCheckinMovedInsideItselfConflictAction ==
+撤移操作或将其移到服器中的有效位置。
+
+== GameuiCheckinMovedInsideItselfConflictDescription ==
+无法将 '{0}' 移到 '{1}' 中，因 '{1}' 已加到服器中的 '{0}' 内。
+
+== GameuiCheckinMovedMissingDstConflictAction ==
+撤移操作或将移到服器中的有位置。
+
+== GameuiCheckinMovedMissingDstConflictDescription ==
+无法将 '{0}' 移到 '{1}'，因目不再加到服器中。
+
+== GameuiCheckinMovedMissingItemConflictAction ==
+撤移操作或将原到服器中的有位置。
+
+== GameuiCheckinMovedMissingItemConflictDescription ==
+无法移 '{0}'，因其不再加到服器中。
+
+== GameuiCheckinReplacedChangedConflictAction ==
+撤的原操作，下最新版本，并再次行原。
+
+== GameuiCheckinReplacedMissingConflictAction ==
+撤的原操作。
+
+== GameuiCheckinReplacedMissingConflictDescription ==
+无法原 '{0}'，因其不再加到服器中。
+
+== GameuiOutOfDateUnresolvedXlink ==
+无法解析 Xlink '{0}'。无法更新未解析的 Xlink 下的。
+
+== GetfileRevdatanotfound ==
+于定的格，找不到数据
+
+== Group ==
+
+
+== GroupKey ==
+
+
+== HiddenChanged ==
+藏已更改
+
+== Ignored ==
+已忽略
+
+== InactiveKey ==
+不活（未可）
+
+== Info ==
+信息
+
+== IntervalMerge ==
+隔合并
+
+== IntroducingData ==
+正在引入数据
+
+== IssueTrackerCheckinFailed ==
+无法将入数据到跟踪程序中：{0}
+
+== IssueTrackerNotSupported ==
+指定的跟踪程序 '{0}' 不受支持。
+
+== ItemAddedSource ==
+ {0} 在源上已添加，并将作合并的果添加
+
+== ItemAlreadyChanged ==
+不会下，因在工作区 '{0}' 中已更改（已出、已在本地更改、已除、已移或已原）。撤或入本地更改，然后重操作。
+
+== ItemDeletedSource ==
+ {0} 在源上已除，并将作合并的果除
+
+== ItemFsprotToApply ==
+ {0} 已在源上更改文件系限
+
+== ItemMovedSource ==
+ {0} 在源上已移到 {1}，并将作合并的果移
+
+== ItemNotFound ==
+无法找到 {0}
+
+== ItemPathAlreadyUsedByChange ==
+不会下/移，因 '{0}' 中已有更改。撤本地更改，卸（从配置中），然后重操作。
+
+== KeyEditable ==
+可
+
+== KeyPrivate ==
+私有
+
+== KeyWorkspaceRevision ==
+工作区修
+
+== Label ==
+
+
+== LicenseEdition ==
+版本：                {0}
+
+== LicenseInformation ==
+可信息：
+
+== LicenseUsage ==
+可使用情况：
+
+== LicensedTo ==
+可：            {0}
+
+== LicensedUsers ==
+可用数：   {0}
+
+== ListFindObjects ==
+可用象和属性： 
+
+== ListPermissionsKey ==
+可用限： 
+
+== ListTriggerTypes ==
+可用触型： 
+
+== LkNameField ==
+接名称
+
+== LoadedRevision ==
+已加修 {0}@{1}
+
+== LoadedTwice ==
+加次冲突
+
+== LoadedTwiceConflictActions1 ==
+保留源上完成的添加（放弃目上的添加）
+
+== LoadedTwiceConflictActions2 ==
+保留目上完成的添加（放弃源上的添加）
+
+== LoadedTwiceConflictDestinationOperation ==
+已添加 {0}
+
+== LoadedTwiceConflictExplanation ==
+个已在源和目上添加并生冲突，因它是同一个。
+
+== LoadedTwiceConflictSourceOperation ==
+已添加 {0}
+
+== LocalAndDownloadedSameFile ==
+不会下文件 {0}，因本地文件与要下的文件的内容匹配。更集：{1}
+
+== LocatedOnBranch ==
+位于分支上
+
+== LogAdded ==
+已添加
+
+== LogChanged ==
+已更改
+
+== LogDefaultCsFormat ==
+更集号：{changesetid}{newline}分支：{branch}{newline}所有者：{owner}{newline}日期：{date}{newline}注：{comment}{newline}更改：{newline}{items}------------------------------------------------------------
+
+== LogDefaultCsFormatWithoutChanges ==
+更集号：{changesetid}{newline}分支：{branch}{newline}所有者：{owner}{newline}日期：{date}{newline}注：{comment}{newline}------------------------------------------------------------
+
+== LogDeleted ==
+已除
+
+== LogMoved ==
+已移
+
+== MakeTubeSucceeded ==
+已正建 Tube {0} -> {1}。
+
+== Markers ==
+
+
+== Merge ==
+合并
+
+== MergeBothChanges ==
+个参与者。
+
+== MergeDstChanges ==
+目参与者。
+
+== MergeExtraInfoBase ==
+基
+
+== MergeExtraInfoCommentsLine ==
+注：{0}
+
+== MergeExtraInfoContributorLine ==
+{0}，来自 {1}{2}，由 {3} 于 {4} 建
+
+== MergeExtraInfoDestination ==
+目
+
+== MergeExtraInfoRecursiveMergeLine ==
+合并：是合并。意味着有多个上而不只一个。
+Unity VCS 将行解析，并自合并多个共同上以形成一上，上将用于合并源参与者和目参与者。
+
+在，正在将上 {0} 与上 {1} 合并，将生成一个在以后使用的虚上 vcs:{2}。
+
+== MergeExtraInfoSource ==
+源
+
+== MergeInProgress ==
+已有一个正在从更集 {0}@{1} 行的合并。完成此合并后再从其他源行合并
+
+== MergeNeeded ==
+需要将文件 {0} 从 {1} 合并到 {2} 基 {3}。更改者：{4}
+
+== MergeNoneChanges ==
+无。
+
+== MergeProgressRecursive ==
+
+
+== MergeProgressString ==
+正在合并文件 {0}/{1}
+
+== MergeResultMultipleLinkTargets ==
+合并果符号接 {0} 留下了多个目
+
+== MergeSourceFormat ==
+{1}@{2} 的 {0}
+
+== MergeSrcChanges ==
+源参与者。
+
+== MergeToMergeNeeded ==
+分支 {0}@{1}@{2}（装入 '{3}'）具有多个部，因在“合并到”操作期建了新的更集。行从更集 {4}@{1}@{2} 到分支 {0}@{1}@{2} 的合并（或“合并到”），从而一分支的部。
+
+== MergeVirtualChangesetComment ==
+合并期建的虚更集
+
+== MergedFile ==
+已合并文件 {0} / {1}：{2}
+
+== Mergefrom ==
+控制合并源操作
+
+== MergingFile ==
+正在合并文件 {0} / {1}：{2}
+
+== MessageBranchSelector ==
+一个分支以取修（如果没有， /main）： 
+
+== MessageCheckingIn ==
+正在入 {0}... 
+
+== MessageCheckingOut ==
+正在出 {0}... 
+
+== MessageCoSelector ==
+一个分支以接收出（如果没有， /main）： 
+
+== MessageContinueWithSelector ==
+是果器。是否激活？(Y/N)： 
+
+== MessageDone ==
+完成
+
+== MessageFileNotFound ==
+文件 {0} 不存在。
+
+== MessageLabelSelector ==
+一个以取其中的修： 
+
+== MessageMoreRepositories ==
+更多存？(Y/N)： 
+
+== MessageNoRepositories ==
+此服器中没有存。 
+
+== MessageNumItemSelector ==
+== 存器 #{1} 的器 #{0} ==
+
+== MessageNumRepSelector ==
+== 存器 #{0} ==
+
+== MessageRepositoryName ==
+存名称： 
+
+== MessageRepositoryServer ==
+存服器： 
+
+== MessageSelectorNotSet ==
+尚未置器。
+
+== Mkattr ==
+允用建属性
+
+== Mkchildbranch ==
+允用建子分支
+
+== Mklabel ==
+允用建
+
+== Mkrepository ==
+允用建存
+
+== Mktoplevelbranch ==
+允用建分支
+
+== Mktrigger ==
+允用建触器
+
+== Modified ==
+已修改
+
+== Move ==
+控制是否可以在存中移文件和目
+
+== MoveAddConflictAction1 ==
+保留更改，将目重命名
+
+== MoveAddConflictAction2 ==
+保留源更改（保留移并放弃添加）
+
+== MoveAddConflictAction3 ==
+保留目更改（保留添加并放弃移）
+
+== MoveAndAdd ==
+移/添加冲突
+
+== MoveAndDelete ==
+移/除冲突
+
+== MoveDeleteConflictActions1 ==
+保留源更改（保留移并放弃除）
+
+== MoveDeleteConflictActions2 ==
+保留目更改（保留除并放弃移）
+
+== MoveDeleteConflictDestinationOperation ==
+已除 {0}
+
+== MoveDeleteConflictExplanation ==
+一个在源上已移，且目已除或其父。
+
+== MoveDeleteConflictSourceOperation ==
+已从 {0} 移到 {1}
+
+== MoveIgnoredDestinationWasntSelected ==
+不会移 '{0}'，因未移的目 '{1}'。更新工作区或移的源和目，然后重操作。
+
+== MoveIgnoredSourceWasntSelected ==
+不会移 '{0}'，因然了移的目 '{1}'，但未。更新工作区或移的源和目，然后重操作。
+
+== MoveItemAlreadyChanged ==
+不会移，因在工作区 '{0}' 中已更改（已出、已在本地更改、已除、已移或已原）。撤或入本地更改，然后重操作。
+
+== MoveNotApplicable ==
+无法将移到 '{0}'。可能的原因是目路径已被使用。卸（从配置中），然后重操作。
+
+== MoveSourceDelete ==
+移出已除冲突
+
+== MoveSourceDeleteConflictDestinationOperation ==
+已除 {0}
+
+== MoveSourceDeleteConflictSourceOperation ==
+已从 {0} 移到 {1}
+
+== Moved ==
+已移
+
+== MovedAddedConflictDestinationOperation ==
+已添加 {0}
+
+== MovedAddedConflictExplanation ==
+一个在源上已移，并在目上的同一位置添加了一个同名的。
+
+== MovedAddedConflictSourceOperation ==
+已从 {0} 移到 {1}
+
+== MovedEvilTwin ==
+已移双面魔冲突
+
+== MovedEvilTwinConflictActions1 ==
+保留更改，将目重命名
+
+== MovedEvilTwinConflictActions2 ==
+保留源上完成的移（放弃目上的移）
+
+== MovedEvilTwinConflictActions3 ==
+保留目上完成的移（放弃源上的移）
+
+== MovedEvilTwinConflictDestinationOperation ==
+已从 {0} 移到 {1}
+
+== MovedEvilTwinConflictExplanation ==
+同名的个不同已移到源和目上的同一位置。
+
+== MovedEvilTwinConflictSourceOperation ==
+已从 {0} 移到 {1}
+
+== MovedLocally ==
+已在本地移
+
+== MsgBinaryFile ==
+二制文件
+
+== MsgDirectory ==
+目
+
+== MsgItemAdded ==
+受 Unity VCS 控制并已在最近添加。
+
+== MsgItemAddedNotOnDisk ==
+受 Unity VCS 控制并已在最近添加，但不在磁上。
+
+== MsgItemChanged ==
+受 Unity VCS 控制并已在本地更改。
+
+== MsgItemCheckedin ==
+受 Unity VCS 控制并已入。
+
+== MsgItemCheckedinNotOnDisk ==
+受 Unity VCS 控制并已入，但不在磁上。
+
+== MsgItemCheckedout ==
+受 Unity VCS 控制并已出。
+
+== MsgItemCheckedoutNotOnDisk ==
+受 Unity VCS 控制并已出，但不在磁上。
+
+== MsgItemIgnored ==
+已忽略。
+
+== MsgItemNotOnDisk ==
+不在磁上。
+
+== MsgItemPrivate ==
+私有。
+
+== MsgItemStatus ==
+ {0} 的状：{1}
+
+== MsgLinkFile ==
+接
+
+== MsgPendingDstMergelink ==
+至 {1}@{2}@{3} 的 cs:{0}
+
+== MsgPendingMergelink ==
+{0}（从 {2}@{3}@{4} 的 cs:{1}）
+
+== MsgPrivFile ==
+文件
+
+== MsgPrivate ==
+私有
+
+== MsgTextFile ==
+文本文件
+
+== MsgUnknown ==
+未知
+
+== MsgWorkspaceWorkingInfo ==
+
+      存：{0}
+分支：{1}
+      ：{2}
+    
+
+== Multiple ==
+多个
+
+== NameAlreadyInDirectory ==
+名称 {0} 已在目中
+
+== NameNotValid ==
+名称 {0} 不再有效
+
+== NewBrNameParamNotBrspec ==
+新名称参数必包含分支名称，而不是分支格
+
+== NewNameFor ==
+{0} 的新名称： 
+
+== NewNameInstead ==
+新名称而不是 {0}： 
+
+== No ==
+否
+
+== NoChangesApplied ==
+未用更改
+
+== NoChangesInWk ==
+工作区 {0} 中没有更改
+
+== NoErrorsDetected ==
+未到。
+
+== NoValidAnswers ==
+n;否
+
+== NodeChangeAdded ==
+已添加 {0}
+
+== NodeChangeCopied ==
+已制 {0}
+
+== NodeChangeDeleted ==
+已除 {0}
+
+== NodeChangeModified ==
+已修改 {0}
+
+== NodeChangeModifiedAndMoved ==
+已修改并已从 {0} 移到 {1}
+
+== NodeChangeMoved ==
+从 {0} 移到 {1}
+
+== NodeChangeReplaced ==
+已替 {0}
+
+== NotMergedFile ==
+未合并文件 {0} / {1}：{2}
+
+== Of ==
+/
+
+== OldRenameRenameNames ==
+旧名称 {0}，重命名第一个 {1}，重命名第二个 {2}
+
+== On ==
+位于
+
+== OnlyModifiedOnSource ==
+已理 {0} / {1} 个在源上已更改的文件：{2}
+
+== OperationAbandoned ==
+已放弃
+
+== OperationDisabled ==
+在 Plastic SCM 5.0 中已禁用此操作
+
+== OperationStartingFetch ==
+正在始提取
+
+== OperationStartingPush ==
+正在始推送
+
+== Owner ==
+所有者
+
+== PasswordCantBeEmpty ==
+密不能空。未置密。
+
+== PasswordCorrectlySet ==
+已正置密
+
+== PasswordDoesntMatch ==
+密不匹配。未置密。
+
+== PathInConflictWarningMessage ==
+已将 '{0}' 重命名 '{1}'，因路径在合并操作期已在使用中
+
+== PathNotFound ==
+在合并冲突中找不到路径 {0}
+
+== PathNotFoundInDiff ==
+在差比集内找不到路径 {0}
+
+== PathNotUnique ==
+路径 '{0}' 不是唯一的。它可能指代任何...
+
+== PathsFsLocked ==
+操作无法始，因某些文件或目已被一个程序定。个程序，然后重。
+
+== PendingMergeLinks ==
+待定合并接
+
+== PerformingSwitch ==
+正在行切操作...
+
+== PermissionKey ==
+限
+
+== Private ==
+私有
+
+== ProcessingBranches ==
+正在理分支
+
+== ProcessingDirectoryConflicts ==
+正在理目冲突
+
+== ProcessingDirectoryOperations ==
+正在理目操作
+
+== ProcessingDirectoryOperationsApplyingFsProtections ==
+正在理目操作（用文件系保）
+
+== ProcessingDirectoryOperationsDownloadingRevisions ==
+正在理目操作（下修）
+
+== ProcessingDirectoryOperationsUpdatingWorkspace ==
+正在理目操作（更新工作区）
+
+== PushingAcls ==
+正在推送 ACL
+
+== PushingAttributes ==
+正在推送属性
+
+== PushingBranches ==
+正在推送分支
+
+== PushingChangesets ==
+正在推送更集
+
+== PushingChildren ==
+正在推送
+
+== PushingFinished ==
+已完成元数据推送
+
+== PushingItems ==
+正在推送
+
+== PushingLabels ==
+正在推送
+
+== PushingLinks ==
+正在推送接
+
+== PushingMetadata ==
+正在推送元数据
+
+== PushingMoveRealizations ==
+正在推送移
+
+== PushingReferences ==
+正在推送引用
+
+== PushingRevisions ==
+正在推送修
+
+== Read ==
+控制是否可取象
+
+== ReconcilingAcls ==
+正在 ACL
+
+== ReconcilingObjects ==
+正在象
+
+== RemoveTubeSucceeded ==
+已正除 Tube {0} -> {1}。
+
+== Removed ==
+已除
+
+== RemovedLocally ==
+已在本地除
+
+== Rename ==
+控制是否可重命名象
+
+== RenamedOldNameConflict ==
+一个被重命名仍在使用中的名称。
+
+== RenamedRenamedConflict ==
+一个在个参与者中均已重命名。
+
+== RenamedSameNameConflict ==
+个被重命名相同的名称
+
+== RenamedToDownloadFile ==
+文件 {0} 将被重命名以便下新版本。更集：{1}
+
+== RenamesNotValidIntroduce ==
+重命名不再有效，必手引入新名称
+
+== Replaced ==
+已替
+
+== Replicateread ==
+控制制取操作
+
+== Replicatewrite ==
+控制制写入操作
+
+== ReportCmdMsgFileChangedInWk ==
+此文件在工作区中已更改，不受 Unity VCS 控制，因此已保留数据。不是最新状。如果要更新，制更新此
+
+== ReportCmdMsgUpdateStoringCheckout ==
+正在安全存此的已出数据
+
+== Repository ==
+存
+
+== RepositorySpec ==
+存格
+
+== ResolutionConfigured ==
+已使用配置的解决方案解决了冲突。
+
+== ResolvedCreatedConflict ==
+在解决冲突 {1} 之后，已生冲突 {0}
+
+== ResolvedRemovedConflict ==
+在解决冲突 {1} 之后，已除冲突 {0}
+
+== ReviewStatusReviewed ==
+已
+
+== ReviewStatusReworkRequired ==
+需要返工
+
+== ReviewStatusUnderReview ==
+正在
+
+== RevisionCheckedout ==
+本地
+
+== RevisionHistoryOf ==
+{0} 的修史
+
+== RevisionNotExists ==
+修不存在
+
+== RevisionNotFound ==
+找不到要加的修
+
+== RevisionNumber ==
+修号
+
+== RevisionSpec ==
+修格
+
+== RevisionType ==
+修型
+
+== Rm ==
+控制是否可以从存中除文件和目
+
+== Rmattr ==
+允用除属性
+
+== Rmchangeset ==
+控制是否可以从分支中除更集
+
+== Rmlabel ==
+允用除
+
+== Rmrepository ==
+允用除存
+
+== Rmtrigger ==
+允用除触器
+
+== SearchingForChanged ==
+正在搜索工作区中已更改的...
+
+== Second ==
+第二个
+
+== SelectorNoChanges ==
+无更改。
+
+== Server ==
+服器
+
+== SetConfigSucceeded ==
+已正置 Plastic Tube 配置。
+
+== SettingNewSelector ==
+正在置新的器...
+
+== ShareRepoSucceeded ==
+已正共享存 '{0}'。
+
+== Shelve ==
+置
+
+== Skip ==
+跳
+
+== Source ==
+源
+
+== SourceDestinationChanged ==
+ {0} 在源上已更改，但在合并期已将弃，因在源和目上的内容相同
+
+== SourceDestinationChangedFsprotection ==
+ {0} 的文件系保在源上已更改，但在合并期已将弃，因在源和目上的文件系保相同
+
+== SourceDestinationDeleted ==
+ {0} 在源上已除，但在合并期已将弃，因在目上已除
+
+== SourceDestinationMoved ==
+文件 {0} 在源和目上已移到同一位置，因此将放弃移。已从 {1} 移到 {2}
+
+== SrcContributor ==
+源更集：{0}（分支 {1}）
+
+== StartResolveConflict ==
+即将解决以下冲突：
+
+== StatColLastmod ==
+上次修改
+
+== StatColPath ==
+路径
+
+== StatColSimilarity ==
+相似度
+
+== StatColSize ==
+大小
+
+== StatColStatus ==
+状
+
+== StatusKey ==
+状
+
+== StatusPerfWarningChanged ==
+找已更改文件用了太。性能提示：{0}
+
+== StatusPerfWarningMoved ==
+算已移文件用了太。有太多私有/已除文件。性能提示：{0}
+
+== StatusPerfWarningPrivates ==
+有太多私有文件，可能会影性能。了解如何忽略私有文件：{0}
+
+== SubtractiveIntervalMerge ==
+法隔合并
+
+== SubtractiveMerge ==
+法合并
+
+== SubtractiveNeeded ==
+ {0} 需要从 {1} 到 {2} 基 {3} 的法合并。更改者：{4}
+
+== SupportBundleCreated ==
+已在 {0} 中建支持包
+
+== SupportBundleCreating ==
+正在建新的支持包...
+
+== SupportContactUs ==
+注意，可以随通 https://www.plasticscm.com/support 系我。
+如有任何疑、建或需要指，随
+与我系。
+    
+
+== SyncAlreadyReplicated ==
+同无法始，因目存是从与 Git 同的存制的。最初同的存 '{0} - {1}'。系支持人以取更多信息。
+
+== To ==
+至
+
+== Total ==
+
+
+== TubeStatusConnected ==
+Unity VCS 服器 ({0}) 已接到 Plastic Tube。
+
+== TubeStatusDisconnected ==
+Unity VCS 服器 ({0}) 未接到 Plastic Tube。
+
+== TypeNewPassword ==
+新密： 
+
+== TypeOldPassword ==
+旧密： 
+
+== UnableToRemoveCset ==
+无法除所更集 {0}。
+
+== UndoUnableToMove ==
+无法将文件 '{0}' 移回到 '{1}'：{2}
+
+在撤更改之前，可能需要包括已除的。当前的：
+
+- 如果使用的是 CLI，向“undo”命令添加已除的路径或“--deleted”参数。
+- 如果使用的是 GUI，在“待定更改”中打“”框，然后在“示内容”中中“示已除文件和目”。
+
+== UndoneAddOperation ==
+本地添加操作 {0} 将被撤。
+
+== UndoneDeleteOperation ==
+本地除操作 {0} 将被撤。
+
+== UndoneMoveOperation ==
+本地移操作 {0} -> {1} 将被撤。
+
+== UnknownError ==
+未知
+
+== Unlimited ==
+无限制
+
+== UnloadItemAlreadyChanged ==
+不会卸，因在工作区 '{0}' 中已更改（已出、已在本地更改、已除、已移或已原）。撤或入本地更改，然后重操作。
+
+== UnneededMergeRevisionLoaded ==
+不再需要行 '{0}' 的制合并，因已加正的修。
+
+== UnresolvedXlink ==
+未解析的 Xlink
+
+== UnshareRepoSucceeded ==
+已正取消存 '{0}' 的共享。
+
+== UnsupportedMergeType ==
+不支持的合并型
+
+== UpdateDeletedSelectorObjectSkipped ==
+无法将的工作区更新有效的分支配置。可能其他人除了的工作区所置的置或。将的工作区切到有的分支、更集、或置集。
+
+== UpdateProgress ==
+已更新 {0} / {1}（{2} / {3} 个文件待下 / {4} / {5} 操作待用）
+
+== UpdateProgressCalculating ==
+正在算...
+
+== UpdateProgressDownloadingBigFile ==
+正在从 {2} 下文件 {0} ({1})
+
+== UpdateProgressDownloadingBlock ==
+正在从 {2} 下 {0} 个文件的 ({1})
+
+== UpdateProgressUpdating ==
+正在更新...
+
+== UpdateStatusCalculating ==
+正在算
+
+== UpdateStatusFinished ==
+已完成
+
+== UpdateStatusUpdating ==
+正在更新
+
+== UpdateWithChangesFromGluonWorkspaceNotAllowed ==
+无法从 Gluon 工作区切到有出的准工作区。可以从 Gluon 入（或撤），然后重更新。
+
+== UpdateWkIsUpToDate ==
+工作区 {0} 是最新状（更集：{1}）
+
+== UpdatingWorkspace ==
+Unity VCS 正在更新的工作区。稍等片刻...
+
+== UploadingFiles ==
+正在上 {0} 个文件
+
+== User ==
+用
+
+== UserCorrectlyActivated ==
+已成功激活用 {0}
+
+== UserCorrectlyDeactivated ==
+已成功停用用 {0}
+
+== UserInformation ==
+可信息：服器：{0}
+
+== UserKey ==
+用
+
+== View ==
+控制是否可看象
+
+== VirtualPathDecorator ==
+（虚上，cs:{0} 上的修）
+
+== WaitingOperation ==
+此操作可能需要几分。稍候...
+
+== Warning ==
+警告
+
+== WhichChange ==
+要更改个元素？（源|目）[1|2]
+
+== WhichRename ==
+要使用个重命名？[1|2]
+
+== WillCreateRepo ==
+存 {0} 不存在。系将建此存
+
+== WorkspacestatusAddGrp ==
+已添加（AD = 已添加、CP = 已制（新）、PR = 私有、IG = 已忽略）
+
+== WorkspacestatusChGrp ==
+已修改（CH = 已更改、CO = 已出、RP = 已替）
+
+== WorkspacestatusMvGrp ==
+已移（MV = 已移、LM = 已在本地移）
+
+== WorkspacestatusRmGrp ==
+已除（DE = 已除、LD = 已在本地除）
+
+== XlinkConflict ==
+Xlink 冲突
+
+== XlinkConflictActions1 ==
+在 Xlink 中保留源更改
+
+== XlinkConflictActions2 ==
+在 Xlink 中保留目更改
+
+== XlinkConflictDestinationOperation ==
+已将 Xlink 更改：{0}
+
+== XlinkConflictExplanation ==
+在源和目上已更改 Xlink。
+
+== XlinkConflictSourceOperation ==
+已将 Xlink 更改：{0}
+
+== XlinkWritableConflict ==
+Xlink 缺少上冲突
+
+== XlinkWritableConflictExplanation ==
+通 Xlink 接的存无法用于算合并的上更集。用必手指定上更集。
+
+== Yes ==
+是
+
+== YesValidAnswers ==
+y;是
+
+== CmdConfigureErrorCannotCreateDir ==
+Failed when creating a directory [{0}]:{1}
+
+== CmdConfigureErrorWrongParameters ==
+的参数号。入 cm configure --help 以取助
+
+== CmdConfigureErrorReadingParameters ==
+取参数出；提供的参数列表。
+
+== CmdConfigureHeader ==
+####--- 客端配置向 ---####
+
+== CmdConfigureSuccess ==
+已正配置 Unity VCS 客端。
+
+== CmdConfigureDetectedWorkingMode ==
+到工作模式：{0}
+
+== CmdConfigureDetectedWorkingModeError ==
+ Unity VCS 服器安全模式出。
+可能服器于脱机状，或者指定的地址。
+是否要重新入 Unity VCS 服器地址？
+
+== CmdConfigureServerParams ==
+配置 Unity VCS 服器地址/端口：
+
+== CmdConfigureServerParamsAddress ==
+Unity VCS 服器地址 [{0}]
+
+== CmdConfigureServerParamsPort ==
+Unity VCS 服器端口 [{0}]
+
+== CmdConfigureServerParamsSslPort ==
+Unity VCS SSL 服器端口 [{0}]
+
+== CmdConfigureServerParamsUseSsl ==
+使用加密 (SSL)？
+
+== CmdConfigureProxyParams ==
+配置代理服器？
+
+== CmdConfigureProxyParamsAddress ==
+代理服器地址
+
+== CmdConfigureProxyParamsPort ==
+代理服器端口

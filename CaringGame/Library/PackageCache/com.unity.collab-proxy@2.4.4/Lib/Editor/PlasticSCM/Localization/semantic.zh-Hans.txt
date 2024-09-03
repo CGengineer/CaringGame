@@ -1,0 +1,643 @@
+== Base ==
+基
+
+== ChangedResultFile ==
+是否要保存果文件？
+
+== ChangedDestinationFile ==
+是否要保存目文件？
+
+== CloseButton ==
+
+
+== ConfiguredStatus ==
+已配置！
+
+== NotConfigureStatus ==
+未配置
+
+== Destination ==
+目
+
+== ErrorAutomaticOptionNeeded ==
+在静默模式中，需要自合并
+
+== ErrorComparisonMethod ==
+无效的比方法
+
+== ErrorConflictCanNotBeApplied ==
+无法用冲突解决方案，因它取决于其他冲突的解决方案。以其他序解决冲突。冲突解决方案返回了以下：{0}
+
+== ErrorContributorsMustBeSpecified ==
+必指定参与者
+
+== ErrorEncoding ==
+无法指定的 ({0})。
+
+== ErrorExecutingExternalDiffTool ==
+行外部差比工具生了：
+
+== ErrorExecutingExternalMergeTool ==
+行外部合并工具生了：
+
+== ErrorExecutingExternal2WayMergeTool ==
+行外部双向合并工具生了：
+
+== ErrorFileTitleType ==
+糟！我目前不支持的言！
+
+== ErrorFileType ==
+SemanticMerge 收到了以下文件：{0}。
+文件展名不能被受支持的言。
+可以行默基于文本的 {1} 工具。
+
+注意：如果知道些文件包含受支持的言，看如何在 SemanticMerge 中使用 -l 参数。
+
+== ErrorJVMNotAvailableTitle ==
+糟！找不到 JVM - 解析文件需要 JVM
+
+== ErrorJVMNotAvailable ==
+SemanticMerge 需要有效的 JVM 安装
+才能解析的 {0} 文件。
+
+可以改行默基于文本的 {1} 工具。
+    
+== ErrorNumberOfContributorsDoesNotMatch ==
+参与者数量不匹配
+
+== ErrorTabSpaces ==
+无效的制表符空格位
+
+== ErrorVersionControl ==
+要配置的版本控制无效
+
+== OpenDialogFilterForExecutableFile ==
+可行文件 (*.exe)|*.exe
+
+== OpenDialogTitleForConfigFile ==
+配置文件
+
+== OpenDialogTitleForExecutableFile ==
+可行文件
+
+== PlasticSCMConfigurationNotification ==
+在重新打 Unity VCS GUI 之前，更改不会生效
+
+== RestartMergeWithConfigChangesMessage ==
+了用新保存的配置，重新合并。
+
+== RestartDiffWithConfigChangesMessage ==
+了用新保存的配置，重新差比。
+
+== RestartMergeQuestion ==
+已解决的 {0} 个冲突将会失。是否定要重新合并？
+
+== ResultNeeded ==
+必指定果文件路径
+
+== Source ==
+源
+
+== UnsolvedPendingConflicts ==
+文件仍然有 {0} 个未解决的冲突。
+
+== UnexpectedError ==
+生了意外。
+
+== Usage ==
+      用法：semanticmerge [<configureversioncontrol> | <mergeOptions>]
+
+      configureversioncontrol:{--configure-version-control}=<versioncontrolkey>
+            versioncontrolkey:{plasticscm | git}
+
+      mergeOptions:<files> [-a|--automatic] [--silent] [--merge-decl] [--process-all-merges]
+                    [--nolangwarn] [--nostructurewarn] [--include-format-change] [--log-external-parser]
+                    [<contributorSymbolicNames>] [<generalOptions>]
+                    [<contributorExtendedInfo>]
+
+      files:{<sortedFiles> | <unsortedFiles>}
+            sortedFiles:<filename1> <filename2> <filename3> <filename4> <fileparamorder>
+                  fileparamorder:{-fpo | --fileparamorder}=<用分号分隔的列表>
+                                     默 --fileparamorder=s;d;b;r
+
+            unsortedFiles:<sourceFile> <destinationFile> <baseFile> <resultFile>
+                  sourceFile:{-s | --source}=<filename>
+                  destinationFile:{-d | --destination}=<filename>
+                  baseFile:{-b | --base}=<filename>
+                  resultFile:{-r | --result}=<filename>
+
+      -a | --automatic:除非冲突，否自合并，无需用交互。
+
+      --silent:此必与 --automatic 合使用。
+                               当无法自解决合并，此将使工具立即返回
+                               一个非零退出代（不示任何 semanticmerge 工具）。
+                               如果工具能自解决合并，程序将返回退出代 0。
+
+      --merge-decl:自合并尽可能多的声明*。
+
+      --process-all-merges：自合并尽可能多的声明* 并
+                               个非自合并声明行基于文本的外部工具。
+
+        *声明是定以下任何受支持法元素的句：、方法、属性等。
+         根据元素型（例如、方法），它包含元素的主体。
+
+      --nolangwarn:不支持言，直接行基于文本的外部工具。
+
+      --nostructurewarn:如果，直接行基于文本的外部工具。
+
+      --include-format-change：包含修改了和行尾的更改。
+                               包括行首空格和制表符的差以及
+                               行尾的差。包括位于声明的空行。
+                               默情况下，化合并/差比，所有些差都将被忽略。
+
+      --log-external-parser：用文件内容的日志以便外部解析器。
+
+      contributorSymbolicNames:<srcSymbolicName> <dstSymbolicName> <baseSymbolicName>
+            srcSymbolicName:{-sn | --srcsymbolicname}=<symbolicname>
+            dstSymbolicName:{-dn | --dstsymbolicname}=<symbolicname>
+            baseSymbolicName:{-bn | --basesymbolicname}=<symbolicname>
+
+      generalOptions:[<defaultEncoding>] [<resultEncoding>] [<fileLanguage>] [<virtualMachine>]
+                      [<externalMergeTool>] [<external2WayMerge>] [<externalDiffTool>]
+                      [<tabSpaces>] [<extrainfofile>] [<progress>]
+            defaultEncoding:{-e | --defaultencoding}=<encoding>
+            resultEncoding:{-re | --resultencoding}=<encoding>
+                  encoding:{ascii | ansi | unicode | bigendian | utf7 | utf8 | utf8bom | utf32be | utf32le}
+            fileLanguage:{-l | --fileslanguage}={csharp | vb | java | cplusplus | php}
+            virtualMachine:{-vm | --virtualmachine}=<Java 虚机可行文件的路径>
+            externalParser:{-ep | --externalparser}=<行外部解析器的命令>
+            externalMergeTool:{-emt  | --externalmergetool}={default | <用定的工具>}
+            external2WayMerge:{-e2mt | --external2waymergetool}={ <用定的工具>}
+            externalDiffTool:{-edt  | --externalDiffTool}={default | <用定的工具>}
+            tabSpaces:{-ts   | --tabspaces}={4 | <由用定>}
+            extrainfofile:{-ei   | --extrainfofile}={包含外合并信息的文件的路径}
+            progress:{-pg   | --progress}={表示整个合并程度的字符串}
+
+      contributorExtendedInfo:<contributorOwnerName> <contributorBranchName>
+                               <contributorChangeset> <contributorComment>
+
+      contributorOwnerName:<srcOwnerName> <dstOwnerName> <baseOwnerName>
+        srcOwnerName:{-so | --srcowner}=<ownername>
+        dstOwnerName:{-do | --dstowner}=<ownername>
+        baseOwnerName:{-bo | --baseowner}=<ownername>
+
+      contributorBranchName:<srcBranchName>; <dstBranchName> <baseBranchName>
+        srcBranchName:{-sb | --srcbranch}=<name>
+        dstBranchName:{-db | --dstbranch}=<branchname>
+        baseBranchName:{-bb | --basebranch}=<branchname>
+
+      contributorChangeset:<srcChangeset> <dstChangeset> <baseChangeset>
+        srcChangeset:{-sc | --srccset}=<changeset>
+        dstChangeset:{-dc | --dstcset}=<changeset>
+        baseChangeset:{-bc | --basecset}=<changeset>
+
+      contributorComment:<srcComment> <dstComment> <baseComment>
+        srcComment:{-sm | --srccomment}=<changeset>
+        dstComment:{-dm | --dstcomment}=<changeset>
+        baseComment:{-bm | --basecomment}=<changeset>
+
+
+      示例：
+
+        semanticmergetool -b=base.cs -d=dst.cs -s=src.cs -r=result.cs
+
+        semanticmergetool base.cs dst.cs src.cs result.cs --fileparamorder=b;d;s;r
+
+        semanticmergetool -b=base.cs -d=dst.cs -s=src.cs -r=result.cs
+          -e2mt=""kdiff3.exe #sourcefile #destinationfile -o #output""
+
+        semanticmergetool -b=base.cs -d=dst.cs -s=src.cs -r=result.cs
+          -emt=""kdiff3.exe #basefile #sourcefile #destinationfile -o #output""
+
+== UsageCaption ==
+SemanticMerge 工具用法
+
+== WarningNoExternalDiffTool ==
+未指定外部差比工具来理差比。
+
+== WarningNoExternal2MergeTool ==
+未指定外部双向合并工具来合并所冲突的内容。
+
+== WarningNoExternalMergeTool ==
+未指定外部合并工具来理合并。
+
+== WarningExternalToolNotFound ==
+找不到工具，引入一个有效的工具
+
+== WarningSemanticToolNotFound ==
+找不到 SemanticMerge 工具，引入一个有效的工具
+
+== WarningConfigFileNotFound ==
+找不到配置文件，引入一个有效的配置文件
+
+== WarningInvalidJavaVirtualMachinePath ==
+找不到 Java 虚机路径
+
+== WarningInvalidTabSize ==
+无效的制表符大小
+
+== RenameWindowTitle ==
+重命名源
+
+== RenameWindowLabel ==
+{0} 的新名称：
+
+== RenameButton ==
+重命名
+
+== CancelButton ==
+取消
+
+== PendingConflictsToSolve ==
+{0}/{1} - 待解决冲突：{2}
+
+== NextConflictButtonTooltip ==
+下一个冲突 (Ctrl+PagDown)
+
+== PreviousConflictButtonTooltip ==
+上一个冲突 (Ctrl+PageUp)
+
+== SaveAndExitExplanation ==
+保存果文件并退出工具
+
+== SaveAndExitButton ==
+保存并退出(_X)
+
+== MergeWaitingAnimation ==
+正在算冲突。稍候...
+
+== SyncDeclarationMenuItem ==
+同声明
+
+== OptionsButton ==
+
+
+== FindMenuItem ==
+找...
+
+== OptionsMenuItem ==
+
+
+== ConfigureFontsAndColorsMenuItem ==
+配置字体和色...
+
+== DisplayInfoAboutThisMerge ==
+示有此合并的信息
+
+== LeftEncodingMenuItem ==
+左
+
+== RightEncodingMenuItem ==
+右
+
+== SkipFormatChangesMenuItem ==
+跳格式更改
+
+== ReformatSourceCode ==
+重新格式化源代
+
+== ConfigurationMenuItem ==
+配置...
+
+== GetLicense ==
+取可
+
+== ShowUserGuideMenuItem ==
+用指南
+
+== UserGuideURL ==
+https://semanticmerge.com/documentation
+
+== ShowIntroGuideMenuItem ==
+示介指南
+
+== OpenSamplesDirectoryMenuItem ==
+打示例
+
+== FollowSemanticmergeMenuItem ==
+注 @semanticmerge
+
+== AboutSemanticmergeMenuItem ==
+于和可
+
+== VisualDiffWindowTitle ==
+可化差比
+
+== VisualDiffExplanation ==
+示一个解差的形
+
+== VisualDiffOptionExplanation ==
+个声明并差比以看差
+
+== VisualDiffControlExplanation ==
+使用 Control 和行放大和小
+
+== ZoomInExplanation ==
+放大形；也可以使用 Control 和行放大
+
+== ZoomOutExplanation ==
+小形；也可以使用 Control 和行小
+
+== VisualMergeWindowTitle ==
+可化合并
+
+== VisualMerge ==
+可化合并(_V)
+
+== VisualMergeExplanation ==
+示一个解合并的形
+
+== RunTextMerge ==
+行文本合并(_T)
+
+== RunTextMergeExplanation ==
+行基于文本的合并工具
+
+== RestartMerge ==
+重新合并(_E)
+
+== RestartMergeExplanation ==
+放弃所有更改并重新合并操作
+
+== ProcessAllMerges ==
+理所有合并
+
+== ProcessAllMergesExplanation ==
+自合并尽可能多的声明，并个非自合并声明行基于文本的外部工具
+
+== VisualDiffButton ==
+可化差比(_V)
+
+== RestartDiffButton ==
+重新差比(_R)
+
+== RestartDiffExplanation ==
+重新差比操作
+
+== RunTextDiffButton ==
+行文本差比(_T)
+
+== RunTextDiffExplanation ==
+行基于文本的差比工具
+
+== OutlinePanelVisualDiffButton ==
+可化差比(_V)
+
+== OutlinePanelRunTextDiffButton ==
+行文本差比(_T)
+
+== DivergentMoveDetails ==
+分移信息
+
+== ShowMergeInfoExplanation ==
+示合并信息
+
+== MergeInfoResultFile ==
+果文件：
+
+== MergeInfoLanguage ==
+言：
+
+== MergeInfoBaseFile ==
+基文件
+
+== MergeInfoSourceFile ==
+源文件
+
+== MergeInfoDestinationFile ==
+目文件
+
+== MergeInfoFileName ==
+名称：
+
+== MergeInfoFilePath ==
+路径：
+
+== MergeInfoExtraInfo ==
+外信息
+
+== SemanticOutline ==
+大
+
+== ExpandSemanticOutlineTooltip ==
+展大
+
+== CollapseSemanticOutlineTooltip ==
+折大
+
+== PendingConflicts ==
+待解决冲突 ({0})
+
+== PendingConflictsExplanation ==
+示需要手解决的冲突：在“他人的更改”和“的更改”中修改了相同元素生
+
+== DiffExplanation ==
+示此元素的差
+
+== SourceDifferences ==
+源 - 他人的更改 ({0})
+
+== SourceDifferencesExplanation ==
+要合并的源代中所做的更改（他人的更改）。示基参与者和源参与者之的差
+
+== DestinationDifferences ==
+目 - 的更改 ({0})
+
+== DestinationDifferencesExplanation ==
+的工作副本上的更改（的更改）。示基参与者和目参与者之的差
+
+== NoConflictMessageText ==
+没有要的冲突。
+
+== NoConflictMessageDetail ==
+意味着工具无需用干即可解决合并。
+
+看到此消息的原因可能是仍然希望看合并。
+
+但是，如果更希望尽可能自解决冲突，将“-a”参数添加到 semanticmerge 命令行。
+
+== MaximizeButtonLeftTooltip ==
+最大化左面板
+
+== RestoreButtonLeftTooltip ==
+原左面板
+
+== MaximizeButtonSrcTooltip ==
+最大化源面板
+
+== RestoreButtonSrcTooltip ==
+原源面板
+
+== MaximizeButtonDstTooltip ==
+最大化目面板
+
+== RestoreButtonDstTooltip ==
+原目面板
+
+== MaximizeButtonBaseTooltip ==
+最大化基面板
+
+== RestoreButtonBaseTooltip ==
+原基面板
+
+== MaximizeButtonResultTooltip ==
+最大化果面板
+
+== RestoreButtonResultTooltip ==
+原果面板
+
+== CopyToClipboard ==
+制到剪板
+
+== BackButtonTooltip ==
+返回
+
+== FindMatchesButton ==
+找匹配(_M)
+
+== DiffMatchButton ==
+差比(_D)
+
+== MatchButton ==
+匹配(_M)
+
+== UnMatchButton ==
+取消匹配(_U)
+
+== SelectElementToMatch ==
+一个要匹配的元素
+
+== EditResultExplanation ==
+在解决所有冲突之前，无法果文件。有 {0} 个冲突。
+
+== KeepSourceExplanation ==
+保留源更改
+
+== KeepDestinationExplanation ==
+保留目更改
+
+== KeepBothExplanation ==
+保留更改
+
+== RenameExplanation ==
+重命名目
+
+== MergeExplanation ==
+行外部文本合并工具来解决此冲突
+
+== TwoWayMergeExplanation ==
+外部双向 Mergetool 来解决此冲突
+
+== DisplayConfigurationWindowExplanation ==
+示配置窗口
+
+== DisplayAboutWindowExplanation ==
+示于窗口
+
+== HideUnchangedSelectionExplanation ==
+示已更改的声明
+
+== ShowUnchangedSelectionExplanation ==
+示完整文件，以便能个声明
+
+== GroupUnchangedSelectionExplanation ==
+示已更改的声明，并将其余声明分一个未更改
+
+== ExplainMoveMoveExplanation ==
+明如何将元素移到源参与者和目参与者上的不同位置
+
+== SourceFileExplanation ==
+源参与者文件
+
+== BaseFileExplanation ==
+基文件，即合并期使用的源文件和目文件的上
+
+== DestinationFileExplanation ==
+目参与者文件
+
+== FindMatchesExplanation ==
+打匹配窗口以行添加和除的匹配
+
+== UnmatchExplanation ==
+取消匹配 - 如果基参与者和参与者之的方法匹配有，可以取消匹配，将它已添加/已除，然后手更正匹配
+
+== MatchExplanation ==
+所用匹配
+
+== InvalidEmail ==
+无效的子件地址
+
+== InvalidReport ==
+无效的告
+
+== EnterValidEmailAndReport ==
+入的子件地址、主和意。
+
+== EnterValidEmailAddress ==
+入有效的子件地址。
+
+== ErrorReadingSampleTitle ==
+取示例出
+
+== ErrorReadingSampleDescription ==
+无法从文件 {0} 解析示例：{1}
+
+== SamplesWindowExplanation ==
+于个示例案例，我建行的合并工具并将其与 SemanticMerge 行比
+
+== ShowIntroGuideButton ==
+示介指南(_G)
+
+== RunTextMergetoolButton ==
+文本
+
+== RunSemanticMergetoolButton ==
+
+
+== WelcomeSemantic20 ==
+迎使用 SemanticMerge 2.0
+
+== WelcomeExplanation1 ==
+是一合并工具。此工具在算合并之前解析代，从而可以并自解决大多数冲突。
+
+== WelcomeExplanation2 ==
+此工具与到目前止使用的大多数合并工具都不同，因此得花几分的示例案例，以便助成真正的合并家并充分利用此工具。
+
+== ExploreTheSamplesButton ==
+探索示例(_E)
+
+== ReadTheIntroGuideLinkText1 ==
+要一了解 SemanticMerge 基知
+
+== ReadTheIntroGuideLinkText2 ==
+介指南
+
+== ReadTheIntroGuideLinkText3 ==
+ （3 分）。
+
+== DontShowThisDialogOnStartup ==
+在不示此框(_S)
+
+== RunTheToolButton ==
+行此工具(_T)
+
+== ParsingErrorsLabel ==
+理些文件一些。
+
+== ShowParsingErrorsButton ==
+示解析
+
+== ReleaseNotesBaseUrl ==
+https://www.plasticscm.com/download/releasenotes
+
+== MultifileCurrentFile ==
+文件 {0} / {1}：
+
+== MultifileCurrentFileExplanation ==
+是当前文件。要更改文件，使用冲突航按以及多文件移功能。
+
+== Options ==
+
+
+== EditorOptions ==
+器

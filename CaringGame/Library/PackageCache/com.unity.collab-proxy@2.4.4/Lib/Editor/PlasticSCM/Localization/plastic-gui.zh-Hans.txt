@@ -1,0 +1,5431 @@
+== Branch ==
+分支
+
+== Branches ==
+分支
+
+== Changeset ==
+更集
+
+== Label ==
+
+
+== Labels ==
+
+
+== Server ==
+服器
+
+== Repository ==
+存
+
+== Checkin ==
+入
+
+== UndoChanges ==
+撤更改
+
+== UpdateWorkspace ==
+更新工作区
+
+== ItemsMenuUndoCheckout ==
+撤出
+
+== ItemsMenuUndoChanges ==
+撤更改
+
+== ItemsMenuChangeRevType ==
+更改修型
+
+== MenuItemExternalTools ==
+外部工具
+
+== ItemNameEmpty ==
+名称不能空
+
+== ItemExists ==
+ {0} 已存在
+
+== MovingItems ==
+正在移...
+
+== Options ==
+
+
+== BranchExplorerOptionsToggleTooltip ==
+藏或示面板
+
+== GoButton ==
+到
+
+== GoToBranchBase ==
+到分支基
+
+== BranchExplorerMenu ==
+分支源管理器
+
+== FilterSelectedBranches ==
+所分支
+
+== FilterSelectedAndRelatedBranches ==
+所分支和相分支
+
+== FilterSelectedBranchesPendingMerges ==
+所分支的待定合并
+
+== GoToParentChangeset ==
+到父更集
+
+== AddInclusion ==
+添加包含
+
+== AddExclusion ==
+添加排除
+
+== CustomBranchQuery ==
+自定分支
+
+== CustomChangesetQuery ==
+自定更集
+
+== CustomLabelQuery ==
+自定
+
+== ConditionalBranchFormatText ==
+新建条件分支格式（分支将突出示）
+
+== ConditionalChangesetFormatText ==
+新建条件更集格式（更集将突出示）
+
+== ConditionalLabelFormatText ==
+新建条件格式（将突出示）
+
+== InclusionRuleText ==
+新建包含分支器（分支将包含在内）
+
+== ExclusionRuleText ==
+新建排除分支器（分支将排除在外）
+
+== ActiveBranch ==
+工作区中的一个活分支
+
+== ActiveBranches ==
+工作区中的多个活分支
+
+== BranchesWithPendingIntegrations ==
+包含待定合并的分支
+
+== AddFormat ==
+添加格式
+
+== Calculating ==
+正在算...
+
+== CopyrightTextFormat ==
+Copyright c 2006-{0} Unity Technologies. All Rights Reserved.
+
+== FiltersAndConditionalFormat ==
+高器和格式
+
+== ReleaseNotesLinkText ==
+行明
+
+== WebsiteLink ==
+https://unity.com
+
+== ReleaseNotesUrlPreffix ==
+https://www.plasticscm.com/download/releasenotes/
+
+== RevertStart ==
+正在原工作区中的修...
+
+== RevertingItemsSingular ==
+正在原 1 ...
+
+== RevertingItemsPlural ==
+正在原 {0} ...
+
+== RevertingProgress ==
+正在原文件 {0} / {1}：{2}
+
+== Validating ==
+正在数据...
+
+== UpdateReportNoLinesSelected ==
+要更新的路径
+
+== UpdateProgressCalculating ==
+正在算...
+
+== UpdateProgressUpdating ==
+正在更新...
+
+== UpdateProgressSingular ==
+已更新 {0} / {1}（{2} / 1 个文件）{4}
+
+== UpdateProgressPlural ==
+已更新 {0} / {1}（{2} / {3} 个文件）{4}
+
+== CheckinComments ==
+入注
+
+== UpdatingSelectedItems ==
+正在更新所...
+
+== LoadingItems ==
+正在加...
+
+== LoadingBranches ==
+正在加分支...
+
+== LoadingBranchExplorer ==
+正在加分支源管理器...
+
+== LoadingLabels ==
+正在加...
+
+== LoadingChangesets ==
+正在加更集...
+
+== LoadingShelves ==
+正在加置...
+
+== LoadingSyncViewDetails ==
+正在加同信息...
+
+== LoadingDeletedItems ==
+正在加已除...
+
+== UncheckoutStart ==
+正在取消出所...
+
+== ActionMenuButtonTooltip ==
+所行操作
+
+== MainSidebarItemsItem ==
+工作区源管理器
+
+== MainSidebarPendingChangesItem ==
+待定更改
+
+== MainSidebarBranchesItem ==
+分支
+
+== MainSidebarBranchExplorerItem ==
+分支源管理器
+
+== MainSidebarChangesetsItem ==
+更集
+
+== MainSidebarLabelsItem ==
+
+
+== MainSidebarAttributesItem ==
+属性
+
+== MainSidebarSyncItem ==
+同存
+
+== MainSidebarSyncItemCloudEdition ==
+同到 Cloud
+
+== MainSidebarMergeItem ==
+合并
+
+== MainSidebarIncomingChangesItem ==
+入更改
+
+== MainSidebarPreferencesItem ==
+首
+
+== MainSidebarAboutItem ==
+于 Unity DevOps Version Control
+
+== MainSidebarAboutGluonItem ==
+于 Gluon
+
+== MainSidebarCodeReviewsItem ==
+代
+
+== ItemColumn ==
+
+
+== StatusColumn ==
+状
+
+== ExtensionColumn ==
+展
+
+== TypeColumn ==
+型
+
+== DateModifiedColumn ==
+修改日期
+
+== RepositoryColumn ==
+存
+
+== ServerColumn ==
+服器
+
+== ObjectNameColumn ==
+象名称
+
+== NameColumn ==
+名称
+
+== PathColumn ==
+路径
+
+== ProblemColumn ==
+
+
+== SeverityColumn ==
+重性
+
+== TimestampColumn ==
+戳
+
+== LastEditedByColumn ==
+上次者
+
+== CreationDateColumn ==
+建日期
+
+== GuidColumn ==
+GUID
+
+== CommentColumn ==
+注
+
+== ItemsCount ==
+({0})
+
+== ItemsCountSingular ==
+(1 )
+
+== ItemsCountPlural ==
+({0} )
+
+== ItemsSelected ==
+({0}/{1} selected)
+
+== ItemsSelectedSingular ==
+已 {0} / 1 
+
+== ItemsSelectedPlural ==
+已 {0} / {1} 
+
+== ItemsSelectedForGluonSingular ==
+{0} / 1 
+
+== ItemsSelectedForGluonPlural ==
+{0} / {1} 
+
+== ChangedItemsCategory ==
+已更改
+
+== AddedPrivateItemsCategory ==
+已添加和私有
+
+== DeletedItemsCategory ==
+已除
+
+== MovedItemsCategory ==
+已移
+
+== DeletingObjectsSingular ==
+除 1 个象
+
+== DeletingObjectsPlural ==
+除 {0} 个象
+
+== DeleteObjectsSingular ==
+除 1 个象。定？
+
+== DeleteObjectsPlural ==
+除 {0} 个象。定？
+
+== ConfirmRevertTitle ==
+原
+
+== ConfirmRevertMessage ==
+内容将原到修 {0}。是否？
+
+== ConfirmRevertToClientDiffsMessage ==
+所文件将被原。是否？
+
+== ConfirmUndeleteTitle ==
+撤除
+
+== ConfirmUndeleteMessage ==
+所文件将被撤除。是否？
+
+== FromTo ==
+{0} 至 {1}
+
+== From ==
+自
+
+== To ==
+至
+
+== AddProgress ==
+正在添加...
+
+== CheckoutProgress ==
+正在出...
+
+== UndoingPendingChanges ==
+正在撤更改...
+
+== UndoingUnchanged ==
+正在撤未更改的...
+
+== ShelvingPendingChanges ==
+正在置更改...
+
+== UndoingChangedFiles ==
+正在撤更改...
+
+== UndoingChangedFilesError ==
+撤更改操作期生了某：
+
+== New ==
+新建...
+
+== ItemsMenuItemHistory ==
+史
+
+== ItemsMenuItemAnnotate ==
+批注
+
+== NoItemsAreSelected ==
+未。使用的框来相的。如果了，但些全被忽略，也会生情况。
+
+== RepositoryNameLabel ==
+新存的名称：
+
+== WorkspaceNameLabel ==
+新工作区的名称：
+
+== NewRepositoryTitle ==
+建新的存
+
+== RenameRepositoryTitle ==
+重命名存
+
+== NewWorkspace ==
+建新的工作区
+
+== RenameWorkspaceTitle ==
+重命名工作区
+
+== RepositoryServerLabel ==
+服器（your_server:8087 或 your_org@cloud）：
+
+== WorkspacePathLabel ==
+磁上的路径：
+
+== RepositoryLabel ==
+存：
+
+== BrowseLabel ==
+...
+
+== CouldNotGetOrganizationNameFromCredentials ==
+凭据无效。无法取名称
+
+== CouldNotGetOrganizationName ==
+无法从云服器取名称。的凭据可能是的。再次行配置工具以入新的凭据 ('{0} --configure')
+
+== RepositoryServerIsNotAvailable ==
+存服器不可用
+
+== RepositoryNameEmpty ==
+存名称不得空
+
+== WorkspaceNameEmpty ==
+工作区名称不得空
+
+== WorkspacePathEmpty ==
+工作区路径不得空
+
+== WorkspacePathUnauthorizedAccess ==
+未授在指定路径中建工作区
+
+== InvalidCharsInPath ==
+工作区路径包含无效字符
+
+== WorkspaceNameAlreadyExists ==
+工作区 {0} 已存在
+
+== WorkspacePathAlreadyUsed ==
+路径 {0} 已包含在某个工作区中
+
+== RepositoryMenuItemCreate ==
+建新的存...
+
+== RepositoryMenuItemCreateWorkspace ==
+此存建工作区...
+
+== RenameMenuItem ==
+重命名
+
+== WorkspaceMenuItemOpen ==
+打
+
+== WorkspaceMenuItemOpenInNewWindow ==
+在新窗口中打
+
+== OpenInExplorerMenuItem ==
+在源管理器中打
+
+== DeleteMenuItem ==
+除
+
+== UndeleteMenuItem ==
+撤除
+
+== WorkspaceMenuItemCreate ==
+建新的工作区...
+
+== WorkspaceMenuItemRename ==
+重命名
+
+== WorkspaceMenuItemDelete ==
+除
+
+== BranchMenuItemCreateBranch ==
+建子分支...
+
+== BranchMenuItemMergeFromBranch ==
+从此分支合并...
+
+== BranchMenuItemAdvancedMerge ==
+高合并
+
+== BranchMenuItemCherrypickFromBranch ==
+从此分支挑...
+
+== BranchMenuItemMergeToFromBranch ==
+从此分支合并到...
+
+== BranchMenuItemPushPull ==
+推送/拉取
+
+== BranchMenuItemPullBranch ==
+拉取此分支...
+
+== BranchMenuItemPullRemoteBranch ==
+拉取程分支...
+
+== BranchMenuItemSyncWithGit ==
+与 Git 同...
+
+== BranchMenuItemPushBranch ==
+推送此分支...
+
+== BranchMenuItemRenameBranch ==
+重命名...
+
+== BranchMenuItemDeleteBranch ==
+除
+
+== BranchMenuItemSwitchToBranch ==
+将工作区切到此分支
+
+== BranchMenuItemDiff ==
+差比分支
+
+== BranchMenuItemDiffWithAnotherBranch ==
+与一个分支行差比...
+
+== BranchMenuItemViewChangesets ==
+看此分支中的更集
+
+== ChangesetMenuItemCreateBranch ==
+从此更集建分支...
+
+== ChangesetMenuItemDiff ==
+与前一个行差比
+
+== ChangesetMenuItemDiffWithAnother ==
+与一个更集行差比...
+
+== ChangesetMenuItemDiffSelected ==
+差比所更集
+
+== ChangesetMenuItemBrowseRepositoryOnChangeset ==
+此更集中的存
+
+== ChangesetMenuItemLabelChangeset ==
+此更集...
+
+== ChangesetMenuItemSwitchToChangeset ==
+将工作区切到此更集
+
+== ChangesetMenuItemMergeFromChangeset ==
+从此更集合并...
+
+== ChangesetMenuItemCherrypickFromChangeset ==
+从此更集挑...
+
+== ChangesetMenuItemAdvancedMerge ==
+高合并
+
+== ChangesetMenuItemSubtractiveFromChangeset ==
+从此更集行法合并...
+
+== ChangesetMenuItemSubtractiveFromChangesetInterval ==
+从此更集隔行法合并...
+
+== ChangesetMenuItemCherrypickFromChangesetInterval ==
+从此更集隔挑...
+
+== ChangesetMenuItemMergeToFromChangeset ==
+从此更集合并到...
+
+== ChangesetMenuItemAdvancedOptions ==
+高
+
+== ChangesetMenuItemMoveChangeset ==
+从此更集移到一个分支...
+
+== ChangesetMenuItemDeleteChangeset ==
+除更集
+
+== CheckoutChangesetMenuItemShowPendingChangesView ==
+示待定更改
+
+== LabelMenuItemCreateLabel ==
+建新的...
+
+== LabelMenuItemApplyLabelToWorkspace ==
+将用于工作区内容
+
+== LabelMenuItemSwitchToLabel ==
+将工作区切到此
+
+== LabelMenuItemMergeFromLabel ==
+从此合并...
+
+== LabelMenuItemMergeToFromLabel ==
+从此合并到...
+
+== LabelMenuItemCreateBranchFromLabel ==
+从此建分支...
+
+== LabelMenuItemRenameLabel ==
+重命名...
+
+== LabelMenuItemDeleteLabel ==
+除
+
+== ShelveMenuItemViewShelve ==
+看置
+
+== ShelveMenuItemApplyShelveInWorkspace ==
+在我的工作区中用置...
+
+== ShelveMenuItemDeleteShelve ==
+除
+
+== AttributeMenuItemCreate ==
+建
+
+== AttributeMenuItemEdit ==
+
+
+== AttributeMenuItemDelete ==
+除
+
+== PendingChangesMenuItemOpen ==
+打
+
+== PendingChangesMenuItemOpenWith ==
+打方式...
+
+== PendingChangesMenuItemDiffAnnotateHistory ==
+差比/批注/史
+
+== PendingChangesMenuItemDiffWorkspace ==
+差比工作区内容
+
+== PendingChangesMenuItemAnnotate ==
+批注
+
+== PendingChangesMenuItemViewHistory ==
+史
+
+== PendingChangesMenuItemUndoChanges ==
+撤更改
+
+== PendingChangesMenuItemDelete ==
+除
+
+== PendingChangesMenuItemCheckout ==
+出
+
+== PendingChangesMenuItemSearchMatches ==
+搜索匹配...
+
+== PendingChangesMenuItemHideIgnoreCloak ==
+藏/忽略/掩蔽
+
+== PendingChangesMenuItemHideIgnore ==
+藏/忽略
+
+== DirectoryConflictsTitleSingular ==
+1 个目冲突
+
+== DirectoryConflictsTitlePlural ==
+{0} 个目冲突
+
+== FileConflictsTitleSingular ==
+1 个文件冲突
+
+== FileConflictsTitlePlural ==
+{0} 个文件冲突
+
+== NoActionMenuItem ==
+无可用操作
+
+== ItemsMenuItemNew ==
+新建
+
+== ItemsMenuItemNewDirectory ==
+目...
+
+== ItemsMenuItemNewFile ==
+文件...
+
+== ItemsMenuAdd ==
+添加到源代管理
+
+== ItemsMenuAddRecursive ==
+将目添加到源代管理
+
+== ItemsMenuCheckin ==
+入
+
+== ItemsMenuItemOpen ==
+打
+
+== ItemsMenuItemOpenWith ==
+打方式...
+
+== ItemsMenuItemOpenWithCustom ==
+用 {0} 打
+
+== ItemsMenuItemRevealInFinder ==
+在 Finder 中示
+
+== ItemsMenuItemCut ==
+剪切
+
+== ItemsMenuItemDelete ==
+除...
+
+== ItemsMenuItemPaste ==
+粘
+
+== ItemsMenuItemCreateXlink ==
+建 Xlink...
+
+== ItemsMenuItemEditXlink ==
+ Xlink...
+
+== BrowseRepositoryMenuItemDiffWithPrevious ==
+与前一个修行差比
+
+== BrowseRepositoryMenuItemSaveAs ==
+存...
+
+== BrowseRepositoryMenuItemViewHistory ==
+看史
+
+== HistoryMenuItemOpen ==
+打
+
+== HistoryMenuItemOpenWith ==
+打方式...
+
+== HistoryMenuItemSaveRevisionAs ==
+将此修存...
+
+== HistoryMenuItemDiffWithPrevious ==
+与前一个修行差比
+
+== HistoryMenuItemDiffSelectedRevisions ==
+差比所修
+
+== HistoryMenuItemDiffChangeset ==
+差比更集
+
+== HistoryMenuItemRevertToThisRevision ==
+原到此修
+
+== ItemsMenuItemRename ==
+重命名...
+
+== ItemsMenuItemDiffWithPrevious ==
+与前一个修行差比
+
+== HidePrivateItems ==
+藏私有
+
+== ExcludePrivateItemsSize ==
+从目大小中排除私有
+
+== MergeWithPendingChangesTitle ==
+到已更改文件
+
+== MergeWithPendingChangesMessage ==
+有待定更改需要入的工作区。建在合并之前入，以免在撤合并可能生。
+如果熟悉合并，可以通到“首”/“差比和合并”/“允与待定更改合并”来更改此行。
+
+注意：我更改了此行以避免新用遇到，但是如果熟悉合并的工作原理，那用功能并不危。
+
+== MergeNotificationMessageTitle ==
+通知消息
+
+== BaseContributor ==
+基
+
+== SrcContributor ==
+源
+
+== DstContributor ==
+目
+
+== DeleteDialogTitleSingular ==
+除
+
+== DeleteDialogTitlePlural ==
+除
+
+== DeleteFromDiskSingular ==
+从磁中除
+
+== DeleteFromDiskPlural ==
+从磁中除
+
+== DoNotDeleteFromDiskSingular ==
+不从磁中除
+
+== DoNotDeleteFromDiskPlural ==
+不从磁中除
+
+== DeletingProgress ==
+正在除 ({0}/{1}) {2}...
+
+== RemoveFromVersionControlPlural ==
+从版本控制中除
+
+== DirectoryConflictsCaption ==
+些是目中的冲突。通常及移、重命名和除。必先解决些冲突，然后再用其他更改。
+
+== DirectoryConflictsUnsolvedCaptionSingular ==
+个目冲突待解决。
+
+== DirectoryConflictsUnsolvedCaptionPlural ==
+个目冲突待解决。
+
+== MergeAlreadyConnected ==
+合并搜索已完成；合并目已包含源更改。
+
+== MergeAlreadySubtracted ==
+合并搜索已完成；已从目去合并源。
+
+== MergeInvalidInterval ==
+合并搜索已完成；定的隔无效。
+
+== MergeNoMergesDetected ==
+合并搜索已完成。未到要合并的。
+
+== MergeNoMergesDetectedCreateLink ==
+合并搜索已完成。未到要合并的，但源参与者和目参与者不同。在源和目上行了完全相同的更改，通常出情况。
+
+“解合并”按可看有参与者的更多信息。
+
+“用更改”按可一源和目（在者之建合并接）。
+
+
+== MergeNoMergesDetectedCreateLinkForIncomingView ==
+没有任何可下的内容
+
+只需“更新工作区”即可将工作区移至分支的部。
+
+
+明：所做的更改与分支部中所做的更改匹配，因此上没有任何可下的内容，但是需要同元数据。
+
+
+== MergeNothingToDownloadForIncomingView ==
+没有任何可下的内容
+
+
+== MergeNotConnected ==
+合并搜索已完成；法合并源和目未接。
+
+== MergeAlreadyProcessed ==
+合并已完成。的更改将示在待定更改上。此后将看到它！
+
+== FileMergeTitleSingular ==
+1 个更改待用
+
+== FileMergeTitlePlural ==
+{0} 个更改待用
+
+== MergeChangedOnSrc ==
+源参与者中的更改
+
+== MergeChangedOnSrcForIncomingView ==
+将更新
+
+== MergeWarningsTitleSingular ==
+1 个放弃的冲突。
+
+== MergeWarningsTitlePlural ==
+{0} 个放弃的冲突。
+
+== MergeWarningsCaption ==
+不再用的冲突以及可能的警告。
+
+== XlinkWarningMessageSingular ==
+{0}（1 ）
+
+== XlinkWarningMessagePlural ==
+{0}（{{0}} ）
+
+== DivergentMoveConflictsSingular ==
+分移冲突（1 ）
+
+== DivergentMoveConflictsPlural ==
+分移冲突（{0} ）
+
+== CyleMoveConflictsSingular ==
+循移冲突（1 ）
+
+== CyleMoveConflictsPlural ==
+循移冲突（{0} ）
+
+== EvilTwinsSingular ==
+双面魔冲突（1 ）
+
+== EvilTwinsPlural ==
+双面魔冲突（{0} ）
+
+== MoveDeleteConflictsSingular ==
+移/除冲突（1 ）
+
+== MoveDeleteConflictsPlural ==
+移/除冲突（{0} ）
+
+== DeleteMoveConflictsSingular ==
+除/移冲突（1 ）
+
+== DeleteMoveConflictsPlural ==
+除/移冲突（{0} ）
+
+== MovedEvilTwinsSingular ==
+已移双面魔冲突（1 ）
+
+== MovedEvilTwinsPlural ==
+已移双面魔冲突（{0} ）
+
+== AddMoveConflictsSingular ==
+添加/移冲突（1 ）
+
+== AddMoveConflictsPlural ==
+添加/移冲突（{0} ）
+
+== MoveAddConflictsSingular ==
+移/添加冲突（1 ）
+
+== MoveAddConflictsPlural ==
+移/添加冲突（{0} ）
+
+== LoadedTwiceConflictsSingular ==
+加次冲突（1 ）
+
+== LoadedTwiceConflictsPlural ==
+加次冲突（{0} ）
+
+== MoveSourceDeleteConflictsSingular ==
+移/除，移出已除冲突（1 ）
+
+== MoveSourceDeleteConflictsPlural ==
+移/除，移出已除冲突（{0} ）
+
+== DeleteMoveSourceConflictsSingular ==
+除/移，移出已除冲突（1 ）
+
+== DeleteMoveSourceConflictsPlural ==
+除/移，移出已除冲突（{0} ）
+
+== ChangeDeleteConflictsSingular ==
+更改/除冲突（1 ）
+
+== ChangeDeleteConflictsPlural ==
+更改/除冲突（{0} ）
+
+== DeleteChangeConflictsSingular ==
+除/更改冲突（1 ）
+
+== DeleteChangeConflictsPlural ==
+除/更改冲突（{0} ）
+
+== ReadonlyXlinkConflictsSingular ==
+只 Xlink 冲突（1 ）
+
+== ReadonlyXlinkConflictsPlural ==
+只 Xlink 冲突（{0} ）
+
+== ResolveDirectoryConflict ==
+解决目冲突
+
+== ResolveDirectoryConflictChooseOption ==
+了解决冲突，以下之一：
+
+== SelectAMatch ==
+要匹配的更改
+
+== SearchMatchesDialogTitle ==
+搜索移的候
+
+== SearchMatchesDialogExplanation ==
+新的所有可能来源都示出来。滑下方的滑条可更改相似度。
+
+== MinSimilarityAccepted ==
+最小可接受的相似度：{0:0.0}
+
+== LoadingMatches ==
+正在加匹配...
+
+== SrcPathColumn ==
+源路径
+
+== DstPathColumn ==
+目路径
+
+== SimilarityColumn ==
+相似度
+
+== DiffCategoryHeaderSingular ==
+{0}: 1 
+
+== DiffCategoryHeaderPlural ==
+{0}: {1} 
+
+== MergeDiffCategory ==
+已从 {0} 合并
+
+== AddedMergeDiffCategory ==
+已添加（在合并源中添加的文件）
+
+== DeletedMergeDiffCategory ==
+已除（在合并源中除的文件）
+
+== MergedMergeDiffCategory ==
+已合并（在合并源中和合并目中更改的文件）
+
+== MovedMergeDiffCategory ==
+已移（在合并源中移的文件）
+
+== ReplacedMergeDiffCategory ==
+已更改（在合并源中更改的文件）
+
+== AddedDiffCategory ==
+已添加
+
+== ChangedDiffCategory ==
+已更改
+
+== DeletedDiffCategory ==
+已除
+
+== MovedDiffCategory ==
+已移
+
+== MergedDiffCategory ==
+已合并
+
+== FSProtectionDiffCategory ==
+更改了文件系限
+
+== Source ==
+源：
+
+== Destination ==
+目：
+
+== KeepSrcChanges ==
+保留源更改
+
+== KeepSrcNotSupported ==
+型的冲突不支持保留源
+
+== KeepDstChanges ==
+保留目更改
+
+== KeepDstNotSupported ==
+型的冲突不支持保留目
+
+== RenameOnDst ==
+重命名工作区中的
+
+== RenameNotSupported ==
+型的冲突不支持重命名目
+
+== InputItemNameMessage ==
+入名称
+
+== HelpButton ==
+助
+
+== AdvancedButton ==
+高
+
+== BranchExplorerSearchFieldTooltip ==
+入搜索模式。使用 cs: lb: 或 br: 来限制果
+
+== BranchColumn ==
+分支
+
+== CancelButton ==
+取消
+
+== CloseButton ==
+
+
+== OkButton ==
+定
+
+== YesButton ==
+是
+
+== NoButton ==
+否
+
+== CheckinButton ==
+入
+
+== CheckinToADifferentBranchButton ==
+将更改入到一个分支...
+
+== CheckinToADifferentBranch ==
+将更改入到一个分支
+
+== MoveChangesetsToADifferentBranch ==
+将更集移到一个分支
+
+== ShelveButton ==
+置
+
+== ShowShelvesButton ==
+示置
+
+== ShowShelvesViewTooltip ==
+示置
+
+== OptionsTooltip ==
+配置待定更改
+
+== ChooseMessage ==
+...
+
+== GluonConfigurationSelectRepositoryButton ==
+...
+
+== GluonConfigurationBrowseWorkspacePathButton ==
+路径...
+
+== GluonConfigurationCreateRepositoryButton ==
+建...
+
+== ChangesetColumn ==
+更集
+
+== ExecuteButton ==
+行
+
+== FileConflictsCaptionSingular ==
+个文件冲突待解决。
+
+== FileConflictsCaptionPlural ==
+个文件冲突待解决。
+
+== FileConflictsCaptionForIncomingViewSingular ==
+个文件与的更改冲突。
+
+== FileConflictsCaptionForIncomingViewPlural ==
+个文件与的更改冲突。
+
+== FilterLabel ==
+：
+
+== Controlled ==
+已控制
+
+== ItemsMenuCheckout ==
+出
+
+== ItemsMenuLockAndCheckout ==
+定并出
+
+== ItemsMenuCheckoutRecursive ==
+出
+
+== CheckedOut ==
+已出
+
+== Deleted ==
+已除
+
+== ChangedOnDisk ==
+已在磁上更改
+
+== ContainsChanges ==
+包含更改
+
+== Private ==
+私有
+
+== Ignored ==
+已忽略
+
+== Cloaked ==
+已掩蔽
+
+== HiddenChanged ==
+藏已更改
+
+== MainWindowTitle ==
+Unity DevOps Version Control - 工作区：{0} - {1} - {2}:{3}@{4}
+
+== StatusInfo ==
+正在 {0} {1}@{2}
+
+== DiffWindowTitle ==
+比先前内容与 {0} 上的修
+
+== ChangesetsDiffWindowTitle ==
+比 {0} 上的修与 {1} 上的修
+
+== FsProtectionDifferences ==
+文件系限已从 {0} 更改 {1}
+
+== NoItemsToUndo ==
+未。使用的框来相的。如果了，但些全私有或被忽略，也会生情况。
+
+== ResolveConflictsButton ==
+解决冲突
+
+== ApplyChangesButton ==
+用更改
+
+== QueryLabel ==
+：
+
+== RefreshButton ==
+刷新
+
+== RefreshButtonAmp ==
+刷新(&R)
+
+== GoHomeTooltip ==
+到工作更集
+
+== OnlyRelevantButton ==
+相
+
+== OnlyRelevantTooltip ==
+示相更集
+
+== ResolutionMethodColumn ==
+解决方法
+
+== UndoButton ==
+撤
+
+== UndoUnchangedButton ==
+撤未更改
+
+== UndoRequest ==
+撤更改
+
+== UndoRequestMessageSingular ==
+将撤 1 个更改。此操作无法撤。是否？
+
+== UndoRequestMessagePlural ==
+将撤 {0} 个更改。此操作无法撤。是否？
+
+== CheckoutIgnoringFailedRequest ==
+某些文件已被定，因此无法出
+
+== CheckoutIgnoringFailedRequestMessage ==
+
+是否要跳定的文件并出其余文件？
+
+定的文件：{0}
+
+== UndoUnchangedRequestMessage ==
+将撤未更改的。此操作无法撤。是否？
+
+== UndoWithMergeLinkMessageSingular ==
+将撤 1 个更改和相的合并接。此操作无法撤。是否？
+
+== UndoWithMergeLinkMessagePlural ==
+将撤 {0} 个更改和相的合并接。此操作无法撤。是否？
+
+== PendingChangesOptionsTitle ==
+待定更改
+
+== CreatingRepository ==
+正在建存 {0}...
+
+== CreatingWorkspace ==
+正在建工作区 {0}...
+
+== WaitingForDynamicWorkspaceToBeMounted ==
+正在等待装入工作区 {0}...
+
+== CreatingBranch ==
+正在建分支 {0}...
+
+== CreatingLabel ==
+正在建 {0}...
+
+== RepositoryNameAlreadyExists ==
+存 {0} 已存在
+
+== RenamingRepository ==
+正在重命名存...
+
+== RenamingWorkspace ==
+正在重命名工作区 {0}...
+
+== RenamingBranch ==
+正在重命名分支 {0}...
+
+== RenamingLabel ==
+正在重命名 {0}...
+
+== EditingAttribute ==
+正在属性 '{0}'...
+
+== ChangingRevisionType ==
+正在更改修型...
+
+== DeletingWorkspacesSingular ==
+正在除工作区{0}...
+
+== DeletingWorkspacesPlural ==
+正在除工作区{0}...
+
+== DeletingRepositoriesSingular ==
+正在除存{0}...
+
+== DeletingRepositoriesPlural ==
+正在除存{0}...
+
+== UndeletingRepositoriesSingular ==
+正在撤除存{0}...
+
+== UndeletingRepositoriesPlural ==
+正在撤除存{0}...
+
+== DeletingBranchesSingular ==
+正在除分支{0}...
+
+== DeletingBranchesPlural ==
+正在除分支{0}...
+
+== DeletingLabelsSingular ==
+正在除{0}...
+
+== DeletingLabelsPlural ==
+正在除{0}...
+
+== DeletingShelvesSingular ==
+正在除置...
+
+== DeletingShelvesPlural ==
+正在除置...
+
+== DeletingAttributesSingular ==
+正在除属性 {0}...
+
+== DeletingAttributesPlural ==
+正在除属性 {0}...
+
+== DeletingChangeset ==
+正在除更集...
+
+== MovingChangeset ==
+正在移更集...
+
+== PreviousLabel ==
+上一个果
+
+== NextLabel ==
+下一个果
+
+== BrexSearchFieldLabel ==
+分支源管理器搜索
+
+== BrexDisplayOptions ==
+示
+
+== SelectAll ==
+全
+
+== MergeSelectedFiles ==
+合并所文件
+
+== MergeKeepingSourceChanges ==
+合并保留源更改（他人的）
+
+== MergeKeepingWorkspaceChanges ==
+合并保留工作区更改（的/目）
+
+== DiffDestinationWithAncestor ==
+差比上和目参与者
+
+== DiffSourceWithAncestor ==
+差比上和源参与者
+
+== DiffSourceWithDestinationEvilTwin ==
+差比源中添加的和目中添加的
+
+== DiffSourceWithDestinationAddMove ==
+差比源中添加的和目中移的
+
+== DiffSourceWithDestinationCycleMove ==
+差比源中移的和目中移的
+
+== DiffSourceWithDestinationDeleteMove ==
+差比源中除的和目中移的
+
+== DiffSourceWithDestinationMoveAdd ==
+差比源中移的和目中添加的
+
+== DiffSourceWithDestinationMoveDelete ==
+差比源中移的和目中除的
+
+== DiffSourceWithDestinationMoveEvilTwin ==
+差比源中移的和目中移的
+
+== RetryUpdate ==
+重更新
+
+== UpdateForced ==
+制更新
+
+== LoadingWorkspaces ==
+正在加工作区...
+
+== LoadingHistory ==
+正在加史...
+
+== LoadingAnnotations ==
+正在加批注...
+
+== LoadingBrowseRepository ==
+正在加更集...
+
+== ProcessingMerge ==
+正在理合并...
+
+== CalculatingMerge ==
+正在算合并...
+
+== CalculatingIncomingChanges ==
+正在算入更改...
+
+== LoadingFindMerge ==
+正在找要合并的元素...
+
+== LoadingPendingChanges ==
+正在找工作区中的更改...
+
+== LabellingWorkspace ==
+正在将 {0} 用于工作区...
+
+== LabellingChangeset ==
+正在将 {0} 用于更集 {1}...
+
+== ApplyingLocalChanges ==
+正在用本地更改...
+
+== ApplyingConflicts ==
+正在用冲突...
+
+== LoadingRepositories ==
+正在加存...
+
+== NewRepositoryExplanation ==
+入新存的名称，并保将在正的服器上建存。
+
+== NewWorkspaceExplanation ==
+工作区是用于理文件和行更改的本地副本。一个工作区一次只理一个分支。工作区可以切到一个分支，甚至位于一个存中。
+
+== RenameWorkspaceExplanation ==
+重命名工作区不会修改其路径。
+
+== ItemSearchField ==
+搜索
+
+== SearchInProgress ==
+正在搜索...
+
+== SearchIncludePrivateItems ==
+包含私有
+
+== SizeColumn ==
+大小
+
+== BinaryFile ==
+二制文件
+
+== Directory ==
+目
+
+== TextFile ==
+文本
+
+== LinkFile ==
+符号接
+
+== Unknown ==
+未知
+
+== CustomExtensionFile ==
+自定展名
+
+== CreateChildBranchTitle ==
+建分支
+
+== CreateChildBranchExplanation ==
+从以下来源建新的子分支：
+
+== ReplicateBranchTitle ==
+Unity VCS 制
+
+== ReplicateBranchExplanation ==
+从一个存制分支/将分支制到一个存。
+
+== UsingProfile ==
+配置文件：{0}
+
+== DefaultProfile ==
+使用默配置
+
+== LabelChangesetExplanation ==
+ {1}@{2} 的更集 {0}
+
+== RenameBranchTitle ==
+重命名分支
+
+== CreateLabelTitle ==
+将用于更集
+
+== CreateLabelExplanation ==
+有助于突出示重要的更集。通常，会定的基并布客。
+
+== RenameLabelTitle ==
+重命名
+
+== EditAttributeTitle ==
+属性
+
+== LastChangeset ==
+最后一个更集
+
+== BranchNameEntry ==
+分支名称：
+
+== BranchNameAlreadyExists ==
+分支 {0} 已存在
+
+== LabelNameAlreadyExists ==
+ {0} 已存在 ({1})
+
+== LabelNameEntry ==
+名称：
+
+== ChangesetToLabelEntry ==
+要的更集：
+
+== CommentsEntry ==
+注：
+
+== SwitchToBranchCheckButton ==
+将工作区切到此分支
+
+== SwitchToLabelCheckButton ==
+将工作区切到此
+
+== SwitchToBranchTitle ==
+切到分支
+
+== SwitchToChangesetTitle ==
+切到更集
+
+== SwitchToLabelTitle ==
+切到
+
+== SwitchToExplanation ==
+的工作区中有待定更改。
+
+ 可以行切操作或者取消切并打“待定更改”，以便可以入（或撤）待定更改。然后，可以再次行 "{0}" 命令。
+
+如果行切操作，本地更改将不会失，并在切操作后仍将示待定更改。
+
+== SwitchToLabelExplanation ==
+的工作区中有待定更改。
+
+可以行切操作或者取消切并打“待定更改”，以便可以入（或撤）待定更改。然后，可以再次行“将工作区切到此”命令。
+
+如果行切操作，本地更改将不会失，并在切操作后仍将示待定更改。但是，将无法提交些更改，因配置是只配置。
+
+要修改的配置，建一个分支，将置分支基。然后，将工作区切到分支并像往常一行更改。
+
+== SwitchToConfirmationCheckButton ==
+不再示此框
+
+== SwitchToConfirmationContinueButton ==
+行切
+
+== SwitchToConfirmationCancelViewChangesButton ==
+取消并看更改
+
+== SwitchToConfirmation ==
+正在更改工作区配置。是否？
+
+== SwitchToBranchConfirmation ==
+正在更改工作区配置: {0}。
+
+是否？
+
+== SwitchToLabelConfirmation ==
+正在将工作区切到，会加一的已修。所有加的修都将是只的。
+
+ 要修改的配置，建一个分支，将置分支基。然后，将工作区切到分支并像往常一行更改。
+
+是否？
+
+== SwitchActionOptionsTitle ==
+切/更新包含已更改的工作区的行
+
+== SwitchActionAllowOption ==
+允
+
+== SwitchActionWarnOption ==
+允，示警告
+
+== SwitchActionFailOption ==
+不允，示
+
+== UpdateResultsTitle ==
+更新果
+
+== UpdateResultsExplanation ==
+更新操作了一些。看些。
+
+== CheckinConflictsTitle ==
+入冲突
+
+== CheckinConflictsExplanation ==
+入操作了以下无法入的冲突。
+“定”可不冲突的行操作。
+ “取消”可中止整个操作。
+
+== CheckinConflictsToMergeTitle ==
+文件需要合并
+
+== CheckinConflictsToMergeExplanation ==
+有一些新的更改需要与的更改合并。
+“合并”可立即合并文件。
+否，“取消”。
+
+== EditAttributeExplanation ==
+可以属性指定一个新名称，并更改其注文本。
+
+== ResetQueryButton ==
+重置
+
+== ClearHistoryButton ==
+清除史
+
+== SetAsDefaultQuery ==
+置默
+
+== NewDirectoryTitle ==
+建新的目
+
+== NewFileTitle ==
+建新的空文件
+
+== NewDirectory ==
+新建目
+
+== NewFile ==
+新建文件
+
+== RenameDirectoryTitle ==
+重命名目
+
+== RenameFileTitle ==
+重命名文件
+
+== NewSyncTitle ==
+建新的同
+
+== DependenciesTitle ==
+撤出依
+
+== DependenciesDialogTitle ==
+待定依
+
+== AddChildBranches ==
+添加子分支
+
+== AddParentBranches ==
+添加父分支
+
+== AddBranchesSourceOfMerge ==
+添加分支合并源
+
+== AddBranchesDestinationOfMerge ==
+添加分支合并目
+
+== TypeDescription ==
+在此入描述
+
+== ConditionalBranchRulesHelp ==
+可以使用“cm find”格式入，而不必指定“找分支”。
+看“找指南”以了解更多信息。
+示例：
+  changesets >= '2 months ago'
+  attribute = 'status' and attrvalue='finished'
+
+== ConditionalChangesetRulesHelp ==
+可以使用“cm find”格式入，而不必指定“找更集”。
+看“找指南”以了解更多信息。
+示例：
+  branch = 'main'
+  attribute = 'status' and attrvalue='finished'
+
+== ConditionalLabelRulesHelp ==
+可以使用“cm find”格式入，而不必指定“找”。
+看“找指南”以了解更多信息。
+示例：
+  date >= '2 months ago'
+  attribute = 'status' and attrvalue='finished'
+
+== DependenciesExplanation ==
+一些所取决于其他需要包含在操作中的。
+ "{0}" 理所有依（推荐），或取消操作。
+
+== MergeLinkDescriptionColumn ==
+合并接描述
+
+== TaskIdColumn ==
+ID
+
+== TaskTitleColumn ==
+
+
+== AssigneeColumn ==
+被分派人
+
+== LocationColumn ==
+位置
+
+== Merge ==
+合并
+
+== CherryPick ==
+挑
+
+== IntervalMerge ==
+隔合并
+
+== SubtractiveMerge ==
+法合并
+
+== SubtractiveIntervalMerge ==
+法隔合并
+
+== UnsupportedMergeType ==
+不支持的合并型
+
+== MergeSourceFormat ==
+{1}@{2} 的 {0}
+
+== ConfirmDeleteTitle ==
+除
+
+== ConfirmApplyLabelTitle ==
+操作
+
+== ConfirmApplyLabelExplanation ==
+正在将 "{0}" 用于工作区中当前的所有修。是否？
+
+== BranchNameEmpty ==
+分支名称不得空
+
+== LabelNameEmpty ==
+名称不得空
+
+== SyncViewNameEmpty ==
+同名称不得空
+
+== AttributeNameEmpty ==
+属性名称不得空
+
+== LabelButton ==
+
+
+== LabelAllXlinksCheckButton ==
+所有通 Xlink 接的存
+
+== RenameButton ==
+重命名
+
+== Rename ==
+重命名
+
+== CreateButton ==
+建
+
+== SaveButton ==
+保存
+
+== DeleteButton ==
+除
+
+== SwitchButton ==
+切
+
+== DiffWindowMenuItemDiff ==
+差比
+
+== ApplyButton ==
+用
+
+== MergeButton ==
+合并
+
+== BrExNewChangesetWillBeCreated ==
+新建更集
+
+== BrexMergeLinkTitle ==
+合并接 {0}
+
+== BrexMergeLinkCaptionBody ==
+源：{0}{1}目：{2}
+
+== BrexMergeLinkPending ==
+，待定
+
+== BrexMergeChangesetInterval ==
+更集隔 ({0} - {1}]
+
+== BrexMergeCouldNotMerge ==
+[糟，无法取隔数据！]
+
+== BrexMergeChangesetOnBranch ==
+分支 {1} 上的更集 {0}
+
+== BrexCherryPickLinkType ==
+（挑）
+
+== BrexIntervalCherryPickLinkType ==
+（从更集隔挑）
+
+== BrexIntervalCherryPickSubstractiveLinkType ==
+（从更集隔去）
+
+== BrexCherryPickSubstractiveLinkType ==
+（法）
+
+== BrexProperties ==
+属性
+
+== BrexAttributes ==
+属性
+
+== CredentialsDialogTitle ==
+接到服器
+
+== CredentialsDialogExplanation ==
+入凭据以接到 {0}
+
+== UserName ==
+用名：
+
+== Password ==
+密：
+
+== RememberCredentialsAsProfile ==
+住凭据作接配置文件
+
+== CredentialsErrorSavingProfile ==
+保存接配置文件出：{0}
+
+== BrexObjectNameProperty ==
+象名称：
+
+== BrexCreationDateProperty ==
+建日期：
+
+== BrexOwnerProperty ==
+所有者：
+
+== BrexReplicationSourceProperty ==
+制源：
+
+== BrexGuidProperty ==
+GUID：
+
+== BrexCommentsProperty ==
+注：
+
+== BrexDisplayBranches ==
+示分支
+
+== BrexDisplayFullBranchNames ==
+示完整分支名称
+
+== BrexDisplayMergeLinks ==
+示合并接
+
+== BrexDisplayCrossBranchCsetLinks ==
+示跨分支更集接
+
+== BrexDisplayLabels ==
+示
+
+== BrexDisplayBranchTaskInfo ==
+示分支任信息
+
+== BrexDisplayOnlyRelevantCsets ==
+示相更集
+
+== NoReplicationSources ==
+未制
+
+== GluonConfiguration ==
+Gluon 配置
+
+== EnterServer ==
+入服器名称
+
+== EnterServerFormat ==
+以“服器:端口”格式指定服器名称。默端口 8087
+
+== EnterUserName ==
+入用名
+
+== EnterPassword ==
+入密
+
+== EnterRepository ==
+入存
+
+== EnterCloudRepository ==
+入 Cloud 存名称
+
+== EnterLocalRepository ==
+入本地存名称
+
+== NoValidPath ==
+无有效路径
+
+== Connected ==
+已正常接 ({0})
+
+== CredentialsOK ==
+凭据果正常
+
+== Connecting ==
+正在接...
+
+== CheckingCredentials ==
+正在凭据...
+
+== Connect ==
+接
+
+== ScanNetwork ==
+描网...
+
+== Check ==
+
+
+== ChooseRepositoryCloudEdition ==
+加入有目或建新目
+
+== EnterRepositoryWaterMark ==
+入存名称或从列表中
+
+== GluonConfigurationWorkspaceLabel ==
+工作区：
+
+== GluonConfigurationWorkspaceExplanation ==
+工作目（即工作区）。目将包含要使用的文件。
+
+== ApplyingChanges ==
+正在用更改...
+
+== Apply ==
+用
+
+== CouldNotFindWorkingRepositoryOrBranch ==
+无法找到工作存或分支
+
+== AvailableChangesets ==
+可用的 Unity VCS 更集
+
+== SelectChangesetBelow ==
+从以下列表中一个更集：
+
+== AvailableBranches ==
+可用的 Unity VCS 分支
+
+== AvailableRepositories ==
+可用的 Unity VCS 存
+
+== SelectBranchesBelow ==
+从以下列表中一个分支：
+
+== SelectRepositoryBelow ==
+从以下列表中一个存：
+
+== AvailableServers ==
+可用的 Unity VCS 服器
+
+== SelectServerBelow ==
+从以下列表中一个服器：
+
+== ScanningForServers ==
+正在描服器...
+
+== AddressColumn ==
+地址
+
+== PortColumn ==
+端口
+
+== FilterWaterMark ==
+
+
+== ExploreWorkspace ==
+工作区
+
+== CheckinChanges ==
+入更改
+
+== Configure ==
+配置
+
+== Loading ==
+正在加...
+
+== OperationRunning ==
+操作正在行
+
+== OperationInProgress ==
+目前有一个操作正在行。等待操作完成。
+
+== ConfirmClosingRunningOperation ==
+一个操作目前正在行。是否定要退出？
+
+== SearchFiles ==
+搜索文件...
+
+== SearchFilesHint ==
+可以使用“*”和“?”来匹配文件名。也可以在搜索中使用目。
+
+== SearchForFiles ==
+搜索文件
+
+== Searching ==
+搜索
+
+== IncludePrivateFiles ==
+包含私有文件
+
+== NoMatchesFound ==
+找不到匹配
+
+== ContainerFolderColumn ==
+容器文件
+
+== CheckinComment ==
+在此入入注
+
+== CheckinOnlyComment ==
+在此入入注
+
+== BrowseForFolderTitle ==
+文件
+
+== BrowseForSaveFileTitle ==
+保存文件
+
+== PlasticSCMServerLabel ==
+入服器的名称/IP 和端口：
+
+== PreferencesWindowTitle ==
+Unity DevOps Version Control 首 - {0}
+
+== GeneralPreferences ==
+常
+
+== DiffAndMerge ==
+差比和合并
+
+== DiffAndMergeExplanation ==
+Unity VCS 内置差比和合并工具 (Xmerge) 的首：
+
+== ComparisonMethodAndEncodingTitle ==
+比方法和
+
+== MergeViewBehaviorTitle ==
+合并行
+
+== ConflictResolutionTitle ==
+解决合并冲突
+
+== ComparisonMethod ==
+比方法：
+
+== ManualConflictResolution ==
+手冲突解决
+
+== ManualConflictResolutionTooltip ==
+始合并工具以看冲突，即使所有冲突都是自冲突
+
+== AutomaticConflictResolution ==
+自冲突解决（如果可能）
+
+== AutomaticConflictResolutionTooltip ==
+在需要用交互来解决冲突才合并工具
+
+== MergeWithPendingChanges ==
+允与待定更改合并
+（默情况下禁用，以免新用在撤合并遇到）
+
+== OtherOptions ==
+其他
+
+== MiscOptionsTitle ==
+其他
+
+== SetFilesAsReadOnlyAfterUpdateOrCi ==
+更新和入操作将文件置只
+
+== CompareChangedFilesContents ==
+已修改文件戳以将文件置“已更改”
+内容（哈希）
+
+== CompareChangedFilesContentsTooltip ==
+用于建立“已更改”状
+
+== UpdateSetsTimestamps ==
+更新操作在文件上置存戳
+
+== EnableSharedWorkspaces ==
+用共享工作区支持 (Samba/WinShare)
+
+== DisplayErrorOnSameCaseFiles ==
+于文件名相同但大小写不同的情况示
+
+== DisplayErrorOnSameCaseFilesTooltip ==
+用于 Unix 的文件系
+
+== DefaultWorkspaceRoot ==
+默工作区根目：
+
+== CommandHelpDialogTitle ==
+命令助
+
+== MergeToolsConfiguration ==
+合并工具
+
+== DiffToolsConfiguration ==
+差比工具
+
+== DiffToolsTableTitle ==
+不同的文件型和展名配置差比工具。些按以下序自上而下行用。
+
+== DiffToolsExplanation ==
+文件型或展名，然后入命令以行差比工具：
+
+== DiffToolsCommandHelp ==
+用外部差比工具，可使用以下命令行参数。
+            必保指定的文件具有要比的修内容。
+
+            @sourcefile:文件的完整路径，文件的内容将示在左面板中。
+            @destinationfile:文件的完整路径，文件的内容将示在右面板中。
+
+            @sourcesymbolic:源文件的符号名称。
+            @destinationsymbolic:目文件的符号名称。
+
+            @sourcehash:根据源文件内容算得出的 MD5 字符串。
+            @destinationhash:根据目文件内容算得出的 MD5 字符串。
+
+            @filetype:MIME 型，用于法。
+            @comparationmethod:使用的比方法。
+            @fileencoding:未到使用的默文件。
+
+== MergeToolsTableTitle ==
+不同的文件型和展名配置合并工具。些按以下序自上而下行用。
+
+== MergeToolsExplanation ==
+文件型或展名，然后入命令以行合并工具：
+
+== MergeToolsCommandHelp ==
+在命令行中用外部合并工具，可使用以下量作参数：
+
+            @sourcefile:源合并文件的完整路径。
+            @destinationfile:目合并文件的路径。
+            @basefile:共同上合并文件的路径。
+            @output:合并果文件的路径。
+
+            @sourcesymbolic:源文件的符号名称。
+            @destinationsymbolic:目文件的符号名称。
+            @basesymbolic:基文件的符号名称。
+
+            @sourcehash:根据源文件内容算得出的 MD5 字符串。
+            @destinationhash:根据目文件内容算得出的 MD5 字符串。
+            @basehash:根据基文件内容算得出的 MD5 字符串。
+
+            @filetype:用于法的 MIME 型。
+            @fileencoding:未到使用的默文件。
+            @resultencoding:果文件（如果 NONE，根据参与者算得出）。
+
+            @comparationmethod:使用的比方法。
+            @mergetype:使用的合并型。
+
+            @progress:指示当前操作的度字符串，例如“正在合并文件 3/10”。
+            @extrainfofile:文件的路径，文件中包含有当前合并的外信息。
+
+== TypeSuffixColumn ==
+型/后
+
+== DiffCommandColumn ==
+差比工具命令行
+
+== MergeCommandColumn ==
+合并工具命令行
+
+== AddToolButton ==
+添加
+
+== RemoveToolButton ==
+除
+
+== FileTypeQuestion ==
+此命令匹配些文件？
+
+== ExtensionTooltip ==
+.展名
+
+== ExternalTool ==
+外部工具：
+
+== ExternalToolNotFoundError ==
+找不到工具，引入一个有效的工具
+
+== BrowseForExecutableFile ==
+可行文件
+
+== CommandTooltip ==
+在此入命令
+
+== FileCorruptError ==
+文件 {0} 包含，无法使用其配置。看其内容。：{1}
+
+== UndoCheckoutTitle ==
+撤出
+
+== UndoCheckoutQuestion ==
+取消所的出将会放弃自上次入以来些所做的所有更改。此操作无法撤。是否？
+
+== RenameSyncTitle ==
+重命名同
+
+== RenameTitle ==
+重命名
+
+== ApplyLocalChanges ==
+用本地更改
+
+== SearchingDependencies ==
+正在搜索依...
+
+== ApplyingDependencies ==
+正在用依...
+
+== CheckinViewOptions ==
+入
+
+== Canceling ==
+正在取消...
+
+== CancelingMerge ==
+正在取消...（等到当前合并操作完成）
+
+== KeepLocked ==
+保持定
+
+== StatusCannotMerge ==
+无法合并
+
+== StatusOutOfDate ==
+期
+
+== StatusDeletedOnServer ==
+已在服器上除
+
+== StatusLockedBy ==
+已由 '{0}' 定
+
+== StatusCheckedOutChanged ==
+已出（已更改）
+
+== StatusCheckedOutUnchanged ==
+已出（未更改）
+
+== StatusChanged ==
+已更改
+
+== StatusReplaced ==
+已替
+
+== StatusNotOnDisk ==
+不在磁上
+
+== StatusAdded ==
+已添加
+
+== StatusIgnored ==
+已忽略
+
+== UpdatingWorkspace ==
+正在更新的工作区...
+
+== ApplyingConfiguration ==
+正在用配置...
+
+== SwitchingToBranch ==
+正在切到分支 {0}...
+
+== SwitchingToChangeset ==
+正在切到更集 {0}...
+
+== SwitchingToLabel ==
+正在切到 {0}...
+
+== StatusUnderUnresolvedXlink ==
+通 Xlink 接的更集 '{0}@{1}' 不可用
+
+== MovedHistoryDescription ==
+已从 {0} 移到 "{1}"
+
+== RemovedHistoryDescription ==
+已除 {0}
+
+== SelectProgramToLaunch ==
+要的程序
+
+== WindowTitle ==
+工作区：{0}
+
+== ItemsMenuUpdate ==
+更新
+
+== ConfigurationUnresolvedXlink ==
+通 Xlink 接的更集 '{0}@{1}' 不可用
+
+== WorkspacesViewTitle ==
+工作区
+
+== RepositoriesViewTitle ==
+存
+
+== PendingChangesViewTitle ==
+待定更改
+
+== BranchesViewTitle ==
+分支
+
+== ChangesetsViewTitle ==
+更集
+
+== SyncViewTitle ==
+同存
+
+== ShelvesViewTitle ==
+置
+
+== HistoryViewTitle ==
+{0} 的史
+
+== AnnotateViewTitle ==
+{0} 的批注
+
+== BrowseRepositoryViewTitle ==
+存 - {0}
+
+== ConfigurationModeExplanationAutomatic ==
+目更新模式：自
+
+目的所有子，将置自模式。
+“自”意味着在更新期将下所有新文件和目。
+
+== ConfigurationModeExplanationManual ==
+目更新模式：手
+
+未目的所有子，将置手模式。
+“手”意味着更新程不会自下新文件和目。
+
+== PendingDirectoryConflictsResolvingConflictsSingular ==
+在解决文件冲突之前，必解决 1 个目冲突。
+
+== PendingDirectoryConflictsResolvingConflictsPlural ==
+在解决文件冲突之前，必解决 {0} 个目冲突。
+
+== PendingDirectoryConflictsApplyingChangesSingular ==
+在用更改之前，必解决 1 个目冲突。
+
+== PendingDirectoryConflictsApplyingChangesPlural ==
+在用更改之前，必解决 {0} 个目冲突。
+
+== PendingDirectoryConflictsUpdatingWorkspaceSingular ==
+在更新工作区之前，必解决 1 个目冲突。
+
+== PendingDirectoryConflictsUpdatingWorkspacePlural ==
+在更新工作区之前，必解决 {0} 个目冲突。
+
+== CreatedByColumn ==
+建者
+
+== UnresolvedXlink ==
+未解析的 Xlink
+
+== UnexpectedError ==
+生了意外。
+
+== SaveRequest ==
+保存注
+
+== SaveRequestMessage ==
+当前所象的注已修改。保存更改？
+
+== ProvideDifferentWorkspaceName ==
+提供其他工作区名称或取消操作。
+
+== ProvideDifferentRepositoryName ==
+提供其他存名称或取消操作。
+
+== ProvideDifferentItemName ==
+提供其他名称或取消操作。
+
+== ProvideDifferentBranchName ==
+提供其他分支名称或取消操作。
+
+== ProvideDifferentLabelName ==
+提供其他名称或取消操作。
+
+== ProvideDifferentSyncViewName ==
+提供其他同名称或取消操作。
+
+== ProvideDifferentItemNameForRenameResolution ==
+提供其他名称。
+
+== ProvideUserName ==
+入用名。
+
+== ProvidePassword ==
+入密。
+
+== ReplicationSource ==
+制源
+
+== ReplicationDestination ==
+制目
+
+== PullingProgressTitle ==
+正在拉取分支 {0}
+
+== PushingProgressTitle ==
+正在将分支 {0} 推送到 {1}
+
+== CurrentOfTotalReplicationProgressTitle ==
+   {0} / {1}
+
+== PullBranch ==
+拉取分支 {0}
+
+== PullRemoteBranch ==
+拉取程分支
+
+== PushBranch ==
+推送分支 {0}
+
+== ReplicateButton ==
+制
+
+== GenericChooseButton ==
+...
+
+== ServerEmpty ==
+服器字段不能空。
+
+== RepositoryEmpty ==
+存字段不能空。
+
+== BranchEmpty ==
+分支字段不能空。
+
+== OperationStarting ==
+操作始
+
+== FetchingMetadata ==
+正在提取元数据
+
+== PushingMetadata ==
+正在推送元数据
+
+== IntroducingData ==
+正在引入数据
+
+== OperationStartingFetch ==
+操作始提取
+
+== CalculatingInitialChangeset ==
+正在算初始更集
+
+== FetchingRevisions ==
+正在提取修 ({0})
+
+== FetchingBranches ==
+正在提取分支 ({0})
+
+== FetchingItems ==
+正在提取 ({0})
+
+== FetchingLabels ==
+正在提取 ({0})
+
+== FetchingLinks ==
+正在提取接 ({0})
+
+== FetchingChildren ==
+正在提取子 ({0})
+
+== FetchingChangeSets ==
+正在提取更集 ({0})
+
+== FetchingMoveRealizations ==
+正在提取移 ({0})
+
+== FetchingReviews ==
+正在提取 ({0})
+
+== FetchingAttributes ==
+正在提取属性 ({0})
+
+== FetchingACLs ==
+正在提取 ACL ({0})
+
+== FetchingReferences ==
+正在提取引用 ({0})
+
+== FetchingSEIDs ==
+正在提取 SEID ({0})
+
+== FetchingFinished ==
+正在送元数据 ({0})
+
+== OperationStartingPush ==
+操作始推送
+
+== ReconcilingObjects ==
+正在象 ({0})
+
+== PushingReferences ==
+正在推送引用 ({0} %)
+
+== ReconcilingACLs ==
+正在 ACL ({0} %)
+
+== PushingBranches ==
+正在推送分支 ({0} %)
+
+== PushingItems ==
+正在推送 ({0} %)
+
+== PushingLinks ==
+正在推送接 ({0} %)
+
+== PushingLabels ==
+正在推送 ({0} %)
+
+== PushingAttributes ==
+正在推送属性 ({0} %)
+
+== ProcessingBranches ==
+正在理分支 ({0} %)
+
+== PushingChangeSets ==
+正在推送更集 ({0} %)
+
+== PushingRevisions ==
+正在推送修 ({0} %)
+
+== PushingMoveRealizations ==
+正在推送移 ({0} %)
+
+== PushingTrees ==
+正在推送 ({0} %)
+
+== PushingACLs ==
+正在推送 ACL ({0} %)
+
+== PushingFinished ==
+已完成推送
+
+== IntroducingDataProgress ==
+正在引入数据 ({0} %)
+
+== DataWritten ==
+已写入数据
+
+== OperationAbandoned ==
+已放弃操作
+
+== OperationFinished ==
+已完成操作
+
+== ReplicationError ==
+制期生了：{0}
+
+== UnknownStatus ==
+未知状
+
+== RetryReplicaButton ==
+重
+
+== SkipReplicaButton ==
+跳
+
+== SourceReplicationServer ==
+源服器
+
+== SourceReplicationRepository ==
+源存
+
+== SourceReplicationBranch ==
+源分支
+
+== DestinationReplicationServer ==
+目服器
+
+== DestinationReplicationRepository ==
+目存
+
+== CreateWorkspaceButton ==
+建新的工作区...
+
+== MenuAddToIgnoreList ==
+添加到已忽略列表
+
+== MenuRemoveFromIgnoreList ==
+从已忽略列表中除
+
+== MenuAddToCloakedList ==
+添加到已掩蔽列表
+
+== MenuRemoveFromCloakedList ==
+从已掩蔽列表中除
+
+== MenuAddToHiddenChangesList ==
+添加到已藏更改列表
+
+== MenuRemoveFromHiddenChangesList ==
+从已藏更改列表中除
+
+== UsingItemExtension ==
+使用展名
+
+== UsingItemFullPath ==
+使用完整路径
+
+== UsingItemName ==
+使用名称
+
+== FilterRulesConfirmationTitle ==
+
+
+== FilterRulesConfirmationAddMessage ==
+以下将添加到配置文件中。是否？
+
+== FilterRulesConfirmationRemoveMessage ==
+以下将从配置文件中除。是否？
+
+== ApplyRulesToAllWorkspaceCheckButton ==
+将用于所有工作区
+
+== ShelveWithPendingMergeLinksRequest ==
+在有待定合并接的情况下置
+
+== ShelveWithPendingMergeLinksRequestMessage ==
+在工作区中有待定合并接。置操作不会置待定合并接。是否仍要置？
+
+== UndoChangesAfterShelveRequest ==
+置后撤更改
+
+== UndoChangesAfterShelveRequestMessage ==
+的更改已入到更集（置）。些更改在可以用于任何分支。是否要撤工作区中的些更改？
+
+== ShelveCreatedMessage ==
+待定更改已置到 {0}
+
+== NewCertificateTitle ==
+服器 SSL 不在存中
+
+== NewCertificateMessageUnityVCS ==
+要接到的服器送了一个不在存中的。如果是首次接到此服器，是正常象。
+
+            信息：
+            - 已：{0}
+            - 者：{1}
+            - 到期日期：{3}
+            - 哈希：{5}
+
+            如果信任此主机，“是”以将密添加到 Unity Version Control 密存中（如果是首次接到此服器，建做）。
+            如果只想行一次接而不将密添加到存中，“否”。
+            如果不信任此主机，“取消”以放弃接。
+
+== ExistingCertificateChangedTitle ==
+服器已更改！
+
+== ExistingCertificateChangedMessageUnityVCS ==
+警告：此主机与密存中的不匹配。可能意味着服器身已泄露或正在受到中人攻。
+
+            信息：
+            - 已：{0}
+            - 者：{1}
+            - 到期日期：{3}
+            - 哈希：{5}
+
+            如果此更改是期望的并且信任新，“是”以将密添加到 Unity Version Control 密存中并在以后信任此。
+            如果只想行一次接而不将密添加到存中，“否”。
+            如果要放弃此接，“取消”。是唯一有保的安全。
+
+== InvalidCertificateHostnameTitle ==
+安全接中的主机名不匹配
+
+== InvalidCertificateHostnameMessage ==
+警告：服器中提供的主机名与服器主机名不匹配。意味着不是此主机名的，或者此主机存在网配置。
+
+            - 主机名：{0}
+            - 服器主机名：{1}
+
+            如果要接到此主机，“是”。将（不推荐）。
+            如果要放弃接，“否”（推荐）。
+
+== RepositoryExplorerServerLabel ==
+服器：
+
+== UndeleteButtonTooltip ==
+用于恢除的文件
+
+== UndeleteViewTitle ==
+已除
+
+== UndeleteMenuItemUndeleteRevision ==
+撤除修
+
+== UndeleteMenuItemUndeleteRevisionToThisPath ==
+撤除此路径的修...
+
+== UndeletingItem ==
+正在撤除...
+
+== UndeletingItemsSingular ==
+正在撤除 1 ...
+
+== UndeletingItemsPlural ==
+正在撤除 {0} ...
+
+== EnterRestorePathFormTitle ==
+撤除
+
+== EnterRestorePathFormParentDoesNotExistExplanation ==
+的父目不存在，入新位置
+
+== EnterRestorePathFormIsPathAlreadyUsedExplanation ==
+相同路径下已有一，入新位置
+
+== EnterRestorePathFormTextBoxExplanation ==
+入要撤除的元素的原路径
+
+== EnterRestorePathFormLabel ==
+路径：
+
+== EnterValidRestorePath ==
+入有效的工作区路径
+
+== RestorePathShouldNotExist ==
+原路径不存在
+
+== RestorePathParentShouldExist ==
+原路径的父目存在
+
+== DeletedItemsOwner ==
+所有者：
+
+== DeletedItemsSince ==
+自：
+
+== MeOwnerOption ==
+我
+
+== EveryoneOwnerOption ==
+所有人
+
+== ItemUndeletedCorrectly ==
+已正常撤除：'{0}'
+
+== ItemCannotBeUndeleted ==
+ '{0}'（ID：{1}）无法撤除，因在父目修（ID：{2})
+
+== CheckinViewTitle ==
+入更改
+
+== UserDefinedSyncView ==
+用定的同：
+
+== AddSyncViewButton ==
+添加
+
+== RenameSyncViewButton ==
+重命名
+
+== DeleteSyncViewButton ==
+除
+
+== SyncViewDetailsTitle ==
+同信息
+
+== AddSrcSyncViewRepoButton ==
+添加源存
+
+== DeleteSrcSyncViewRepoButton ==
+除源存
+
+== AddDstSyncViewRepoButton ==
+添加目存
+
+== DeleteDstSyncViewRepoButton ==
+除目存
+
+== PushVisibleButton ==
+推送可
+
+== PushVisibleButtonTooltip ==
+推送所有可的出分支
+
+== PullVisibleButton ==
+拉取可
+
+== PullVisibleButtonTooltip ==
+拉取所有可的入分支
+
+== ShowExcludedBranchesCheckButton ==
+示排除的分支
+
+== NewSyncView ==
+新建同
+
+== NewSyncViewName ==
+同名称
+
+== NewSyncViewTitle ==
+建一个新的同以推送/拉取分支
+
+== NewSyncViewTitleCloud ==
+建一个新的同以将分支推送/拉取到 Unity VCS Cloud
+
+== NewSyncViewExplanation ==
+借助同，无需逐个行推送/拉取，而是可以松批量制分支
+
+== NewSyncViewCheckingRepositories ==
+正在存...
+
+== NewSyncViewNoSourceRepository ==
+没有可用作源的 {0} 存
+
+== NewSyncViewNoDestinationRepository ==
+没有可用作目的 {0} 存
+
+== NewSyncViewSourceRepository ==
+源存
+
+== NewSyncViewDestinationRepository ==
+目存
+
+== NewSyncViewEnterSyncViewName ==
+入同名称
+
+== NewSyncViewEnterRepositorySpec ==
+入存格
+
+== NewSyncViewInvalidRepositorySpec ==
+无效的存格：{0}
+
+== NewSyncViewCheckingSourceRepositoryExists ==
+正在源存是否存在...
+
+== NewSyncViewCheckingDestinationRepositoryExists ==
+正在目存是否存在...
+
+== NewSyncViewSourceRepositoryNotExist ==
+源存 {0} 不存在
+
+== NewSyncViewDestinationRepositoryNotExist ==
+目存 {0} 不存在
+
+== NewSyncViewCreateSyncView ==
+建新的同（推送/拉取）
+
+== SyncStatusLoading ==
+正在加...
+
+== SyncStatusUpToDate ==
+所有分支都是最新的
+
+== SyncStatusError ==
+：{0}
+
+== OutgoingBranchesSingular ==
+出分支 - 1 个分支
+
+== OutgoingBranchesPlural ==
+出分支 - {0} 个分支
+
+== IncomingBranchesSingular ==
+入分支 - 1 个分支
+
+== IncomingBranchesPlural ==
+入分支 - {0} 个分支
+
+== ExcludedBranchesSingular ==
+排除的分支 - 1 个分支
+
+== ExcludedBranchesPlural ==
+排除的分支 - {0} 个分支
+
+== SyncMenuItemSyncAllMenuItem ==
+全部同
+
+== SyncMenuItemPushAllMenuItem ==
+推送所有出分支
+
+== SyncMenuItemPullAllMenuItem ==
+拉取所有入分支
+
+== SyncMenuItemRefreshReplicationTarget ==
+刷新
+
+== SyncMenuItemPushBranch ==
+推送分支
+
+== SyncMenuItemPullBranch ==
+拉取分支
+
+== SyncMenuItemExcludeBranch ==
+排除分支
+
+== SyncMenuItemIncludeBranch ==
+包含分支
+
+== CantShowBinaryContent ==
+此文件被二制文件。无法示文件内容；改示文件元数据。可右文件，然后使用“打”看其内容。看在文档以了解更多信息。
+
+== CantShowBinaryDiff ==
+此文件被二制文件。未算出差；改示文件元数据。可右文件，然后使用“差比”外部差比看器（必配置）。看在文档以了解更多信息。
+
+== Content ==
+{0} 的内容
+
+== UpdateMergeExplanation ==
+在存中到新的更集；可以更新到最新的更集/从最新的更集行合并。
+
+== ViewNewChangesButton ==
+看新更改
+
+== RetrievingBranchHeads ==
+正在索分支部...
+
+== RetrievingNewChanges ==
+正在索新更改...
+
+== RetrievingObjectInfo ==
+正在索象信息...
+
+== WorkspaceRevisionKey ==
+工作区修
+
+== MergeToDiffWithDst ==
+目分支上的修
+
+== EncryptionConfiguration ==
+服器加密
+
+== RetypePassword ==
+重新入密：
+
+== EncryptionConfigurationExplanation ==
+服器 '{0}' 要求数据加密。
+            的客端尚未配置理来自 '{0}' 的已加密数据。
+
+== EncryptionConfigurationEnterPassword ==
+入密以生成加密密：
+
+== EncryptionConfigurationRemarks ==
+注：
+            * 特注意加密密；是在服器 '{0}' 上解密数据的唯一方法。
+            * 如果要解密数据，但入了的密，数据将无法解密，此必在客端上 cryptedservers.conf 以修。
+            * 在公司范内慎使用相同的密（加密密）来使用 '{0}'。否，个客端中的数据加密方式将不同。
+
+== InvalidEmptyPassword ==
+密不能空
+
+== PasswordDoesntMatch ==
+密不匹配
+
+== ApplyActionForNextConflictsCheckButtonSingular ==
+后 1 个冲突用此操作。
+
+== ApplyActionForNextConflictsCheckButtonPlural ==
+后 {0} 个冲突用此操作。
+
+== FsProtectionChanged ==
+文件系限已从 {0} 更改 {1}。
+
+== CreateXlinkTitle ==
+建 Xlink
+
+== CreateXlinkExplanation ==
+一个 Xlink 是接到一个存中的更集的目。是在工作区中加多个存的方法。
+
+== XlinkTargetServerEntry ==
+目服器，或入一个服器
+
+== XlinkTargetServerExplanation ==
+“服器:端口”格式，例如：myserver:8087
+
+== XlinkTargetRepositoryEntry ==
+目存
+
+== XlinkTargetChangesetEntry ==
+目更集
+
+== XlinkNameEntry ==
+Xlink 名称（目条目的名称）
+
+== XlinkHint ==
+注意，只有在入 Xlink 并更新工作区后，才会下通 Xlink 接的内容
+
+== SelectARepository ==
+需要先一个存，然后再其中的更集
+
+== MainMainRuleCreated ==
+正在建指向目存主分支的 Xlink。
+            很可能希望在个存之接主分支，因此会此建一条展。
+            如果此布局不是期望的布局，手展。
+
+== XlinkOptions ==
+Xlink 
+
+== WritableXlinkCheckButton ==
+可写（否代的一部分将是只的）
+
+== RelativeServerCheckButton ==
+使用相服器 - Xlink 从本地服器取其存（如果存是制的，建使用此）
+
+== BranchExpansionRules ==
+分支展
+
+== BranchExpansionRulesExplanation ==
+些定了源分支和目分支的接方式。于可写的 Xlink，可以在 main@src 和 main/fix@dst 之定一条接。
+
+== SelectARepositoryForRule ==
+需要先一个存，然后再建
+
+== AddExpansionRuleTitle ==
+添加展
+
+== AddExpansionRuleExplanation ==
+定如何在通 Xlink 接的存之展分支
+
+== SourceBranch ==
+源分支
+
+== DestinationBranch ==
+目分支
+
+== IsDefinedByUser ==
+由用定
+
+== Yes ==
+是
+
+== No ==
+否
+
+== AlreadyDefinedRuleForBranch ==
+已此源分支定了
+
+== XlinkNoChangesetSelected ==
+未更集作 Xlink 的目
+
+== EmptyXlinkName ==
+Xlink 目名称空
+
+== NoRulesDefined ==
+尚未此 Xlink 定分支展，是否定要？
+
+== NoRulesDefinedCaption ==
+未定
+
+== EditXlinkTitle ==
+ Xlink
+
+== EditButton ==
+
+
+== EmptySourceBranch ==
+源分支字段不能空。
+
+== EmptyDestinationBranch ==
+目分支字段不能空。
+
+== LoadingXlinkData ==
+正在加 Xlink 数据...
+
+== CreatingDefaultRule ==
+正在建默...
+
+== NoContentToCompare ==
+没有可比的内容。
+
+== CreateBranchManualMode ==
+手
+
+== CreateBranchTaskMode ==
+从任
+
+== LoadingIssueTrackerExtension ==
+正在加跟踪程序展...
+
+== MarkingTaskAsOpen ==
+在 '{1}' 中将 '{0}' 任未完成
+
+== PendingTasks ==
+待定任
+
+== RetrievingTasks ==
+正在索待定任...
+
+== RetrievingUserTasks ==
+正在索用 '{0}' 的待定任...
+
+== DisplayPendingTasksFromAllUsers ==
+示所有用的待定任
+
+== MarkAsOpenInIssueTracker ==
+在跟踪程序中未完成
+
+== LinkedTasksViewTitle ==
+接的任
+
+== PlasticTaskIdProperty ==
+ID：
+
+== PlasticTaskOwnerProperty ==
+所有者：
+
+== PlasticTaskStatusProperty ==
+状：
+
+== PlasticTaskTitleProperty ==
+：
+
+== PlasticTaskDescriptionProperty ==
+描述：
+
+== DeleteTaskTooltip ==
+除此
+
+== LoadingLinkedTasks ==
+正在加要在跟踪程序中接的任...
+
+== AddTaskTooltip ==
+添加新
+
+== SelectTasksToBeLinkedDialogTitle ==
+从 {0} 
+
+== SelectTasksToBeLinkedExplanation ==
+要接到新更集的
+
+== TaskIdEntryTitle ==
+ ID：
+
+== ManualTaskIdEntryExplanation ==
+如果在上面找不到自己的 ID，可以手入以逗号分隔的 ID 列表
+
+== UnknownTaskIdsInManualEntry ==
+在手入字段中无效的 ID。
+
+== OpenTaskInBrowserTooltip ==
+在 Web 器中打任信息面
+
+== DoNotCheckinChangesJustMove ==
+不要入更改，只需将更改移到指定的分支。
+
+== CreateANewBrachRadioButton ==
+建新的分支
+
+== CreateANewBranchToCheckinExplanationLabel ==
+建 {0} 的子分支，并将的工作区更改入到分支。
+
+== CreateANewBranchToMoveChangesetExplanationLabel ==
+建 {0} 的子分支以移更集 cs:{1}。
+
+== CreateANewBranchLabel ==
+子分支的名称
+
+== SelectExistingBranchRadioButton ==
+一个有分支（必空）
+
+== SelectExistingBranchExplanationLabel1 ==
+一个先前建的分支，然后将的工作区更改入到分支。
+
+== SelectExistingBranchExplanationLabel2 ==
+所分支的分支基将更改当前的基
+
+== SelectExistingBranchToMoveExplanationLabel ==
+一个先前建的分支，然后将所更集移到分支中。
+
+== SelectExistingBranchLabel ==
+所分支
+
+== MoveChangesNoBranchName ==
+指定子分支名称
+
+== MoveChangesSelectABranch ==
+分支
+
+== MoveChangesBranchMustBeEmpty ==
+所分支必空
+
+== CantUpdateBraseChangesetBranchWithRevisions ==
+无法更新分支的基更集，因分支必空
+
+== RetrievingWorskpaceInfo ==
+正在索工作区信息
+
+== MovingChangesToTargetBranch ==
+正在将更改移到目分支...
+
+== UpdatingTargetBranchBase ==
+正在更新目分支基...
+
+== OrganizationUserBelongsTo ==
+的是 {0}
+
+== OrganizationNotFoundLine1 ==
+于 {0}，似乎没有所需的
+
+== NameWorkingMode ==
+算机的用名
+
+== NameIdWorkingMode ==
+名称 + 用 ID
+
+== ADWorkingMode ==
+Active Directory
+
+== LDAPWorkingMode ==
+LDAP
+
+== UPWorkingMode ==
+内置用名和密
+
+== TubeWorkingMode ==
+Tube 工作模式
+
+== RepositoryWillBeKnownAs ==
+将被称 {0}
+
+== CantCreateLocalRepository ==
+无法建本地存
+
+== CantCreateCloudRepository ==
+无法建 Cloud 存
+
+== CantCreateWorkspace ==
+无法建工作区
+
+== CantCreateSyncView ==
+无法建同
+
+== CantRetrieveCloudOrganization ==
+无法索的 Cloud 
+
+== SyncViewNameAlreadyExists ==
+同 {0} 已存在
+
+== StartANewProject ==
+始一个新目
+
+== Distributed ==
+分布式
+
+== JoinExistingProject ==
+加入有目
+
+== Centralized ==
+集中式
+
+== WelcomeToCloudEdition ==
+迎使用 Unity Version Control Cloud Edition！
+
+== WelcomeToUnityVCS ==
+迎使用 Unity VCS！
+
+== WelcomeToGluonTeamEdition ==
+迎使用 Gluon！
+
+== WelcomeToGluonCloudEdition ==
+迎使用 Gluon - Cloud Edition！
+
+== TeamEditionFirstSteps1stCaption ==
+将在接到 Unity VCS 服器的本地工作区上工作
+
+== TeamEditionFirstSteps2ndCaption ==
+可以不同的目建不同的存，通常个存一个工作区。
+
+== CloudEditionFirstSteps1stCaption ==
+可以集中式工作或分布式工作
+
+== CloudEditionFirstSteps2ndCaption ==
+集中式意味着没有本地存
+
+== CloudEditionFirstStepsChooseOption ==
+一条路径以始使用 Unity VCS Cloud
+
+== TeamEditionFirstStepsChooseOption ==
+以下任一以始使用 Unity Version Control
+
+== TeamEditionFirstStepsJoinExistingProjectExplanation ==
+只需在 Unity VCS 服器上一个有的存并建一个新的工作区来下存
+
+== CloudRepository ==
+Cloud 存
+
+== LocalRepositoryName ==
+本地存名称
+
+== NewRepositoryName ==
+新存名称
+
+== WorkspaceName ==
+工作区名称
+
+== PathOnDisk ==
+磁上的路径。的文件将位于磁上的此位置。如果磁上已有目，可以有路径
+
+== MakeWorkspaceDynamic ==
+使工作区化
+
+== CreateSyncViewToPushPullCloud ==
+建一个同以将更改推送/拉取到 Cloud
+
+== BrowseButton ==
+...
+
+== CheckingLocalRepositoryAvailable ==
+正在 Cloud 存名称是否可用...
+
+== CheckingWorkspaceAvailable ==
+正在工作区是否可用...
+
+== CheckingSyncViewNameAvailable ==
+正在同名称是否可用...
+
+== CreatingLocalRepository ==
+正在建存 {0}@local...
+
+== CreatingSyncView ==
+正在建同...
+
+== CloudEditionFirstStepsDistributedExplanation ==
+是 Git 的工作方式，使用本地存并推送/拉取到 Cloud 版本
+
+== CloudRepositoryDoNotExist ==
+的 Cloud 中不存在存 {0}
+
+== CheckingCloudRepositoryExists ==
+正在 Cloud 存是否存在...
+
+== CloudEditionFirstStepsCreateWorkspaceExplanation ==
+就是已接到 Cloud 存的工作区。如果不定，那是合的
+
+== NoRepositoriesFound ==
+找不到存。的 Unity VCS 服器正在行并且服器上有存
+
+== SyncFromLocalToCloudViewName ==
+将 {0} 从本地同到 Cloud
+
+== SyncToRepository ==
+同到 {0}
+
+== SyncFromRepository ==
+从 {0} 同
+
+== LocalServerDetected ==
+到本地服器 {0}
+
+== LocalServerDetectedDvcsMode ==
+到本地服器
+
+== UseSsl ==
+使用 SSL
+
+== TeamEditionFirstStepsJoinTeamExplanation ==
+要始一个新目，可在的 Unity VCS 服器中建一个新的存
+
+== ConfirmDeleteChangesetCaption ==
+除更集
+
+== DeleteChangesetWarning ==
+是否定要除更集：
+{0}?
+
+== CantDeleteChangesetCaption ==
+无法除更集
+
+== CantDeleteChangeset ==
+无法除当前更集，因它被一个引用。
+
+：
+ * 更集不是合并接的源
+ * 更集没有子
+ * 更集没有
+ * 未从更集建置集
+
+注意，通从 CLI 行以下或使用“置”，可找到从定更集建的置集：
+
+    find shelve where parent=changesetspec
+
+== DeleteWorkingChangesetCaption ==
+除工作更集
+
+== DeleteWorkingChangeset ==
+正在除要在工作区配置中更改的更集。是否？
+
+== CannotDeleteCsetWithPendingChanges ==
+无法除所更集，因存在待定更改。看待定更改，然后重操作。
+
+== CannotMoveCsetWithPendingChanges ==
+无法移所更集，因存在待定更改。看待定更改，然后重操作。
+
+== ReportChanged ==
+已更改
+
+== ReportAdded ==
+已添加
+
+== ReportDeleted ==
+已除
+
+== ReportMoved ==
+已移
+
+== ReportLoaded ==
+已加
+
+== ReportUnloaded ==
+已卸
+
+== ShowUpdateReportButton ==
+示更新告
+
+== HideUpdateReportButton ==
+藏更新告
+
+== ReportUpdatedHeader ==
+已更新
+
+== ConfigurationAppliedHeader ==
+已用配置
+
+== ZoomIn ==
+放大
+
+== ZoomOut ==
+小
+
+== RemoveFilter ==
+除条件
+
+== SelectedBranchesAndRelated ==
+{0} 和相分支
+
+== SelectedBranchesAndPendingMerges ==
+{0} 和待定合并
+
+== DownloadingRevisions ==
+正在下修...
+
+== GoToSourceChangesetMenuItem ==
+到源更集
+
+== GoToDestinationChangesetMenuItem ==
+到目更集
+
+== Name ==
+名称：
+
+== NewName ==
+新名称：
+
+== NoCsetCreatedWarning ==
+未建新的更集，因文件数据未更改
+
+== AllFileConflictsWereMergedWarning ==
+所有文件已合并，并准好入
+
+== SomeFileConflictsWereMergedWarning ==
+一部分文件已合并，并准好入
+
+== NoFileConflictsWereMergedWarning ==
+未合并文件
+
+== SaveDiffChangesTitle ==
+是否要保存当前文件所做的更改？
+
+== SaveDiffChangesMessage ==
+如果不保存更改，更改将失
+
+== DontSaveButton ==
+不保存
+
+== SelectFileToSeeDifferences ==
+一个文件以看其差
+
+== SaveThisRevisionAs ==
+将此修存...
+
+== SaveRevisionAs ==
+将修存...
+
+== SavingRevision ==
+正在将修保存到 '{0}'...
+
+== DownloadFilesProgress ==
+已下 {0} / {1}（{2} / {3} 个文件待下）
+
+== DownloadInfoSingular ==
+将下 1 个文件 {0}
+
+== DownloadInfoPlural ==
+将下 {0} 个文件 {1}
+
+== NotifyLinuxWatchLimitWarning ==
+已到被察的最大数量。可行“sudo sysctl fs.inotify.max_user_watches=524288”来增加
+
+== CheckinProgressMultiThreadUploading ==
+多程入
+
+== CheckinProgressMultiThreadNumOfBlocks ==
+正在并行上 {0} 个
+
+== SkipDiffMergeTracking ==
+跳合并跟踪
+
+== SkipDiffMergeTrackingTooltip ==
+不要按合并源文件更改行分。个文件示一次，并包含其“”更改
+
+== FetchNoDataCheckButton ==
+不要制数据（需要成服器的管理）
+
+== FetchNoDataNoPermissions ==
+需要成目服器的管理才能使用“不要制数据”。
+
+== CheckingFetchNoDataNoPermissions ==
+正在限...
+
+== CheckinProgressUploadingFiles ==
+正在上 {0} 个文件
+
+== CheckinProgressUploadingFileData ==
+正在将文件 {0} ({1}) 上到存
+
+== CheckinProgressOf ==
+/
+
+== ToggleDetails ==
+切信息
+
+== ShowDetails ==
+示信息
+
+== ToggleDetailsButtonTooltip ==
+藏/示信息区域
+
+== NoDiffToolDefined ==
+客端配置文件中未定任何差比工具
+
+== FileHistory ==
+文件史
+
+== OpenButton ==
+打
+
+== ApplyAttributesButton ==
+用属性...
+
+== ApplyAttribute ==
+将一个属性用于所象
+
+== ApplyAttributeExplanation ==
+在“属性”下拉列表中要用的属性型；使用“”字段可从下拉列表中一个有，或入一个新。
+
+== AttributeValueLabel ==
+：
+
+== LoadingAttributes ==
+正在加属性...
+
+== LoadingAttributeValues ==
+正在加属性...
+
+== SelectAttribute ==
+属性
+
+== SelectAttributeValue ==
+入属性
+
+== ApplyingAttribute ==
+正在用属性...
+
+== SettingAttributeValue ==
+正在置新...
+
+== DeletingAttribute ==
+正在除属性...
+
+== AnnotateDays ==
+天
+
+== AnnotateLocalRevision ==
+本地
+
+== AnnotateAuthorField ==
+作者：
+
+== AnnotateDateField ==
+日期：
+
+== AnnotateBranchField ==
+分支：
+
+== AnnotateChangesetField ==
+更集：
+
+== AnnotateChangedDuringMerge ==
+合并期已更改：
+
+== CreateAttribute ==
+建新的属性
+
+== CreateAttributeExplanation ==
+入新属性的名称。属性将在 '{0}' 中建
+
+== AttributeNameLabel ==
+属性名称：
+
+== AttributeCommentLabel ==
+注：
+
+== AttributeHelpLabel ==
+使用格式 'default: value1, "value two", ..., valueN' 添加一行以定此属性的默。
+
+== CreatingAttribute ==
+正在建属性...
+
+== AttributeNameAlreadyExists ==
+属性 {0} 已存在 ({1})
+
+== MergeToPendingFileConflicts ==
+在理“合并到”之前，有一些待定文件冲突必解决。
+
+== CommentsDialogTitle ==
+注
+
+== CommentsDialogExplanation ==
+入有“合并到”入操作的注：
+
+== BranchMergeTo ==
+服器端合并 - 从分支 {0} 到分支 {1}
+
+== LabelMergeTo ==
+服器端合并 - 从 {0} 到分支 {1}
+
+== ChangesetMergeTo ==
+服器端合并 - 从更集 cs:{0} 到分支 {1}
+
+== CheckinMergeTo ==
+入合并！
+
+== MergeBranch ==
+从分支 {0} 合并
+
+== ChangesetIntervalCherryPick ==
+从更集隔挑 (cs:{0} - cs:{1}]
+
+== BranchCherryPick ==
+从分支 {0} 挑
+
+== ChangesetCherryPick ==
+从更集 cs:{0} 挑
+
+== LabelMerge ==
+从 {0} 合并
+
+== CherrypickSubtractiveMerge ==
+从更集 cs:{0} 行法合并
+
+== IntervalCherrypickSubtractiveMerge ==
+从更集隔行法合并（从 cs:{0} 到 cs:{1}）
+
+== ChangesetMerge ==
+从更集 cs:{0} 合并
+
+== PleaseTypeAPath ==
+入路径
+
+== Copy ==
+制
+
+== AnnotateOptions ==
+批注
+
+== AnnotateDiffBranchMenuItem ==
+差比分支 {0}
+
+== AnnotateDiffChangesetMenuItem ==
+差比更集 {0}
+
+== AnnotateParentRevisionMenuItem ==
+批注父修
+
+== AnnotateParentChangesetMenuItem ==
+在些更改（cs:{0} 的父）之前批注
+
+== AnnotateShowDate ==
+示修改日期
+
+== AnnotateShowChangeset ==
+示更集
+
+== AnnotateShowBranch ==
+示分支
+
+== AnnotateShowAuthor ==
+示作者
+
+== AnnotateShowLineAge ==
+示行的存在
+
+== AnnotateShowRevInMerge ==
+示是否在合并中更改了行
+
+== AnnotateDisplayShortBranchNames ==
+示短分支名称
+
+== AnnotateDisplayFullBranchNames ==
+示完整分支名称
+
+== Shelve ==
+置
+
+== AnnotateDialogTitle ==
+批注
+
+== AnnotateCantFindRevisionAtChangeset ==
+无法在更集 cs:{0} 中找到修
+
+== AnnotateNoPreviousRevision ==
+此没有早期版本。
+
+== AnnotateCantRunOnBinaryFiles ==
+无法批注二制文件。如果文件上是文本文件，可从工作区源管理器中的上下文菜更改其修型，或使用 filetypes.conf 配置文件制置修型。
+
+== ChangesetsDynamicViewTitle ==
+更集 {0}
+
+== UserProfileServerLabel ==
+服器：
+
+== UserProfileServerProfileNotFound ==
+找不到服器 '{0}' 的接配置文件，配置一个接配置文件。
+
+== UserProfileWrongAuthMode ==
+只能使用 LDAP 或用/密身来配置用配置文件。
+
+== UserProfileCloudServer ==
+The user profile can't be configured for cloud servers.
+
+== LoadingUserProfile ==
+正在加用配置文件...
+
+== NoProfileToShow ==
+没有要示的配置文件
+
+== SavingUserProfile ==
+正在保存用配置文件...
+
+== EnterValidEmailAddress ==
+入有效的子件地址。
+
+== EnterValidIntValue ==
+入有效的整数。
+
+== UserProfileLoadError ==
+无法从 {0} 索配置文件。信息：{1}
+
+== UserProfileSaveError ==
+无法保存 {0} 的配置文件。信息：{1}
+
+== PendingChangesOptionsDialogTitle ==
+待定更改 - 
+
+== PendingChangesWhatToFindTab ==
+找内容
+
+== PendingChangesWhatToShowTab ==
+示内容
+
+== PendingChangesMoveDetectionTab ==
+移
+
+== PendingChangesWhatToFindDialogTitle ==
+配置如何找工作区中的更改
+
+== PendingChangesWhatToFindDialogExplanation ==
+可以微 Unity VCS 如何找磁上的更改以及要跳的内容
+
+== PendingChangesWhatToShowDialogTitle ==
+配置要示的更改型
+
+== PendingChangesWhatToShowDialogExplanation ==
+从自刷新到决定是否要看私有文件、已忽略内容等
+
+== PendingChangesMoveDetectionDialogTitle ==
+配置 Unity VCS 如何找工作区中移的文件和目
+
+== PendingChangesMoveDetectionDialogExplanation ==
+它可以在磁上移或重命名的文件和目
+
+== PendingChangesFilesystemWatcherEnabled ==
+已用文件系察程序
+
+== PendingChangesFilesystemWatcherDisabled ==
+已禁用文件系察程序
+
+== PendingChangesFilesystemWatcherEnabledExplanationUnityVCS ==
+Unity Version Control 会察工作区中是否有更改以加快操作速度。情况下无需遍目，但移匹配仍然会消耗。
+
+== PendingChangesFilesystemWatcherDisabledExplanationUnityVCS ==
+是不正常的，并会影性能。Unity Version Control 会使用 Windows API 察工作区中是否有更改。就无需遍目。如果禁用，操作速度会大幅降低。除非有意在 client.conf 中禁用，否与支持人系以取助。[[HELP_URL|{0}]]
+
+== PendingChangesShowCheckouts ==
+示出
+
+== PendingChangesShowCheckoutsExplanation ==
+示在 Unity VCS 中明出的文件。此外，会示使用 Unity VCS GUI 或命令行移的文件。最后，示正在行的合并中所及的文件。
+出的示速度超快，因出位于列表中，无需遍目即可找到。
+提示：在工作区的文件数大于 800k 的情况下，使用出来提高操作速度可能会很有意。在使用文件的情况下，也需要出。
+
+== PendingChangesFindChanged ==
+找工作区中已更改的文件
+
+== PendingChangesFindChangedExplanation ==
+遍工作区目以找已更改文件（戳已更改）。
+
+== PendingChangesCheckFileContent ==
+内容以定文件已更改，而不是戳已更改
+
+== PendingChangesCheckFileContentExplanation ==
+如果文件的戳已修改，在将文件置已更改之前，用旧文件算哈希。如果用程序会保存文件而不行任何更改，会很有用。警告：因需要取文件并文件行哈希理，所以可能会使“待定更改”慢。
+
+== PendingChangesAutoRefresh ==
+自刷新
+
+== PendingChangesAutoRefreshExplanation ==
+ Unity VCS 根据需要刷新“待定更改”列表，以免手刷新。
+
+== PendingChangesGroupInChangeLists ==
+在“更改列表”中更改行分
+
+== PendingChangesGroupInChangeListsExplanation ==
+Unity VCS 可以将工作区中的更改分到用建的列表中。如果以前的版本控制中缺少功能，将很有用。
+
+== PendingChangesShowPrivateFiles ==
+示私有文件
+
+== PendingChangesShowPrivateFilesExplanation ==
+列出不受源代管理的文件。些文件可能是最近添加的文件，但有是希望忽略的由工具生成的内容。（添加到“已忽略”可能是更好的。）
+
+== PendingChangesAlwaysSelectPrivateFiles ==
+始私有文件
+
+== PendingChangesAlwaysSelectPrivateFilesExplanation ==
+就不会在入忘新文件。但是需要有一个良好的 ignore.conf，以免将文件添加到版本控制下。
+
+== PendingChangesShowIgnoredFiles ==
+示已忽略文件
+
+== PendingChangesShowIgnoredFilesExplanation ==
+示先前通添加到 ignore.conf 来忽略的文件。
+
+== PendingChangesShowHiddenFiles ==
+示已藏文件
+
+== PendingChangesShowHiddenFilesExplanation ==
+示先前通添加到 hidden_changes.conf 来藏的文件。
+
+== PendingChangesShowDeletedFiles ==
+示已除文件和目
+
+== PendingChangesShowDeletedFilesExplanation ==
+示在不受 Unity VCS 控制的工作区中手除的文件。（不使用 GUI 或命令，而只是将文件从磁上除。）
+
+== PendingChangesMoveDetectionExplanation ==
+可以告 Unity VCS，使用“cm mv”移了文件，或者从 GUI 或 IDE 集成中移了文件。此方法不需要“”。但是，如果直接在磁上移文件，Unity VCS 仍然可以到操作。目也是如此。
+
+== PendingChangesFindMovedFiles ==
+找已移和重命名的文件和目
+
+== PendingChangesFindMovedFilesExplanation ==
+遍工作区以找可能的移。例如，如果将 foo.c 重命名 bar.c，Unity VCS 将已添加 bar.c，已除 foo.c，并将它匹配起来。如果有很多私有文件，可能会很慢。
+
+== PendingChangesMoveDetectionFineTune ==
+可以微“找移”的工作方式：
+
+== PendingChangesMatchBinarySameExtension ==
+匹配具有相同展名的二制文件
+
+== PendingChangesMatchBinarySameExtensionExplanation ==
+不会将 .png 与 .jpg 匹配。但情况下不会找将 .doc 重命名 .docx 的情况。
+
+== PendingChangesMatchTextSameExtension ==
+匹配具有相同展名的文本文件
+
+== PendingChangesMatchTextSameExtensionExplanation ==
+不会将 .cs 与 .c 匹配。在某些情况下可能很有用。
+
+== PendingChangesSimilarityPercentage ==
+相似度百分比
+
+== PendingChangesSimilarityPercentageExplanation ==
+定个文件需要在比中有多大的“相似程度”才会被已移或重命名。例如，如果将 foo.c 移至 bar.c 并在稍后行修改，此百分比定了它需要具有多大的相似程度，才会 Unity VCS 将它同一文件。
+目也是如此：目需要具有多大的相似程度：相于目条目数移了多少个子。
+于二制文件，此百分比表示允的大小差。
+
+== PendingChangesEnableNTFSJournal ==
+使用 NTFS 日用精跟踪
+
+== PendingChangesEnableNTFSJournalExplanation ==
+在 GUI 于打状下，使用 NTFS 日可移的文件和目。此具有超高精度，而不会采用“猜”或式方法。NTFS 知道何移了文件或目。
+
+但是，有一个缺点。如果通 Visual Studio 之的工具目行重，使用此功能并不安全。是因 VS 不会地将 foo.c 移到 src/bar.c，而是建一个新的 src/bar.c，制内容，然后除 foo.c。无法从文件系此行跟踪。
+
+如果打算使用 Windows 源管理器或命令行行大模重，此程将正常行。
+
+== PendingChangesChangeTrackerServiceNotRunning ==
+Unity VCS Change Tracker 服未行
+
+== PendingChangesChangeTrackerServiceNotRunningExplanation ==
+无法与 Unity VCS Change Tracker 服行通信。保服已安装并在行。
+
+== PendingChangesINotifyEnabled ==
+已用 inotify 更改察程序
+
+== PendingChangesINotifyDisabled ==
+已禁用 inotify 更改察程序
+
+== PendingChangesINotifyEnabledExplanation ==
+Unity VCS 会察工作区中是否有更改以加快操作速度。情况下无需遍目，但移匹配仍然会消耗。Unity VCS 可利用 inotify 的，但需要行一些整才能正常工作。看：{0}
+
+== PendingChangesINotifyDisabledExplanation ==
+当可以利用基于 inotify 的系，待定更改性能会大幅提高。看以下明以用功能：{0} 并重新 GUI
+
+== ProjectSettingsGeneral ==
+General
+
+== ProjectSettingsFileChange ==
+File Change Settings
+
+== ProjectSettingsFileVisibility ==
+File Visibility Settings
+
+== ProjectSettingsMoveAndRename ==
+File Move and Rename Detection
+
+== MergeToMergeNeededExplanation ==
+在行“合并到”操作期，在“合并到”操作的目位置建了新的更集，从而建了多个部。考通行新的合并（或“合并到”）操作来行一。受影的分支：
+
+== MergeToMergeNeededBranch ==
+{0}@{1}@{2}（装入 '{3}'）
+
+== MergeToNeededQuestion ==
+分支 {0}@{1}@{2}（装入 '{3}'）具有多个部，因在“合并到”操作期建了新的更集。是否在要行一个“合并到”操作以一部？
+
+== DontShowItAgain ==
+知道了，不再示
+
+== LearnMore ==
+了解更多
+
+== HelpActionNotFound ==
+抱歉，我忘了添加操作 :(
+
+== RemovedLocallyStatus ==
+已在本地除
+
+== RemovedStatus ==
+已除
+
+== MovedLocallyStatus ==
+已在本地移
+
+== MovedStatus ==
+已移
+
+== AddedStatus ==
+已添加
+
+== IgnoredStatus ==
+已忽略
+
+== PrivateStatus ==
+私有
+
+== ReplacedStatus ==
+已替
+
+== CopiedStatus ==
+已制（新）
+
+== CheckedOutStatus ==
+已出
+
+== ChangedStatus ==
+已更改
+
+== HiddenChangedStatus ==
+藏已更改
+
+== UnsupportedImageFormat ==
+不支持的像格式
+
+== ShowPropertiesButton ==
+示属性
+
+== PreviewConfigAlreadyExist ==
+一个配置已使用此名称，其他名称
+
+== UserDefinedPreview ==
+用定的工具
+
+== ConfirmDeleteDiffTool ==
+是否要除此差比工具配置？
+
+== ConfirmDeleteMergeTool ==
+是否要除此合并工具配置？
+
+== CloudEditionConfigInsertValidEmail ==
+入有效的子件地址或用名
+
+== CloudEditionConfigInsertValidPassword ==
+入有效的密
+
+== CloudEditionConfigurationWelcome ==
+迎使用 Cloud Edition！
+
+== CloudEditionConfigurationExplanation ==
+入用于接 Unity VCS Cloud 的用名和密（与 plasticscm.com 相同）。，制到 Cloud 就不会再次提示入凭据。
+
+== CloudEditionConfigurationExtraExplanation ==
+也是次登用于身的用名，因此慎重。
+
+== CloudEditionConfigCheckingCredentials ==
+正在凭据...
+
+== CloudEditionConfigEmail ==
+用名（通常是的 plasticscm.com 子件地址）
+
+== CloudEditionConfigPassword ==
+密
+
+== CloudEditionConfigCheckCredentials ==
+凭据
+
+== SelectFieldsMergeDiffOptions ==
+填写所有合并/差比字段
+
+== SelectFieldsMergeDiffOptionsCaption ==
+填写所有字段
+
+== EOLMethod ==
+忽略行尾
+
+== WhitespacesMethod ==
+忽略空格
+
+== EOLWhitespacesMethod ==
+忽略行尾和空格
+
+== NoneMethod ==
+全部
+
+== DiffVariables ==
+用外部差比工具，可使用以下命令行参数。
+需要保指定的文件具有要比的修内容。
+
+@sourcefile:文件的完整路径，文件的内容将示在左面板中
+@destinationfile:文件的完整路径，文件的内容将示在右面板中
+
+@sourcesymbolic:要示在控制面板中的“左文件”字符串
+@destinationsymbolic:要示在控制面板中的“右文件”字符串
+
+@sourcehash:根据 @leftrev 文件内容算得出的 MD5 字符串
+@destinationhash:根据 @rightrev 文件内容算得出的 MD5 字符串
+
+@filetype:MIME 型，用于法
+@comparationmethod:使用的比方法
+@fileencoding:未到使用的默文件
+
+== NoDiffType ==
+指定此差比工具将理的文件型。
+
+== NoDiffTool ==
+此差比工具指定一个命令行。
+
+== DiffToolError ==
+差比工具
+
+== DiffNoExt ==
+没有差比工具指定后。
+
+== NoTxtDiff ==
+没有文本文件指定差比工具。
+
+== NoBinDiff ==
+没有二制文件指定差比工具。
+
+== NoDiffForExt ==
+没有 {0} 指定差比工具。
+
+== DiffToolsError ==
+差比工具
+
+== NoDiscoveredServers ==
+找不到服器。
+
+== DownloadPreviewSoftware ==
+需要安装 [[{0}|{1}]] 才能使用此提供程序生成
+
+== ExecutableOpenFileDialogFilterWin ==
+可行文件 (*.exe; *.bat;)|*.exe; *.bat|所有文件 (*.*)|*.*
+
+== ExecutableOpenFileDialogFilterNoWin ==
+所有文件 (*.*)|*.*
+
+== ValidatePreviewTypeName ==
+入名称
+
+== ValidatePreviewAddExtension ==
+添加至少一个受支持的展名
+
+== NullRefText ==
+理的求生了。
+
+== PathTooLong ==
+路径太
+
+== ServerNullRefText ==
+服器上生了意外。有更多信息，服器日志。
+
+== MsgInformative ==
+信息
+
+== MsgWarning ==
+警告
+
+== MsgError ==
+
+
+== MergeVariables ==
+在命令行中用外部合并工具，可使用以下量作参数：
+
+@sourcefile:源合并文件的完整路径
+@destinationfile:目合并文件的路径
+@basefile:共同上合并文件的路径
+@output:合并果文件的路径
+@sourcesymbolic:源参与者的符号名称
+@destinationsymbolic:目参与者的符号名称
+@basesymbolic:共同上参与者的符号名称
+@sourcehash:根据源文件内容算得出的 MD5 字符串
+@destinationhash:根据目文件内容算得出的 MD5 字符串
+@basehash:根据共同上文件内容算得出的 MD5 字符串
+@filetype:用于法的 MIME 型
+@comparationmethod:使用的比方法
+@fileencoding:未到使用的默文件
+@resultencoding:果文件（NONE -> 根据参与者算得出）
+@mergetype:使用的合并型
+@progress:指示当前操作的度字符串，例如“正在合并文件 3/10”
+@extrainfofile:文件的路径，文件中包含有当前合并的外信息
+
+== NoMergeType ==
+指定此合并工具将理的文件型。
+
+== NoMergeTool ==
+此合并工具指定命令行。
+
+== MergeToolError ==
+合并工具
+
+== MergeNoExt ==
+没有合并工具指定后。
+
+== NoTxtMerge ==
+没有合并工具指定后。
+
+== NoBinMerge ==
+没有二制文件指定合并工具。
+
+== NoMergeForExt ==
+没有 {0} 指定合并工具。
+
+== MergeToolsError ==
+合并工具
+
+== ConfirmDeletePreviewProvider ==
+是否定要除所的工具？
+
+== CreateNewProfileTitle ==
+添加新的配置文件以接到服器
+
+== EditProfileTitle ==
+有服器接配置文件
+
+== ProfileNameInputLabel ==
+配置文件指定一个名称
+
+== ProfileConnectionTypeLabel ==
+接型
+
+== ProfileConnOnDemand ==
+按需
+
+== ProfileConnOnDemandTooltip ==
+在与存的服器建立接后才会使用配置文件。
+
+== ProfileConnAuto ==
+自
+
+== ProfileConnAutoTooltip ==
+存的服器将示在存列表中。于始可的服器，使用此。
+
+== ProfileDialogExplanation ==
+接配置文件可用于存程服器的身参数。
+
+== ProfileNameEmpty ==
+配置文件名称不能空。
+
+== ProfileNameAlreadyExists ==
+配置文件名称已存在
+
+== DeleteProfileConfirmation ==
+将除所的配置文件。是否？
+
+== DeleteProfileCaption ==
+除配置文件
+
+== NotValidProxyServer ==
+指定的服器 {0} 不是有效的代理服器。
+
+== ConnectedOk ==
+已正常接
+
+== ConfigurationUserNameInfo ==
+将使用以下用名：
+
+== ConfigurationCredentialsInfo ==
+配置的凭据
+
+== PlasticConfiguration ==
+Unity DevOps Version Control 配置
+
+== ConfigurationServerInfo ==
+入 Unity VCS 服器的名称（或 IP 地址）和端口。可使用“描网”在网上找可用的 Unity VCS 服器
+
+== ConfigureProxy ==
+使用代理服器
+
+== SwitchModeConfirmationDialogTitle ==
+切模式
+
+== SwitchModeConfirmationDialogExplanation ==
+于 {0} 模式。是否定要切到 {1} 模式？
+
+在此了解有 Gluon 的更多信息：{2}
+
+== DeveloperMode ==
+者
+
+== GluonMode ==
+Gluon
+
+== ReloadButton ==
+重新加
+
+== SearchTooltip ==
+搜索
+
+== CannotLaunchInProgressMergeFromNotRootMountPoint ==
+无法行此合并。正在行的合并在通 Xlink 接的存中行。当正在行的合并在根工作区的存中行，此才可用。手合并以。
+
+== OneVersionBehind ==
+落后 1 个版本
+
+== TwoOrMoreVersionsBehind ==
+落后 {0} 个版本
+
+== GitSyncAllRefsRejected ==
+服器拒了所有已送的引用（分支或），因此未推送任何内容。的 Git 服器提供程序的配置以取更多信息。推送已失：{0}
+
+== LoggingIn ==
+正在以 '{0}' 身登...
+
+== SigningUp ==
+正在建 '{0}'...
+
+== GettingDatacenters ==
+正在取数据中心...
+
+== EnterOrganizationName ==
+入名称
+
+== NoDatacenterSelected ==
+数据中心
+
+== CreatingOrganization ==
+正在建 '{0}'...
+
+== OrganizationNameTooShort ==
+名称的度必至少三个字符
+
+== SignUp ==
+注册
+
+== SignUpNeeded ==
+找不到，建一个 Unity VCS  {0}
+
+== SignUpButton ==
+注册
+
+== SignIn ==
+登
+
+== SignInToUnityVCS ==
+登 Unity VCS
+
+== SignInWithGoogle ==
+使用 Google 登
+
+== SignInWithUnityID ==
+使用 Unity ID 登
+
+== SignInWithEmail ==
+使用子件地址登
+
+== SignInWith ==
+使用 {0} 登
+
+== SignInWithSSO ==
+使用 SSO 登
+
+== ConfirmPassword ==
+密：
+
+== SignedUpTitle ==
+已正注册到 plasticscm.com！
+
+== LoggedInTitle ==
+已正登到 plasticscm.com！
+
+== CreateFirstOrganizationLabel ==
+在是候建的 Cloud 了
+
+== CreateOtherOrganizationLabel ==
+或者，也更希望建自己的
+
+== YouBelongToOrganization ==
+属于： {0}
+
+== YouBelongToSeveralOrganizations ==
+属于多个：
+
+== JoinButton ==
+加入
+
+== CreateOrganizationTitle ==
+建的 Cloud 
+
+== OrganizationName ==
+名称：
+
+== Datacenter ==
+数据中心：
+
+== DatacenterExplanation ==
+已距最近的数据中心 :)
+
+== EncryptionCheckButton ==
+加密所有送到 Unity VCS Cloud 的数据
+
+== EncryptionCheckButtonExplanation ==
+可以制所有送到 Unity VCS Cloud 的数据在算机之前都已加密。，可以保的数据不会受到害。如果此，所有成必共用同一个密来加密/解密数据。
+{0}
+
+== CreatedOrganizationTitle ==
+已正建
+
+== CreatedOrganizationExplanation ==
+已正建 {0}
+
+== ContinueButton ==
+
+
+== RetryButton ==
+重
+
+== CloudEditionOrganization ==
+属于 {0}
+
+== SignUpAgreeToShort ==
+“注册”，即表示同意我的{0}和{1}
+
+== SignInAgreeToShort ==
+“登”，即表示同意我的{0}和{1}
+
+== TermsOfService ==
+服条款
+
+== PrivacyPolicy ==
+私政策
+
+== Email ==
+子件地址：
+
+== BackButton ==
+< 返回
+
+== LastThingTitle ==
+最后一件事
+
+== LastThingExplanation ==
+有 Unity VCS 格。
+可以随使用者。
+
+== PlasticForDevelopersTitle ==
+用于者的 Unity VCS
+
+== PlasticForDevelopersExplanation ==
+典的 Unity VCS GUI，用于分支、合并和推送/拉取
+
+== PlasticForArtistsTitle ==
+Gluon - 用于美的 Unity VCS
+
+== PlasticForArtistsExplanation ==
+超的 GUI，用于行游的美，或者喜入即定的任何人
+
+== LaunchButton ==
+
+
+== ReplyButton ==
+回
+
+== CommentButton ==
+注
+
+== DiscardUnsavedChangesTitle ==
+放弃更改
+
+== DiscardUnsavedChangesQuestion ==
+是否定要放弃未保存的更改？
+
+== DiscardButton ==
+放弃
+
+== DeleteCommentQuestion ==
+是否定要除个？
+
+== CheckingLockRulesProgress ==
+正在是否可定...
+
+== ConfigLocksNoPermissions ==
+没有 configlocks 限。管理授予存 '{0}' 的“configlocks”限，或此文件配置一条定。
+
+== AddLockRuleAndCheckoutTitle ==
+添加定并出
+
+== AddLockRuleAndCheckoutMessage ==
+要定文件，必首先配置一条定。{0}{0}以下之一来配置在出自定些文件。
+
+== AddLockRuleRadioGroup ==
+一条定或建自己的定
+
+== AddLockRuleExtensionOption ==
+定与 {0} 匹配的文件
+
+== AddLockRuleNameOption ==
+定任何包含名称 '{0}' 的文件
+
+== AddLockRuleDirectoryOption ==
+定以下目中的所有文件：{0}{1}
+
+== AddLockRuleFullPathOption ==
+定：{0}{1}
+
+== AddLockRuleEditOption ==
+我定
+
+== AddLockRuleLearnMore ==
+此了解如何配置定
+
+== AddLockRuleLearnMoreUrl ==
+https://www.plasticscm.com/download/help/locking
+
+== AddLockRuleEmptyRuleMessage ==
+定不能空。
+
+== UnsupportedServerOperation ==
+服器不支持此操作。将服器升到版本 {0} 或更高版本。
+
+== KnownServersListRetrievingCloudOrgsProgress ==
+正在索 Cloud ...
+
+== EditCommentButton ==
+注
+
+== DiffChangedWithCommentDirty ==
+已注，是否要保存更改？
+
+== ReviewOfChangesetTitle ==
+更集 {0}
+
+== ReviewOfBranchTitle ==
+分支 {0}
+
+== Title ==
+
+
+== ReviewStatus ==
+状
+
+== ReworkRequired ==
+需要返工
+
+== UnderReview ==
+正在
+
+== Reviewed ==
+已
+
+== Reviewer ==
+者
+
+== ChangeButton ==
+更改
+
+== ReviewCommentsLabel ==
+行 {0} 的注
+
+== NoReviewCommentsToShow ==
+差比右的以看定行的注
+
+== NoReviewCommentsForSelectedFile ==
+所文件没有注
+
+== NoReviewComments ==
+差比右的“+”符号以建定行的新注
+
+== NoReviewCommentsSupportedXlinkedRepo ==
+尚不支持 Xlink 的注
+
+== NoReviewCommentsSupportedDifferentRepos ==
+尚不支持通 Xlink 接的文件的注
+
+== NoReviewCommentsSupportedUnsupportedFileType ==
+尚不支持此文件型的注
+
+== DirtyCodeReviewTitleTitle ==
+保存代
+
+== DirtyCodeReviewTitleQuestion ==
+已，是否要保存更改？
+
+== DirtyReviewCommentTitle ==
+保存注
+
+== DirtyReviewCommentQuestion ==
+已注，是否要保存更改？
+
+== DirtyCommentQuestion ==
+已注，是否要保存更改？
+
+== NullRepSpec ==
+缺少算差所需的存信息。
+将此情况告支持部以行修。
+
+== CommentsLabelSingular ==
+注
+
+== CommentsLabelPlural ==
+注
+
+== ChangesLabelSingular ==
+更改
+
+== ChangesLabelPlural ==
+更改
+
+== ChangeColumn ==
+已求更改
+
+== RevisionWithComments ==
+包含注的修
+
+== LastInBranch ==
+分支中的最后一个
+
+== DiffWithHead ==
+与部行差比
+
+== ThisFileHasNewChangesInTheBranch ==
+此文件在分支中有新的更改
+
+== ThisFileHasNewChangesInTheBranchExplanation ==
+正在入了注的修行差比。但是有新的更改。可以差比原始修、分支中的最新修或者之的更改。
+
+== AskQuestionButton ==
+提
+
+== AskQuestionButtonToolTip ==
+当在批准前需要答案
+
+== RequestChangeButton ==
+求更改
+
+== RequestChangeButtonToolTip ==
+当在批准前需要作者行某更改
+
+== CopyCommentId ==
+将注 ID 制到剪板
+
+== ChangeStatusDone ==
+完成
+
+== ChangeStatusPending ==
+待定
+
+== ChangeStatusDiscarded ==
+已放弃
+
+== QuestionsLabelSingular ==
+
+
+== QuestionsLabelPlural ==
+
+
+== QuestionColumn ==
+
+
+== AnswerColumn ==
+答案
+
+== ExploreChangesetsPanelWaitingAnimation ==
+正在加更集...
+
+== ChangesetReview ==
+更集
+
+== ReviewEntireBranch ==
+完整分支
+
+== ReviewChangesetByChangeset ==
+逐个更集
+
+== UpdateStatusTitle ==
+状更新
+
+== UpdateStatusPendingChangesSingular ==
+有 1 个更改待用。
+
+== UpdateStatusPendingChangesPlural ==
+有 {0} 个更改待用。
+
+== UpdateStatusPendingQuestionsSingular ==
+有 1 个待回答。
+
+== UpdateStatusPendingQuestionsPlural ==
+有 {0} 个待回答。
+
+== UpdateStatusPendingChangeAndQuestion ==
+有 1 个更改待用和 1 个待回答。
+
+== UpdateStatusPendingChangesAndQuestion ==
+有 {0} 个更改待用和 1 个待回答。
+
+== UpdateStatusPendingChangeAndQuestions ==
+有 1 个更改待用和 {0} 个待回答。
+
+== UpdateStatusPendingChangesAndQuestions ==
+有 {0} 个更改待用和 {1} 个待回答。
+
+== UpdateStatusQuestion ==
+不将有待定注的代已。是否仍然？
+
+== SinceOneWeekAgo ==
+上星期
+
+== SinceFifteenDaysAgo ==
+去 15 天
+
+== SinceOneMonthAgo ==
+上个月
+
+== SinceThreeMonthsAgo ==
+去 3 个月
+
+== SinceAGivenDate ==
+某个定日期
+
+== CloseChangeRequestedInReview ==
+中求的更改
+
+== CollapseReviewCommentsTooltip ==
+折注
+
+== ExpandReviewCommentsTooltip ==
+展注
+
+== CollapseCommentsSummaryTooltip ==
+折注摘要
+
+== ExpandCommentsSummaryTooltip ==
+展注摘要
+
+== ReviewCommentsSummaryTitle ==
+注摘要
+
+== EmptyChangeList ==
+更改列表空
+
+== EmptyQuestionList ==
+列表空
+
+== MergeFileChangesInConflictCategory ==
+文件更改生冲突，可能需要手干
+
+== ChangesWithDirectoryConflictsCategory ==
+有目冲突的更改
+
+== MergeFileChangesInConflictForIncomingViewCategory ==
+要下的文件，与的更改生冲突
+
+== MergeFileChangesInConflictRemark ==
+同位于源参与者和目参与者中的更改
+
+== MergeFileChangesInConflictRemarkForIncomingView ==
+需要合并
+
+== MergeChangesMadeInSourceOfMergeCategory ==
+在合并源中行的更改。无冲突
+
+== MergeChangesMadeInSourceOfMergeForIncomingViewCategory ==
+只需要更新的文件
+
+== MergeMovesToApplyCategory ==
+要用的移
+
+== MergeMovesToApplyRemark ==
+已在源上移到 {0}
+
+== MergeMovesToApplyRemarkForIncomingView ==
+将把移用于的工作区
+
+== MergeDeletesToApplyCategory ==
+要用的除
+
+== MergeDeletesToApplyRemark ==
+已在源上除
+
+== MergeDeletesToApplyRemarkForIncomingView ==
+将把除用于的工作区
+
+== MergeNewItemsToDownloadCategory ==
+要下的新
+
+== MergeNewItemsToDownloadRemark ==
+已在源上添加
+
+== MergeNewItemsToDownloadRemarkForIncomingView ==
+将把添加用于的工作区
+
+== MergeFileSystemPermissionsChangesToApplyCategory ==
+要用的文件系限更改
+
+== MergeFileSystemPermissionsChangesToApplyRemark ==
+文件系限更改
+
+== MergeFileSystemPermissionsChangesToApplyRemarkForIncomingView ==
+将把文件系限更改用于的工作区
+
+== MergeFilesToDownloadCaptionSingular ==
+1 个文件待下 ({0})
+
+== MergeFilesToDownloadCaptionPlural ==
+{0} 个文件待下 ({1})
+
+== MergeFilesToDeleteCaptionSingular ==
+1 个文件待除 ({0})
+
+== MergeFilesToDeleteCaptionPlural ==
+{0} 个文件待除 ({1})
+
+== MergeToEnterCheckinComment ==
+入入注
+
+== MergeToEnterCheckinCommentExplanation ==
+入由“合并到”建的新更集的入注。
+
+== IncomingChangesTitle ==
+来自分支 {0} 的入更改
+
+== IncomingChangesCannotBeApplied ==
+无法用的入更改
+
+== ConfirmRecalculateMergeSingular ==
+已解决 1 个目冲突。重新算合并？
+
+== ConfirmRecalculateMergePlural ==
+已解决 {0} 个目冲突。重新算合并？
+
+== ConfirmRecalculateMergeMessage ==
+如果，将失去已解决的冲突的解决方案。然后，可以再次它。
+
+== RecalculateButton ==
+重新算
+
+== MergeProgressStatus ==
+已更新 {0} / {1}（{2} / {3} 个文件待下 / {4} / {5} 操作待用）
+
+== MergeProgressDownloadingFile ==
+正在下文件 {0} ({1})
+
+== MergeProgressDownloadingBlock ==
+正在下 {0} 个文件的 ({1})
+
+== IncomingChangesAvailableSingular ==
+1 个新更集可用
+
+== IncomingChangesAvailablePlural ==
+{0} 个新更集可用
+
+== IncomingChangesConflictsSingular ==
+1 个新更集 - 冲突
+
+== IncomingChangesConflictsPlural ==
+{0} 个新更集 - 冲突
+
+== IncomingChangesAvailableForGluon ==
+有新更改可用
+
+== IncomingChangesConflictsForGluon ==
+有冲突的新更改
+
+== UpdateButton ==
+更新
+
+== ViewButton ==
+看
+
+== DeleteRepositoryTitle ==
+除存
+
+== UndeleteRepositoryTitle ==
+撤除存
+
+== DeleteRepositoryWarningText ==
+即将除存 '{0}'。
+
+== DeleteRepositoriesWarningText ==
+即将除以下存：
+
+== DeleteRepositoryConfirmText ==
+要行，入存的名称
+
+== DeleteRepositoriesConfirmText ==
+要除，入 '{0}'
+
+== DeleteRepositoryCannotUndo ==
+此操作无法撤。
+
+== DeleteRepositoryConfirmEntry ==
+除
+
+== UndeleteRepositoryConfirmText ==
+即将撤除以下存：{0}.是否要？
+
+== IncomingChangesMenuItemMergeKeepingSourceChanges ==
+合并保留入更改（部/源）
+
+== IncomingChangesMenuItemMergeKeepingWorkspaceChanges ==
+合并保留工作区更改（的/目）
+
+== IncomingChangesMenuItemDiffIncomingChanges ==
+差比入更改（部/源）
+
+== IncomingChangesMenuItemDiffYoursWithIncoming ==
+差比的更改和入更改（部/源）
+
+== IncomingSymbolicName ==
+入更改
+
+== WorkingChangesetMissing ==
+缺少工作更集
+
+== WorkingChangesetDeletedTitle ==
+已除工作更集
+
+== WorkingChangesetDeletedMessage ==
+已除所理的更集。
+
+的出和本地更改不再有效。
+
+是否要到“待定更改”来撤更改以恢有效配置？
+
+== IncomingChangesUpdateTooltip ==
+分支中有可以和下的新更改
+
+== IncomingChangesResolveTooltip ==
+有些文件与当前的更改生冲突
+
+== IncomingChangesWorkingChangesetMissingTooltip ==
+已除所理的更集。“更新”按以恢有效配置
+
+== UndoAllWorkingChangesetDeletedMessage ==
+撤更改需要更新工作区，因所理的更集已除。
+
+是否要？
+
+== PartialUndoWorkingChangesetDeletedMessage ==
+需要撤所有更改，因所理的更集已除。
+
+是否要撤所有更改并更新工作区以恢有效配置？
+
+== OutOfDateIncomingChangesView ==
+此不再有效，因所理的更集已除。
+
+需要更新的工作区。
+
+== Warning ==
+警告
+
+== IncomingChangesViewTitle ==
+入更改
+
+== Reason ==
+原因
+
+== LoadingCodeReviews ==
+正在加代...
+
+== ReviewTitleColumn ==
+
+
+== ReviewStatusColumn ==
+状
+
+== MergingFile ==
+正在合并文件 {0} / {1}：{2}
+
+== CodeReviewMenuItemOpen ==
+打
+
+== CodeReviewMenuItemDelete ==
+除
+
+== DeletingCodeReview ==
+正在除 {0} 的代...
+
+== BranchMenuCreateANewCodeReview ==
+新建此分支的代...
+
+== ChangesetMenuCreateANewCodeReview ==
+新建此更集的代...
+
+== CreatingCodeReview ==
+正在建 {0} 的代...
+
+== ObtainingCodeReviewInfo ==
+正在加 {0} 的代...
+
+== UpgradeServerForNewCodeReviewError ==
+需要将服器升到版本 8.0.16.3691 或更高版本，才能使用新的代系！
+
+== UpgradeServerTo110168307ForNewCodeReviewError ==
+需要将服器升到版本 11.0.16.8321 或更高版本，才能使用新的代系！
+
+== LoadingMembers ==
+正在加成...
+
+== UserChooserDialogTitle ==
+从以下列表中一个用或：
+
+== SelectUserGroupDialogTitle ==
+Select user or group
+
+== NoUserSelectedErrorMessage ==
+从列表中一个用
+
+== UserNotFoundErrorMessage ==
+无法找到任何名 '{0}' 的用或
+
+== UserSizeLimitExceededErrorMessage ==
+身服器已超出个的最大条目数限制。使用搜索条件索少的条目（刷新按以触索）。
+
+== CreateRepositoryDialogDetailedExplanation ==
+存可以存特定目的全部史，包括其文件和目的所有修、修、合并接以及其他元数据。
+
+== MergeToMenuItemMergeKeepingDestinationChanges ==
+合并保留目更改
+
+== MergeToMenuItemPreserveDestinationChanges ==
+保留目更改
+
+== MergeToMenuItemMergeKeepingSourceChanges ==
+合并保留源更改
+
+== MergeToMenuItemPreserveSourceChanges ==
+保留源更改
+
+== DetailsColumn ==
+信息
+
+== AuthorColumn ==
+作者
+
+== PrivacyStatementText ==
+数据控制方：Unity Technologies ApS。数据理目的：建的并提供所需的服。可以行使Unity私政策中所述的、修正、除等数据保利。有更多信息，参 {0}。
+
+== PrivacyStatement ==
+Unity私政策
+
+== GitSyncDialogTitle ==
+Unity VCS 与 Git 同
+
+== GitSyncDialogExplanation ==
+同存 '{0}'
+
+== GitSyncDialogDetailedExplanation ==
+它将在 Unity VCS 与 Git 存之同所需的更集
+
+== SyncButton ==
+同
+
+== PlasticRepository ==
+Unity VCS 存：
+
+== GitRepositoryUrl ==
+Git 存 URL：
+
+== GitRepositoryCannotBeEmpty ==
+存 URL 字段不能空。
+
+== LoadingStoredGitUrls ==
+加存 '{0}' 的已存的 Git URL
+
+== SyncStatusPullRepository ==
+从 {1} 拉取 "{0}"
+
+== SyncStatusPushRepository ==
+将 "{0}" 推送到 {1}
+
+== SyncStatusSyncRepository ==
+将 "{0}" 与 {1} 同
+
+== SyncStatusConflict ==
+警告：在 Git 和 Unity VCS 端同修改了一些分支。
+些冲突在 Unity VCS 中作“子分支”理，并需要行合并。
+了能再次同，需要先解决些分支中的冲突。
+
+== SyncPhaseUpgradingMappings ==
+升映射
+
+== SyncPhaseReceivingReferences ==
+接收引用
+
+== SyncPhaseSyncType ==
+象
+
+== SyncPhaseCompressing ==
+
+
+== SyncPhaseDownloading ==
+下
+
+== SyncPhaseProcessing ==
+理
+
+== SyncPhaseImporting ==
+入
+
+== SyncPhaseExporting ==
+出
+
+== SyncPhasePackaging ==
+打包
+
+== SyncPhaseUploading ==
+送
+
+== SyncPhaseCompleted ==
+完成
+
+== Users ==
+用
+
+== Groups ==
+
+
+== Both ==
+者
+
+== SelectedUserOrGroup ==
+所用或：
+
+== User ==
+用
+
+== Group ==
+
+
+== SpecialUser ==
+特殊用
+
+== SpecialGroup ==
+特殊
+
+== AddButton ==
+添加...
+
+== RemoveButton ==
+除
+
+== AllowAll ==
+全部允
+
+== DenyAll ==
+全部拒
+
+== RepositoryServerPermissions ==
+存服器限
+
+== PermissionsFor ==
+{0} 的限
+
+== ConfigureObjectPermissions ==
+配置象限
+
+== PermissionsColumn ==
+限
+
+== AllowedColumn ==
+已允
+
+== DeniedColumn ==
+已拒
+
+== SecurityRepserverEntriesCannotBeEmpty ==
+存服器必至少一个有效用或定了限。
+其中一个用或置限，然后重。
+
+== PermissionsCantRemoveInheritedSeid ==
+无法除承的条目
+
+== MsgAllowDeny ==
+“已拒”限将覆盖“已允”限
+
+== ChangeOwner ==
+更改...
+
+== UsersAndGroups ==
+用和
+
+== PermissionsMenuItem ==
+限
+
+== Override ==
+覆盖
+
+== OverrideHelp ==
+可覆盖限以承。已覆盖，然后置新。
+
+== DeleteBranchGroup ==
+除分支
+
+== DeleteSelectedBranchGroup ==
+将除所的分支。
+
+== ContinueQuestion ==
+是否要？
+
+== DoNotShowMessageAgain ==
+Do not show this message again
+
+== PathPermissions ==
+路径限
+
+== DeleteSecuredPath ==
+除路径
+
+== DeleteSelectedSecuredPath ==
+将除所的路径。
+
+== AllBranches ==
+所有分支
+
+== NewBranchGroupTitle ==
+分支
+
+== NewBranchGroupExplanation ==
+将用新路径限的分支
+
+== NewBranchGroupLabel ==
+入分支
+
+== BranchesRadioButton ==
+分支：
+
+== NewBranchGroupIdentificationTag ==
+入分支的：
+
+== NoBranchSelected ==
+未分支
+
+== EditBranchGroupLabel ==
+分支
+
+== EditBranchGroupExplanation ==
+在分支中添加或除分支
+
+== PathPermissionFormExplanation ==
+配置安全路径限。注意，些限将与相的分支和父路径合并。
+
+== RetrievingRepositoryServerInfoProgress ==
+正在索存服器信息...
+
+== CalculatingPermissionsInfo ==
+正在算限信息...
+
+== RetrievingSecuredPathsProgress ==
+正在索安全路径...
+
+== RetrievingAllSecuredPathsProgress ==
+正在索所有安全路径...
+
+== NewSecuredPathTitle ==
+建新的安全路径
+
+== NewSecuredPathExplanation ==
+建新的安全路径以在其中定路径限
+
+== NewSecuredPathLabel ==
+入路径
+
+== DefineBranchesCheckBox ==
+建路径后配置分支
+
+== PartialWorkspaceStripLabel ==
+工作区于非完整模式。[[UpdateWorkspace|行更新]]（取最新）以切到完整模式。此 GUI 在非完整模式下不能正常行
+
+== FullWorkspaceStripLabel ==
+工作区于完整模式。[[UpdateWorkspace|行更新]]（取最新）以切到非完整模式。此 GUI 在完整模式下不能正常行
+
+== RemainingProgressMessage ==
+剩余
+
+== DiffLinkButtonTooltip ==
+制接以共享差
+
+== GluonFilePlasticLinkText ==
+取接 - 制此文件的接，以便与他人共享
+
+== OAuthSignInCheckMessage ==
+正在等待会...
+
+== RetrievingOrgsProgress ==
+正在索...
+
+== GettingSSOProviders ==
+正在取提供者...
+
+== CompleteSignInOnBrowser ==
+使用器完成登。
+
+== Or ==
+或
+
+== OrganizationNameWatermark ==
+的名称
+
+== SSOSignInTitle ==
+使用点登方式登
+
+== SignInToOrganization ==
+登 {0}
+
+== NoProvidersForOrganization ==
+指定的不允使用 SSO 行
+
+== DontKnowOrganizationName ==
+我不知道名称
+
+== KnowOrganizationName ==
+我知道名称
+
+== CompanyEmail ==
+公司子件地址
+
+== SignInWithSingleSignOn ==
+使用点登方式登
+
+== SentEmailStatementText ==
+我已根据所属的向 {0} 送了一封子件。收件，然后使用的{1}行登
+
+== OrganizationNameStatementText ==
+名称。
+
+== SendingEmail ==
+正在送子件...
+
+== EmailNotSent ==
+无法送子件
+
+== FileMerge ==
+File Merge
+
+== KDiff3 ==
+KDiff3
+
+== SemanticMerge ==
+Semantic Merge
+
+== UnitySmartMerge ==
+Unity Smart Merge
+
+== OpenInDesktopApp ==
+Open in Desktop App
+
+== OpenInGluon ==
+Open in Gluon
+
+== ElementNotFound ==
+找不到元素
+
+== RevisionNotConnected ==
+无法理，未制相修
+
+== ChangedMergeFromCs ==
+在合并源和目中已更改（从 cs:{0}）
+
+== NotChanged ==
+未更改
+
+== Added ==
+已添加
+
+== Changed ==
+已更改
+
+== MergeFromCs ==
+ 于合并源中（从 cs:{0}）
+
+== MovedOutScope ==
+已从 {0} 移到 {1}
+
+== Renamed ==
+已从 {0} 重命名 {1}
+
+== MovedDownPosition ==
+已向下移 {0} 个位置
+
+== MovedUpPosition ==
+已向上移 {0} 个位置
+
+== And ==
+ 和 {0}
+
+== ErrorDialogTitle ==
+Error - {0}
+
+== InstallUnityVersionControl ==
+Install Unity Version Control
+
+== CreateAUnityVersionControlWorkspace ==
+ Create a Unity Version Control workspace for this project
+
+== LoginOrSignUpUnityVersionControl ==
+ Login or sign up for a Unity Version Control account
+
+== PrefixUnityVersionControlMenu ==
+Assets/Unity Version Control
+
+== UnityInitialCheckinComment ==
+Add packages and project settings to Unity Version Control.
+
+== UnityVersionControl ==
+Unity Version Control
+
+== PlasticConfigurationTitleUnityVCS ==
+Configure the connection to the Unity VCS server

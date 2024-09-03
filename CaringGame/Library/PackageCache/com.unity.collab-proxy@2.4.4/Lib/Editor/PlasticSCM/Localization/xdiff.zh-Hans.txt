@@ -1,0 +1,92 @@
+== SemanticOutline ==
+大
+
+== ExpandSemanticOutlineTooltip ==
+展大
+
+== CollapseSemanticOutlineTooltip ==
+折大
+
+== MacSemanticOutlineToggleButtonTooltip ==
+藏或示大面板
+
+== NoDifferences ==
+无任何差
+
+== DifferencesTreeViewCategoryHeader ==
+{0} - {1} 
+
+== DifferencesTreeViewCategoryAdded ==
+已添加
+
+== DifferencesTreeViewCategoryMultifileMoved ==
+已多文件移
+
+== DifferencesTreeViewCategoryMoved ==
+已移
+
+== DifferencesTreeViewCategoryChanged ==
+已更改
+
+== DifferencesTreeViewCategoryDeleted ==
+已除
+
+== DifferencesTreeViewCategoryRenamed ==
+已重命名
+
+== SemanticDiffsNotEditable ==
+差不可。如果要，更改文本差。
+
+== UnableCalculateSemanticDiffs ==
+无法算差，示的是基于文本的差。
+
+== SemanticDiffButton ==
+差比
+
+== SemanticDiffButtonTooltip ==
+内置的差比：示模式下的差
+
+== VisualDiffButton ==
+可化差比
+
+== VisualDiffButtonTooltip ==
+示可化模式下的差
+
+== SkipFormatChangesButton ==
+跳格式更改
+
+== SkipFormatChangesButtonTooltip ==
+算差忽略和行尾更改
+
+== ReformatButton ==
+重新格式化
+
+== ReformatButtonTooltip ==
+重新格式化源代
+
+== TextDiffButton ==
+文本差比
+
+== TextDiffButtonTooltip ==
+示基于文本的差
+
+== CopyToClipboard ==
+制到剪板
+
+== FileEditedSaveChanges ==
+已文件，是否要保存更改？
+
+== Days ==
+{0} 天
+
+== Hours ==
+{0} 小
+
+== Minutes ==
+{0} 分
+
+== Seconds ==
+{0} 秒
+
+== ToggleOutlineButton ==
+切大

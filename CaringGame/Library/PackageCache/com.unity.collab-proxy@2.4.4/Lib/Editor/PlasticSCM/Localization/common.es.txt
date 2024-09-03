@@ -1,0 +1,140 @@
+== AddNotApplicable ==
+El item no puede ser descargado en el workspace. Posiblemente, el path ya esta en uso. Por favor, desmarque el item  (desde la vista de configuracion) y reintente la operacion: '{0}'.
+
+== DeleteNotApplicable ==
+El item no puede ser borrado porque no ha sido encontrado. Su workspace podria estar corrupto. Por favor, contacte con el equipo de soporte: '{0}'.
+
+== GameuiCheckinAddedMissingParentConflictAction ==
+Por favor, deshaga el anadido o muevalo a una ruta que exista en el servidor.
+
+== GameuiCheckinAddedMissingParentConflictDescription ==
+El item '{0}' no se puede anadir porque su directorio padre ya no esta cargado en el servidor.
+
+== GameuiCheckinAddedPathInUseConflictAction ==
+Por favor, deshaga el anadido o muevalo a una ruta que este libre en el servidor.
+
+== GameuiCheckinAddedPathInUseConflictDescription ==
+El item '{0}' no se puede anadir porque hay otro item cargado en el mismo sitio en el servidor.
+
+== GameuiCheckinChangedFileConflictDescription ==
+'{0}' necesita merge.
+
+== GameuiCheckinChangedMissingConflictAction ==
+Por favor, deshaga el cambio o restaure el item en una ruta que exista en el servidor.
+
+== GameuiCheckinChangedMissingConflictDescription ==
+El item '{0}' no se puede modificar porque ya no esta cargado en el servidor.
+
+== GameuiCheckinChangedXlinkConflictAction ==
+Por favor, deshaga su cambio local, descargue la ultima version y vuelva a editar el Xlink.
+
+== GameuiCheckinChangedXlinkConflictDescription ==
+El destino del Xlink '{0}' no se puede cambiar porque fue modificado en el servidor.
+
+== GameuiCheckinCopiedLoadedConflictAction ==
+Por favor, deshaga su cambio local, descargue la ultima version y reaplique sus cambios locales.
+
+== GameuiCheckinCopiedLoadedConflictDescription ==
+El item '{0}' no se puede copiar porque ese item ya esta cargado en el servidor.
+
+== GameuiCheckinCopiedMissingParentConflictAction ==
+Por favor, deshaga el copiado o muevalo a una ruta que exista en el servidor.
+
+== GameuiCheckinCopiedMissingParentConflictDescription ==
+El item '{0}' no se puede copiar porque su directorio padre ya no esta cargado en el servidor.
+
+== GameuiCheckinCopiedPathInUseConflictAction ==
+Por favor, deshaga el copiado o muevalo a una ruta que este libre en el servidor.
+
+== GameuiCheckinCopiedPathInUseConflictDescription ==
+El item '{0}' no se puede copiar porque hay otro item cargado en el mismo sitio en el servidor.
+
+== GameuiCheckinDeletedAlreadyDeletedConflictAction ==
+Por favor, deshaga el borrado y actualicese a la ultima version.
+
+== GameuiCheckinDeletedAlreadyDeletedConflictDescription ==
+El item '{0}' no se puede borrar porque ya no esta cargado en el servidor.
+
+== GameuiCheckinDeletedChangedWarningDescription ==
+El item borrado '{0}' ha sido modificado en el servidor. Si se borra el item, el cambio del servidor se perdera.
+
+== GameuiCheckinDeletedMovedWarningDescription ==
+El item borrado '{0}' ha sido movido en el servidor. Si se borra el item, el movido del servidor se perdera.
+
+== GameuiCheckinDeletedWarningAction ==
+Esta seguro que desea borrar el item '{0}'?
+
+== GameuiCheckinDirReplacedChangedConflictDescription ==
+El item '{0}' no se puede reemplazar (revert) porque fue modificado en el servidor.
+
+== GameuiCheckinFileReplacedChangedConflictDescription ==
+'{0}' necesita merge.
+
+== GameuiCheckinFsProtectionMissingConflictAction ==
+Por favor, deshaga el cambio o restaure el item en una ruta que exista en el servidor.
+
+== GameuiCheckinFsProtectionMissingConflictDescription ==
+Los permisos del item '{0}' no se puede modificar porque ya no esta cargado en el servidor.
+
+== GameuiCheckinMovedAlreadyMovedConflictAction ==
+Por favor, deshaga el movido y actualicese a la ultima version.
+
+== GameuiCheckinMovedAlreadyMovedConflictDescription ==
+El item '{0}' no se puede mover a '{1}' porque ya esta cargado en el destino en el servidor.
+
+== GameuiCheckinMovedDivergentConflictAction ==
+Esta seguro que desea mover el item '{0}' a '{1}'?
+
+== GameuiCheckinMovedDivergentConflictDescription ==
+El item movido '{0}' ha sido movido en el servidor a otra ruta. Si se aplica el movido local, el movido del servidor se perdera.
+
+== GameuiCheckinMovedDstInUseConflictAction ==
+Por favor, deshaga el movido o muevalo a una ruta que este libre en el servidor.
+
+== GameuiCheckinMovedDstInUseConflictDescription ==
+El item '{0}' no se puede mover a '{1}' porque hay otro item cargado en el mismo sitio en el servidor.
+
+== GameuiCheckinMovedInsideItselfConflictAction ==
+Por favor, deshaga el movido o muevalo a una ruta valida en el servidor.
+
+== GameuiCheckinMovedInsideItselfConflictDescription ==
+El item '{0}' no se puede mover dentro de '{1}' porque  '{1}' esta cargado dentro '{0}' en el servidor.
+
+== GameuiCheckinMovedMissingDstConflictAction ==
+Por favor, deshaga el movido o mueva el item a una ruta que exista en el servidor.
+
+== GameuiCheckinMovedMissingDstConflictDescription ==
+El item '{0}' no se puede mover a '{1}' porque el destino ya no esta cargado en el servidor.
+
+== GameuiCheckinMovedMissingItemConflictAction ==
+Por favor, deshaga el movido o restaure el item en una ruta que exista en el servidor.
+
+== GameuiCheckinMovedMissingItemConflictDescription ==
+El item '{0}' no se puede mover porque ya no esta cargado en el servidor.
+
+== GameuiCheckinReplacedChangedConflictAction ==
+Por favor, deshaga el reemplazo (revert), descargue la ultima version y reemplacela (revert) de nuevo.
+
+== GameuiCheckinReplacedMissingConflictAction ==
+Por favor, deshaga el reemplazo (revert).
+
+== GameuiCheckinReplacedMissingConflictDescription ==
+El item '{0}' no se puede reemplazar (revert) porque ya no esta cargado en el servidor.
+
+== GameuiOutOfDateUnresolvedXlink ==
+El xlink '{0}' no pudo resolverse. Los items debajo de un xlink no resuelto no pueden actualizarse.
+
+== ItemAlreadyChanged ==
+El item no se actualizara porque se encuentra cambiado (checked-out, cambiado, borrado o movido) en el workspace: '{0}'. Por favor, deshaga o confirme el cambio local y reintente la operacion.
+
+== ItemPathAlreadyUsedByChange ==
+El item no sera descargado/movido porque hay un cambio local en '{0}'. Por favor, deshaga el cambio local, desmarque el item (desde la vista de configuracion) y reintente la operacion.
+
+== MoveItemAlreadyChanged ==
+El item no sera movido porque se encuentra cambiado (checked-out, cambiado, borrado o movido) en el workspace: '{0}'. Por favor, deshaga o confirme el cambio local y reintente la operacion.
+
+== MoveNotApplicable ==
+El item no puede ser movido a '{0}'. Posiblemente, el path ya esta en uso. Por favor, descargue el item del workspace y reintente la operacion.
+
+== UnloadItemAlreadyChanged ==
+El item no sera borrado porque se encuentra cambiado (checked-out, cambiado, borrado o movido) en el workspace: '{0}'. Por favor, deshaga o confirme el cambio local y reintente la operacion.
