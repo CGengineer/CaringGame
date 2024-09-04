@@ -1,22 +1,32 @@
+リモート環境構築
 
-①git windows をインストール
-②git bash が入ったら。任意のフォルダを作り、右クリック、git bashを選択。
-③git init コマンドでgitのローカルリポジトリを作る。
-④git remote add origin https://<トークン>github.com/CGengineer/NovelGame.git
+「git for windows」をインストール
+gitが入ったら。任意のフォルダを作り、右クリック、git bashを開く。
+git init コマンドでgitのローカルリポジトリを作る。
+git remote add origin　<URLプラストークン>　→例 https://<トークン>@github.com/CGengineer/NovelGame.git
+git pull origin master
+git config --local core.autocrlf false
+git config --global core.autocrlf false
+git config --global core.safecrlf false
 
-⑤フォルダに何かしらの変更分を用意する。例えば、txtのﾌｧｲﾙを作成する。
-⑥git add .
-⑦git commit -m "コメントなんでも"
-⑧git push origin master （masterは右上のブランチ名）
-⑨トークンで入場
+初めて環境構築する場合
+.gitattributesを作成
+
+変更する場合
+git pull origin master ←確認
+git chedckout -b <好きなブランチ名>
+git add .
+git commit -m "コメント"
+git push origin master （masterは右上のブランチ名）
+トークンで入場させられる場合もある。
 
 何をするか。対策方法
-①git hubのアカウントを作成しているかどうか。
-②gitのメールアドレスとユーザー名の設定をしているかどうか。
-③gitのコラボレーターの権限をつかしているかどうか。
-④リポジトリの作成者に、トークンを生成してもらっているかどうか
-⑤git remote add origin サーバー名にしているかどうか
-⑥コラボレーターに追加した場合、アカウントのメールから認証をしてもらう。
+githubのアカウントを作成
+gitのメールアドレスとユーザー名の設定をしているかどうか。
+gitのコラボレーターの権限をつかしているかどうか。
+リポジトリの作成者に、トークンを生成してもらっているかどうか
+git remote add origin サーバー名にしているかどうか
+コラボレーターに追加した場合、アカウントのメールから認証をしてもらう。
 
 効率化
 ブランチをmergeしたら削除できるようにする。
@@ -29,14 +39,9 @@ git branch | xargs git branch -D
 変更履歴が違ってプルリクエストが出せない場合
 メインブランチに戻って
 git pull origin master --allow-unrelated-histories
-a
-ijyoua
-tooookn
-ghp_m3psJeOH0Bd
-zfwdYksFlACYYMIFSWM1ae9AW
 
+
+ghp_1s5u0whMfF0BvlA
+HP72ENYNQM7OgOx3pF8cu
 画像を圧縮する場合
 https://imguma.com/
-
-文字コードをIFに一括返還する場合
-FCChecker.1.2.0
